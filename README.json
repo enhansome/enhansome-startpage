@@ -72,7 +72,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-09T12:21:40Z",
+            "last_commit": "2026-08-13T10:00:41Z",
             "owner": "yashchaudhari008",
             "repo": "minime",
             "stars": 35
@@ -126,10 +126,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T00:36:15Z",
+            "last_commit": "2026-08-13T12:24:12Z",
             "owner": "gethomepage",
             "repo": "homepage",
-            "stars": 31976
+            "stars": 31977
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2026-08-11T06:50:57Z",
             "owner": "lissy93",
             "repo": "dashy",
-            "stars": 26170
+            "stars": 26175
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-06-25T12:30:10Z",
             "owner": "pawelmalak",
             "repo": "flame",
-            "stars": 6510
+            "stars": 6511
           }
         },
         {
@@ -454,7 +454,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T22:22:51Z",
+            "last_commit": "2026-08-13T06:41:26Z",
             "owner": "toboshii",
             "repo": "hajimari",
             "stars": 822
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:25:16.705Z",
+    "last_updated": "2026-08-13T16:08:26.620Z",
     "original_repository": "jnmcfly/awesome-startpage",
     "original_repository_sha": "c40db67eb2c95edc229175719e89ef71f51250b3",
     "enhanced_repository": "enhansome/enhansome-startpage",
