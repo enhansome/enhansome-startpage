@@ -19,7 +19,7 @@
             "last_commit": "2024-04-17T17:07:53Z",
             "owner": "kholmogorov27",
             "repo": "chevron",
-            "stars": 397
+            "stars": 398
           }
         },
         {
@@ -126,10 +126,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T12:24:12Z",
+            "last_commit": "2026-08-14T12:22:47Z",
             "owner": "gethomepage",
             "repo": "homepage",
-            "stars": 31977
+            "stars": 31996
           }
         },
         {
@@ -140,10 +140,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-08-11T06:50:57Z",
+            "last_commit": "2026-08-14T09:14:55Z",
             "owner": "lissy93",
             "repo": "dashy",
-            "stars": 26175
+            "stars": 26186
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-08-12T17:05:52Z",
             "owner": "linuxserver",
             "repo": "Heimdall",
-            "stars": 9299
+            "stars": 9297
           }
         },
         {
@@ -185,7 +185,7 @@
             "last_commit": "2026-05-19T23:24:29Z",
             "owner": "causefx",
             "repo": "Organizr",
-            "stars": 5807
+            "stars": 5808
           }
         },
         {
@@ -454,7 +454,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T06:41:26Z",
+            "last_commit": "2026-08-13T21:22:27Z",
             "owner": "toboshii",
             "repo": "hajimari",
             "stars": 822
@@ -513,7 +513,7 @@
             "last_commit": "2024-04-20T18:03:13Z",
             "owner": "ozencb",
             "repo": "tilde-enhanced",
-            "stars": 339
+            "stars": 340
           }
         },
         {
@@ -819,7 +819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T16:08:26.620Z",
+    "last_updated": "2026-08-14T16:04:56.270Z",
     "original_repository": "jnmcfly/awesome-startpage",
     "original_repository_sha": "c40db67eb2c95edc229175719e89ef71f51250b3",
     "enhanced_repository": "enhansome/enhansome-startpage",
