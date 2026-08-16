@@ -47,7 +47,7 @@
             "last_commit": "2026-08-14T21:10:02Z",
             "owner": "PrettyCoffee",
             "repo": "yet-another-generic-startpage",
-            "stars": 317
+            "stars": 318
           }
         },
         {
@@ -108,7 +108,7 @@
                 "last_commit": "2026-08-15T14:18:13Z",
                 "owner": "pivoshenko",
                 "repo": "catppuccin-startpage",
-                "stars": 305
+                "stars": 304
               }
             }
           ]
@@ -127,10 +127,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T12:09:49Z",
+            "last_commit": "2026-08-16T14:21:51Z",
             "owner": "gethomepage",
             "repo": "homepage",
-            "stars": 32021
+            "stars": 32052
           }
         },
         {
@@ -141,10 +141,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-08-15T13:48:53Z",
+            "last_commit": "2026-08-16T10:31:41Z",
             "owner": "lissy93",
             "repo": "dashy",
-            "stars": 26196
+            "stars": 26206
           }
         },
         {
@@ -158,7 +158,7 @@
             "last_commit": "2026-08-12T17:05:52Z",
             "owner": "linuxserver",
             "repo": "Heimdall",
-            "stars": 9299
+            "stars": 9301
           }
         },
         {
@@ -349,7 +349,7 @@
           "description": "A minimal startpage made in React.js with customizable bookmarks.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "language": "TypeScript",
             "last_commit": "2021-12-02T02:49:44Z",
             "owner": "galax028",
@@ -798,7 +798,7 @@
             "last_commit": "2023-02-20T04:08:50Z",
             "owner": "deepjyoti30",
             "repo": "startpage",
-            "stars": 668
+            "stars": 667
           }
         },
         {
@@ -820,7 +820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T15:33:57.774Z",
+    "last_updated": "2026-08-16T15:34:40.404Z",
     "original_repository": "jnmcfly/awesome-startpage",
     "original_repository_sha": "71878c224a41ccab823cde507d999c74bf6a666e",
     "enhanced_repository": "enhansome/enhansome-startpage",

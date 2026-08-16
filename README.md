@@ -24,11 +24,11 @@
 
 * [Chevron](https://github.com/kholmogorov27/chevron) ⭐ 398 | 🐛 8 | 🌐 JavaScript | 📅 2024-04-17 - Chevron is an animated, minimalistic and highly customisable startpage. Available in Static, Hosted and Github Pages options.
 * [Prismatic-Night](https://github.com/dbuxy218/Prismatic-Night) ⚠️ Archived - Pretty sophisticated startpage, hosted on GitHub Pages.
-* [Yet another generic startpage](https://github.com/PrettyCoffee/yet-another-generic-startpage) ⭐ 317 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-14 - Classic startpage layout. Extensive customizability.
+* [Yet another generic startpage](https://github.com/PrettyCoffee/yet-another-generic-startpage) ⭐ 318 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-14 - Classic startpage layout. Extensive customizability.
 * [Minime](https://github.com/yashchaudhari008/minime) ⭐ 35 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-13 - Minimalistic homepage with tabular bookmarks.
 * [Hexstart](https://github.com/ArmoredVortex/Hexstart) ⭐ 29 | 🐛 0 | 🌐 HTML | 📅 2026-01-18 - Highly customisable minimal startpage with hexagonal tiles, hosted on Github Pages.
 * [GTA-SA Menu Startpage](https://github.com/wjkba/gta-sa-menu-startpage) ⭐ 22 | 🐛 0 | 🌐 TypeScript | 📅 2025-07-21 - Start page that looks like the iconic GTA San Andreas menu.
-* * [Catppuccin Startpage](https://github.com/pivoshenko/catppuccin-startpage) ⭐ 305 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15 - Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages.
+* * [Catppuccin Startpage](https://github.com/pivoshenko/catppuccin-startpage) ⭐ 304 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-15 - Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages.
 
 ### Cloudflare Pages
 
@@ -36,9 +36,9 @@
 
 ### Hosted
 
-* [Homepage](https://github.com/gethomepage/homepage) ⭐ 32,021 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-15 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
-* [Dashy](https://github.com/Lissy93/dashy) ⭐ 26,196 | 🐛 32 | 🌐 Vue | 📅 2026-08-15 - Feature-rich, self-hosted start page for your browser or homelab.
-* [Heimdall](https://github.com/linuxserver/Heimdall) ⭐ 9,299 | 🐛 1 | 🌐 PHP | 📅 2026-08-12 - Server-service based application orientated dashboard.
+* [Homepage](https://github.com/gethomepage/homepage) ⭐ 32,052 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-16 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
+* [Dashy](https://github.com/Lissy93/dashy) ⭐ 26,206 | 🐛 32 | 🌐 Vue | 📅 2026-08-16 - Feature-rich, self-hosted start page for your browser or homelab.
+* [Heimdall](https://github.com/linuxserver/Heimdall) ⭐ 9,301 | 🐛 2 | 🌐 PHP | 📅 2026-08-12 - Server-service based application orientated dashboard.
 * [flame](https://github.com/pawelmalak/flame) ⭐ 6,513 | 🐛 173 | 🌐 TypeScript | 📅 2026-06-25 - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.
 * [Organizr](https://github.com/causefx/Organizr) ⭐ 5,808 | 🐛 33 | 🌐 PHP | 📅 2026-05-19 - Organizr allows you to setup "Tabs" that will be loaded all in one webpage.
 * [Bento](https://github.com/MiguelRAvila/Bento) ⭐ 2,199 | 🐛 24 | 🌐 JavaScript | 📅 2025-04-21 - Bento is an local/self-hosted tile-based clean startpage.
@@ -52,7 +52,7 @@
 * [root](https://github.com/imreyesjorge/root-startpage) ⭐ 283 | 🐛 2 | 🌐 JavaScript | 📅 2023-09-19 - Root is a start-page aimed to simplicity and elegance.
 * [pomme-page](https://github.com/kikiklang/pomme-page) ⭐ 218 | 🐛 0 | 🌐 JavaScript | 📅 2022-03-03 - Pretty cool startpage with colorful tiles.
 * [\_traichu](https://github.com/Tressley/_traichu) ⭐ 113 | 🐛 1 | 🌐 HTML | 📅 2023-06-26 - A simple, semantic start page built with HTML, CSS, and a mouse-sized bit of JavaScript.
-* [Galax's Startpage](https://github.com/Galax028/startpage) ⭐ 40 | 🐛 0 | 🌐 TypeScript | 📅 2021-12-02 - A minimal startpage made in React.js with customizable bookmarks.
+* [Galax's Startpage](https://github.com/Galax028/startpage) ⚠️ Archived - A minimal startpage made in React.js with customizable bookmarks.
 * [Tokyonight-Startpage](https://github.com/Terminal127/tokyonight-startpage) ⭐ 35 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-24 - A Hackable start-page in Tokyonight Color Scheme.
 * [Nordic Goose](https://github.com/PrettyCoffee/nordic-goose) ⭐ 25 | 🐛 1 | 🌐 TypeScript | 📅 2023-04-13 - Nordic goose is a new tab extension (aka startpage) with nord colors and a dancing goose.
 * [Dawn](https://github.com/TheMY3/dawn-startpage) ⭐ 21 | 🐛 0 | 🌐 JavaScript | 📅 2025-03-17 - Clean Nord-themed startpage with hotkey support, dynamic configuration, and Chrome extension compatibility.
@@ -92,7 +92,7 @@
 ### Chrome Add-Ons
 
 * [mue](https://github.com/mue/mue) ⭐ 754 | 🐛 26 | 🌐 JavaScript | 📅 2026-08-03 - Fast, open and free-to-use new tab page for modern browsers.
-* [deepjyoti30's Startpage](https://github.com/deepjyoti30/startpage) ⭐ 668 | 🐛 10 | 🌐 JavaScript | 📅 2023-02-20 - A minimal starpage for Chrome and Firefox.
+* [deepjyoti30's Startpage](https://github.com/deepjyoti30/startpage) ⭐ 667 | 🐛 10 | 🌐 JavaScript | 📅 2023-02-20 - A minimal starpage for Chrome and Firefox.
 * [Sourcetab](https://github.com/sourcetab/sourcetab) ⚠️ Archived - An open-source dashboard for your browser's new tab page, customizable with a variety of widgets and settings. Available on [Chrome](https://chrome.google.com/webstore/detail/sourcetab/akomlegpokabommpdjfmhnbdcnaefmdo), [Edge](https://microsoftedge.microsoft.com/addons/detail/sourcetab/fpknfiaimmgbbpplehjclidiphmhljeh), and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sourcetab/).
 * [Bonjourr](https://chrome.google.com/webstore/detail/bonjourr/dlnejlppicbjfcfcedcflplfjajinajd) - iOS and open source styled StartPage. Also available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bonjourr-startpage/)
 * [Casca New Tab](https://casca.space/) - A robust and customizable startpage based on Apple's design language. Also available for firefox.
@@ -119,4 +119,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
