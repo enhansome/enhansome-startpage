@@ -127,10 +127,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T14:21:51Z",
+            "last_commit": "2026-08-18T15:44:47Z",
             "owner": "gethomepage",
             "repo": "homepage",
-            "stars": 32052
+            "stars": 32089
           }
         },
         {
@@ -144,7 +144,7 @@
             "last_commit": "2026-08-16T10:31:41Z",
             "owner": "lissy93",
             "repo": "dashy",
-            "stars": 26206
+            "stars": 26226
           }
         },
         {
@@ -158,7 +158,7 @@
             "last_commit": "2026-08-12T17:05:52Z",
             "owner": "linuxserver",
             "repo": "Heimdall",
-            "stars": 9301
+            "stars": 9303
           }
         },
         {
@@ -172,7 +172,7 @@
             "last_commit": "2026-06-25T12:30:10Z",
             "owner": "pawelmalak",
             "repo": "flame",
-            "stars": 6513
+            "stars": 6516
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-05-19T23:24:29Z",
             "owner": "causefx",
             "repo": "Organizr",
-            "stars": 5808
+            "stars": 5809
           }
         },
         {
@@ -200,7 +200,7 @@
             "last_commit": "2025-04-21T04:06:24Z",
             "owner": "migueravila",
             "repo": "bento",
-            "stars": 2199
+            "stars": 2201
           }
         },
         {
@@ -256,7 +256,7 @@
             "last_commit": "2026-08-10T11:51:55Z",
             "owner": "timh-dev",
             "repo": "startup-page",
-            "stars": 523
+            "stars": 524
           }
         },
         {
@@ -284,7 +284,7 @@
             "last_commit": "2026-08-14T22:57:36Z",
             "owner": "PrettyCoffee",
             "repo": "fluidity",
-            "stars": 357
+            "stars": 358
           }
         },
         {
@@ -458,7 +458,7 @@
             "last_commit": "2026-08-13T21:22:27Z",
             "owner": "toboshii",
             "repo": "hajimari",
-            "stars": 822
+            "stars": 823
           }
         },
         {
@@ -486,7 +486,7 @@
             "last_commit": "2026-08-10T11:51:55Z",
             "owner": "timh-dev",
             "repo": "startup-page",
-            "stars": 523
+            "stars": 524
           }
         },
         {
@@ -500,7 +500,7 @@
             "last_commit": "2026-04-10T21:07:35Z",
             "owner": "refact0r",
             "repo": "re-start",
-            "stars": 436
+            "stars": 438
           }
         },
         {
@@ -784,7 +784,7 @@
             "last_commit": "2026-08-03T08:43:03Z",
             "owner": "mue",
             "repo": "mue",
-            "stars": 754
+            "stars": 756
           }
         },
         {
@@ -820,7 +820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:34:40.404Z",
+    "last_updated": "2026-08-18T15:44:49.327Z",
     "original_repository": "jnmcfly/awesome-startpage",
     "original_repository_sha": "71878c224a41ccab823cde507d999c74bf6a666e",
     "enhanced_repository": "enhansome/enhansome-startpage",
