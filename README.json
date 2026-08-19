@@ -1,827 +1,883 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Projects"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Chevron",
-          "description": "Chevron is an animated, minimalistic and highly customisable startpage. Available in Static, Hosted and Github Pages options.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-04-17T17:07:53Z",
-            "owner": "kholmogorov27",
-            "repo": "chevron",
-            "stars": 398
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Prismatic-Night",
-          "description": "Pretty sophisticated startpage, hosted on GitHub Pages.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "CSS",
-            "last_commit": "2021-03-24T11:53:07Z",
-            "owner": "3r3bu5x9",
-            "repo": "Prismatic-Night",
-            "stars": 348
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Yet another generic startpage",
-          "description": "Classic startpage layout. Extensive customizability.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T21:10:02Z",
-            "owner": "PrettyCoffee",
-            "repo": "yet-another-generic-startpage",
-            "stars": 318
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Minime",
-          "description": "Minimalistic homepage with tabular bookmarks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-13T10:00:41Z",
-            "owner": "yashchaudhari008",
-            "repo": "minime",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hexstart",
-          "description": "Highly customisable minimal startpage with hexagonal tiles, hosted on Github Pages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-01-18T07:05:06Z",
-            "owner": "armoredvortex",
-            "repo": "Hexstart",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GTA-SA Menu Startpage",
-          "description": "Start page that looks like the iconic GTA San Andreas menu.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-07-21T11:54:31Z",
-            "owner": "wjkba",
-            "repo": "gta-sa-menu-startpage",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "Catppuccin Startpage",
-              "description": "Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages.",
+              "title": "Chevron",
+              "description": "Chevron is an animated, minimalistic and highly customisable startpage. Available in Static, Hosted and Github Pages options.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 609351630,
                 "language": "JavaScript",
-                "last_commit": "2026-08-15T14:18:13Z",
-                "owner": "pivoshenko",
-                "repo": "catppuccin-startpage",
-                "stars": 304
+                "last_commit": "2024-04-17T17:07:53Z",
+                "owner": "kholmogorov27",
+                "repo": "chevron",
+                "stars": 398
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prismatic-Night",
+              "description": "Pretty sophisticated startpage, hosted on GitHub Pages.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 259033316,
+                "language": "CSS",
+                "last_commit": "2021-03-24T11:53:07Z",
+                "owner": "3r3bu5x9",
+                "repo": "Prismatic-Night",
+                "stars": 348
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Yet another generic startpage",
+              "description": "Classic startpage layout. Extensive customizability.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 442512423,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T21:10:02Z",
+                "owner": "PrettyCoffee",
+                "repo": "yet-another-generic-startpage",
+                "stars": 318
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Minime",
+              "description": "Minimalistic homepage with tabular bookmarks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 658059448,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T10:00:41Z",
+                "owner": "yashchaudhari008",
+                "repo": "minime",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hexstart",
+              "description": "Highly customisable minimal startpage with hexagonal tiles, hosted on Github Pages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 605927644,
+                "language": "HTML",
+                "last_commit": "2026-01-18T07:05:06Z",
+                "owner": "armoredvortex",
+                "repo": "Hexstart",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GTA-SA Menu Startpage",
+              "description": "Start page that looks like the iconic GTA San Andreas menu.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 843147330,
+                "language": "TypeScript",
+                "last_commit": "2025-07-21T11:54:31Z",
+                "owner": "wjkba",
+                "repo": "gta-sa-menu-startpage",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Catppuccin Startpage",
+                  "description": "Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 689740171,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-15T14:18:13Z",
+                    "owner": "pivoshenko",
+                    "repo": "catppuccin-startpage",
+                    "stars": 304
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GitHub Pages"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Homepage",
+              "description": "A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 528313152,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T01:39:51Z",
+                "owner": "gethomepage",
+                "repo": "homepage",
+                "stars": 32094
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dashy",
+              "description": "Feature-rich, self-hosted start page for your browser or homelab.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 343078060,
+                "language": "Vue",
+                "last_commit": "2026-08-16T10:31:41Z",
+                "owner": "lissy93",
+                "repo": "dashy",
+                "stars": 26235
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Heimdall",
+              "description": "Server-service based application orientated dashboard.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119047018,
+                "language": "PHP",
+                "last_commit": "2026-08-12T17:05:52Z",
+                "owner": "linuxserver",
+                "repo": "Heimdall",
+                "stars": 9301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flame",
+              "description": "Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 365565715,
+                "language": "TypeScript",
+                "last_commit": "2026-06-25T12:30:10Z",
+                "owner": "pawelmalak",
+                "repo": "flame",
+                "stars": 6516
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Organizr",
+              "description": "Organizr allows you to setup \"Tabs\" that will be loaded all in one webpage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77574863,
+                "language": "PHP",
+                "last_commit": "2026-05-19T23:24:29Z",
+                "owner": "causefx",
+                "repo": "Organizr",
+                "stars": 5809
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bento",
+              "description": "Bento is an local/self-hosted tile-based clean startpage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287464616,
+                "language": "JavaScript",
+                "last_commit": "2025-04-21T04:06:24Z",
+                "owner": "migueravila",
+                "repo": "bento",
+                "stars": 2201
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mafl",
+              "description": "Minimalistic flexible homepage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 735151489,
+                "language": "TypeScript",
+                "last_commit": "2026-06-07T05:14:36Z",
+                "owner": "hywax",
+                "repo": "mafl",
+                "stars": 752
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Excalith Start Page",
+              "description": "A Terminal-inspired, clean, feature-rich and customizable start page for geeks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 596076338,
+                "language": "JavaScript",
+                "last_commit": "2025-04-05T16:09:22Z",
+                "owner": "excalith",
+                "repo": "excalith-start-page",
+                "stars": 747
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jump",
+              "description": "Self-hosted startpage designed to be simple, stylish, fast and secure.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 455481266,
+                "language": "PHP",
+                "last_commit": "2024-05-15T05:02:51Z",
+                "owner": "daledavies",
+                "repo": "jump",
+                "stars": 607
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Modular Grid Page",
+              "description": "Modular Grid Start Page for your Browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282710129,
+                "language": "TypeScript",
+                "last_commit": "2026-08-10T11:51:55Z",
+                "owner": "timh-dev",
+                "repo": "startup-page",
+                "stars": 524
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "startertab",
+              "description": "A custom new tab page, keeping all the best info handy.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 437751011,
+                "language": "TypeScript",
+                "last_commit": "2025-10-17T02:45:13Z",
+                "owner": "allister-grange",
+                "repo": "startertab",
+                "stars": 412
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fluidity",
+              "description": "Super smooth and stylish startpage. Tuned aesthetic.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 349154701,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T22:57:36Z",
+                "owner": "PrettyCoffee",
+                "repo": "fluidity",
+                "stars": 358
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tartarus",
+              "description": "Aesthetic and clean startpage with material gruvbox style, designed for smooth usage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 687460693,
+                "language": "JavaScript",
+                "last_commit": "2023-11-19T23:11:33Z",
+                "owner": "AllJavi",
+                "repo": "tartarus-startpage",
+                "stars": 321
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "root",
+              "description": "Root is a start-page aimed to simplicity and elegance.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 303023900,
+                "language": "JavaScript",
+                "last_commit": "2023-09-19T23:21:02Z",
+                "owner": "imreyesjorge",
+                "repo": "root-startpage",
+                "stars": 283
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pomme-page",
+              "description": "Pretty cool startpage with colorful tiles.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 338446557,
+                "language": "JavaScript",
+                "last_commit": "2022-03-03T00:07:14Z",
+                "owner": "kikiklang",
+                "repo": "pomme-page",
+                "stars": 218
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "_traichu",
+              "description": "A simple, semantic start page built with HTML, CSS, and a mouse-sized bit of JavaScript.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 555848823,
+                "language": "HTML",
+                "last_commit": "2023-06-26T13:57:11Z",
+                "owner": "Tressley",
+                "repo": "_traichu",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Galax's Startpage",
+              "description": "A minimal startpage made in React.js with customizable bookmarks.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 392174403,
+                "language": "TypeScript",
+                "last_commit": "2021-12-02T02:49:44Z",
+                "owner": "galax028",
+                "repo": "startpage",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tokyonight-Startpage",
+              "description": "A Hackable start-page in Tokyonight Color Scheme.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 872089374,
+                "language": "JavaScript",
+                "last_commit": "2024-10-24T14:46:59Z",
+                "owner": "Terminal127",
+                "repo": "tokyonight-startpage",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nordic Goose",
+              "description": "Nordic goose is a new tab extension (aka startpage) with nord colors and a dancing goose.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 531701682,
+                "language": "TypeScript",
+                "last_commit": "2023-04-13T22:16:04Z",
+                "owner": "PrettyCoffee",
+                "repo": "nordic-goose",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dawn",
+              "description": "Clean Nord-themed startpage with hotkey support, dynamic configuration, and Chrome extension compatibility.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 931553485,
+                "language": "JavaScript",
+                "last_commit": "2025-03-17T07:01:26Z",
+                "owner": "TheMY3",
+                "repo": "dawn-startpage",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Minimalist-Startpage",
+              "description": "Minimalist startpage with light/dark theme, also useful to change between searchers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 301897581,
+                "language": "CSS",
+                "last_commit": "2022-03-15T15:22:56Z",
+                "owner": "ropoko",
+                "repo": "Startpage",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MSP - Modern Start Page",
+              "description": "Modern, self-hosted startpage with bookmarks, search, widgets and theme customization. Built with Astro and React.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 961127668,
+                "language": "TypeScript",
+                "last_commit": "2026-04-04T22:14:26Z",
+                "owner": "ericblue",
+                "repo": "modern-start-page",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "startpage-zwei",
+              "description": "Startpage for your browser in Next.js using Typescript and Tailwind.css with Motion Animations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 359943409,
+                "language": "TypeScript",
+                "last_commit": "2023-10-27T16:22:18Z",
+                "owner": "Thomashighbaugh",
+                "repo": "startpage-zwei",
+                "stars": 13
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Hosted"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "hajimari",
+              "description": "Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 396123753,
+                "language": "Go",
+                "last_commit": "2026-08-13T21:22:27Z",
+                "owner": "toboshii",
+                "repo": "hajimari",
+                "stars": 823
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jaredk3nt's homepage",
+              "description": "Custom homepage for use locally in browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115354558,
+                "language": "HTML",
+                "last_commit": "2024-07-22T16:02:01Z",
+                "owner": "Jaredk3nt",
+                "repo": "homepage",
+                "stars": 539
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Modular Startpage",
+              "description": "Grid startpage with many different component panels.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282710129,
+                "language": "TypeScript",
+                "last_commit": "2026-08-10T11:51:55Z",
+                "owner": "timh-dev",
+                "repo": "startup-page",
+                "stars": 524
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "re-start",
+              "description": "A TUI-like startpage with weather, Todoist integration, and other features.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1015217575,
+                "language": "Svelte",
+                "last_commit": "2026-04-10T21:07:35Z",
+                "owner": "refact0r",
+                "repo": "re-start",
+                "stars": 438
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tilde Enhanced",
+              "description": "A minimal startpage for your browser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168052486,
+                "language": "JavaScript",
+                "last_commit": "2024-04-20T18:03:13Z",
+                "owner": "ozencb",
+                "repo": "tilde-enhanced",
+                "stars": 340
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "the-glorious-startpage",
+              "description": "A bloated and modern-looking startpage. Responsive, Weather, Dynamic Background and many more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 266786693,
+                "language": "JavaScript",
+                "last_commit": "2024-04-27T09:53:52Z",
+                "owner": "eromatiya",
+                "repo": "the-glorious-startpage",
+                "stars": 198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aesthetic-startpage",
+              "description": "Aesthetic-minimal startpage with pixel art, available in 4 color themes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 536063165,
+                "language": "CSS",
+                "last_commit": "2024-09-15T18:07:02Z",
+                "owner": "Nainish-Rai",
+                "repo": "aesthetic-startpage",
+                "stars": 197
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "grtcdr's startpages",
+              "description": "grtcdr's awesome collection of clean, good looking, startpages. Love the Nodric one!",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 284541779,
+                "language": "JavaScript",
+                "last_commit": "2022-05-16T17:34:57Z",
+                "owner": "grtcdr",
+                "repo": "startpages",
+                "stars": 186
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StartTree",
+              "description": "A terminal-style home page replicating the tree command, modified from this start page, which no longer exists.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 289776702,
+                "language": "CSS",
+                "last_commit": "2024-07-10T20:57:26Z",
+                "owner": "Paul-Houser",
+                "repo": "StartTree",
+                "stars": 186
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HomeTerm",
+              "description": "A homepage disguised as a toy terminal.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 278521043,
+                "language": "JavaScript",
+                "last_commit": "2020-12-09T15:17:36Z",
+                "owner": "Jaredk3nt",
+                "repo": "HomeTerm",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tea Green",
+              "description": "Startpage with Weather and To-Do List features.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 314574819,
+                "language": "CSS",
+                "last_commit": "2021-01-14T22:55:03Z",
+                "owner": "sadparadiseinhell",
+                "repo": "tea-green",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StartOS",
+              "description": "A different take on startpages. StartOS will bring you back the 90s.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 289440069,
+                "language": "JavaScript",
+                "last_commit": "2020-10-06T23:10:47Z",
+                "owner": "Jaredk3nt",
+                "repo": "StartOS",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "null",
+              "description": "Another one simple startpage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 321089476,
+                "language": "JavaScript",
+                "last_commit": "2021-03-11T21:36:45Z",
+                "owner": "sadparadiseinhell",
+                "repo": "null",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "startpage-onedark",
+              "description": "A minimal customizable startpage with the OneDark color palette.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 426727052,
+                "language": "JavaScript",
+                "last_commit": "2021-11-12T06:50:17Z",
+                "owner": "AbdelrhmanNile",
+                "repo": "startpage-onedark",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Minimal-StartPage",
+              "description": "Minimalistic light/darkish startpage",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 324250717,
+                "language": "CSS",
+                "last_commit": "2023-09-16T21:22:56Z",
+                "owner": "Nimplex",
+                "repo": "Minimal-StartPage",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "search",
+              "description": "Search offers you an tangle of nodes for your bookmarks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 295616180,
+                "language": "HTML",
+                "last_commit": "2020-10-30T03:50:36Z",
+                "owner": "l0bsters",
+                "repo": "search",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "b-w-kitty",
+              "description": "Very creative and customizable startpage, not only for catlovers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 277639435,
+                "language": "HTML",
+                "last_commit": "2022-10-08T08:12:14Z",
+                "owner": "PrettyCoffee",
+                "repo": "b-w-kitty",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chicago Startpage",
+              "description": "Clean startpage with moody video backgrounds.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 479135602,
+                "language": "HTML",
+                "last_commit": "2022-04-08T17:15:35Z",
+                "owner": "timh-dev",
+                "repo": "start-page-chicago",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dash-Startpage",
+              "description": "A minimal, monospaced browser startpage that integrate with Google Task. With a lot of preset color scheme",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1207965740,
+                "language": "JavaScript",
+                "last_commit": "2026-05-29T01:22:32Z",
+                "owner": "its0din-ai",
+                "repo": "dash-startpage",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "static-dashboard",
+              "description": "A static bookmark dashboard generator that builds a single HTML startpage from a YAML file.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1182615956,
+                "language": "Python",
+                "last_commit": "2026-03-18T16:34:31Z",
+                "owner": "mina-ai-assistant",
+                "repo": "static-dashboard",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Static"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "startpage",
+              "description": "Minimalist local startpage with an tidy folder-like view.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 281455080,
+                "language": "CSS",
+                "last_commit": "2025-02-10T02:25:35Z",
+                "owner": "rjshkhr",
+                "repo": "startpage",
+                "stars": 124
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "min-nord-firefox",
+              "description": "A minimalist startpage for Firefox with the Nord color pallette.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254446940,
+                "language": "CSS",
+                "last_commit": "2021-09-30T02:24:21Z",
+                "owner": "not-a-dev-stein",
+                "repo": "min-nord-firefox",
+                "stars": 71
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Firefox-Specific"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mue",
+              "description": "Fast, open and free-to-use new tab page for modern browsers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144043235,
+                "language": "JavaScript",
+                "last_commit": "2026-08-03T08:43:03Z",
+                "owner": "mue",
+                "repo": "mue",
+                "stars": 756
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "deepjyoti30's Startpage",
+              "description": "A minimal starpage for Chrome and Firefox.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263380420,
+                "language": "JavaScript",
+                "last_commit": "2023-02-20T04:08:50Z",
+                "owner": "deepjyoti30",
+                "repo": "startpage",
+                "stars": 667
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sourcetab",
+              "description": "An open-source dashboard for your browser's new tab page, customizable with a variety of widgets and settings. Available on Chrome, Edge, and Firefox.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 290041189,
+                "language": "TypeScript",
+                "last_commit": "2025-08-11T01:55:21Z",
+                "owner": "sourcetab",
+                "repo": "sourcetab-archive",
+                "stars": 44
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Chrome Add-Ons"
         }
       ],
-      "title": "GitHub Pages"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Homepage",
-          "description": "A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T15:44:47Z",
-            "owner": "gethomepage",
-            "repo": "homepage",
-            "stars": 32089
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dashy",
-          "description": "Feature-rich, self-hosted start page for your browser or homelab.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-08-16T10:31:41Z",
-            "owner": "lissy93",
-            "repo": "dashy",
-            "stars": 26226
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Heimdall",
-          "description": "Server-service based application orientated dashboard.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-12T17:05:52Z",
-            "owner": "linuxserver",
-            "repo": "Heimdall",
-            "stars": 9303
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "flame",
-          "description": "Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-25T12:30:10Z",
-            "owner": "pawelmalak",
-            "repo": "flame",
-            "stars": 6516
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Organizr",
-          "description": "Organizr allows you to setup \"Tabs\" that will be loaded all in one webpage.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-05-19T23:24:29Z",
-            "owner": "causefx",
-            "repo": "Organizr",
-            "stars": 5809
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bento",
-          "description": "Bento is an local/self-hosted tile-based clean startpage.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-04-21T04:06:24Z",
-            "owner": "migueravila",
-            "repo": "bento",
-            "stars": 2201
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mafl",
-          "description": "Minimalistic flexible homepage.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-07T05:14:36Z",
-            "owner": "hywax",
-            "repo": "mafl",
-            "stars": 752
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Excalith Start Page",
-          "description": "A Terminal-inspired, clean, feature-rich and customizable start page for geeks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-04-05T16:09:22Z",
-            "owner": "excalith",
-            "repo": "excalith-start-page",
-            "stars": 747
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Jump",
-          "description": "Self-hosted startpage designed to be simple, stylish, fast and secure.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-05-15T05:02:51Z",
-            "owner": "daledavies",
-            "repo": "jump",
-            "stars": 607
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Modular Grid Page",
-          "description": "Modular Grid Start Page for your Browser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-10T11:51:55Z",
-            "owner": "timh-dev",
-            "repo": "startup-page",
-            "stars": 524
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "startertab",
-          "description": "A custom new tab page, keeping all the best info handy.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-10-17T02:45:13Z",
-            "owner": "allister-grange",
-            "repo": "startertab",
-            "stars": 412
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fluidity",
-          "description": "Super smooth and stylish startpage. Tuned aesthetic.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T22:57:36Z",
-            "owner": "PrettyCoffee",
-            "repo": "fluidity",
-            "stars": 358
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tartarus",
-          "description": "Aesthetic and clean startpage with material gruvbox style, designed for smooth usage.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-11-19T23:11:33Z",
-            "owner": "AllJavi",
-            "repo": "tartarus-startpage",
-            "stars": 321
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "root",
-          "description": "Root is a start-page aimed to simplicity and elegance.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-09-19T23:21:02Z",
-            "owner": "imreyesjorge",
-            "repo": "root-startpage",
-            "stars": 283
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pomme-page",
-          "description": "Pretty cool startpage with colorful tiles.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-03-03T00:07:14Z",
-            "owner": "kikiklang",
-            "repo": "pomme-page",
-            "stars": 218
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "_traichu",
-          "description": "A simple, semantic start page built with HTML, CSS, and a mouse-sized bit of JavaScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2023-06-26T13:57:11Z",
-            "owner": "Tressley",
-            "repo": "_traichu",
-            "stars": 113
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Galax's Startpage",
-          "description": "A minimal startpage made in React.js with customizable bookmarks.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2021-12-02T02:49:44Z",
-            "owner": "galax028",
-            "repo": "startpage",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tokyonight-Startpage",
-          "description": "A Hackable start-page in Tokyonight Color Scheme.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-10-24T14:46:59Z",
-            "owner": "Terminal127",
-            "repo": "tokyonight-startpage",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nordic Goose",
-          "description": "Nordic goose is a new tab extension (aka startpage) with nord colors and a dancing goose.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-04-13T22:16:04Z",
-            "owner": "PrettyCoffee",
-            "repo": "nordic-goose",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dawn",
-          "description": "Clean Nord-themed startpage with hotkey support, dynamic configuration, and Chrome extension compatibility.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-03-17T07:01:26Z",
-            "owner": "TheMY3",
-            "repo": "dawn-startpage",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Minimalist-Startpage",
-          "description": "Minimalist startpage with light/dark theme, also useful to change between searchers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2022-03-15T15:22:56Z",
-            "owner": "ropoko",
-            "repo": "Startpage",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MSP - Modern Start Page",
-          "description": "Modern, self-hosted startpage with bookmarks, search, widgets and theme customization. Built with Astro and React.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-04T22:14:26Z",
-            "owner": "ericblue",
-            "repo": "modern-start-page",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "startpage-zwei",
-          "description": "Startpage for your browser in Next.js using Typescript and Tailwind.css with Motion Animations",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-10-27T16:22:18Z",
-            "owner": "Thomashighbaugh",
-            "repo": "startpage-zwei",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "Hosted"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "hajimari",
-          "description": "Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-13T21:22:27Z",
-            "owner": "toboshii",
-            "repo": "hajimari",
-            "stars": 823
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Jaredk3nt's homepage",
-          "description": "Custom homepage for use locally in browser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-07-22T16:02:01Z",
-            "owner": "Jaredk3nt",
-            "repo": "homepage",
-            "stars": 539
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Modular Startpage",
-          "description": "Grid startpage with many different component panels.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-10T11:51:55Z",
-            "owner": "timh-dev",
-            "repo": "startup-page",
-            "stars": 524
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "re-start",
-          "description": "A TUI-like startpage with weather, Todoist integration, and other features.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Svelte",
-            "last_commit": "2026-04-10T21:07:35Z",
-            "owner": "refact0r",
-            "repo": "re-start",
-            "stars": 438
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tilde Enhanced",
-          "description": "A minimal startpage for your browser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-04-20T18:03:13Z",
-            "owner": "ozencb",
-            "repo": "tilde-enhanced",
-            "stars": 340
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "the-glorious-startpage",
-          "description": "A bloated and modern-looking startpage. Responsive, Weather, Dynamic Background and many more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-04-27T09:53:52Z",
-            "owner": "eromatiya",
-            "repo": "the-glorious-startpage",
-            "stars": 198
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aesthetic-startpage",
-          "description": "Aesthetic-minimal startpage with pixel art, available in 4 color themes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2024-09-15T18:07:02Z",
-            "owner": "Nainish-Rai",
-            "repo": "aesthetic-startpage",
-            "stars": 197
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "grtcdr's startpages",
-          "description": "grtcdr's awesome collection of clean, good looking, startpages. Love the Nodric one!",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2022-05-16T17:34:57Z",
-            "owner": "grtcdr",
-            "repo": "startpages",
-            "stars": 186
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "StartTree",
-          "description": "A terminal-style home page replicating the tree command, modified from this start page, which no longer exists.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2024-07-10T20:57:26Z",
-            "owner": "Paul-Houser",
-            "repo": "StartTree",
-            "stars": 186
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HomeTerm",
-          "description": "A homepage disguised as a toy terminal.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-12-09T15:17:36Z",
-            "owner": "Jaredk3nt",
-            "repo": "HomeTerm",
-            "stars": 163
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tea Green",
-          "description": "Startpage with Weather and To-Do List features.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2021-01-14T22:55:03Z",
-            "owner": "sadparadiseinhell",
-            "repo": "tea-green",
-            "stars": 81
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "StartOS",
-          "description": "A different take on startpages. StartOS will bring you back the 90s.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-10-06T23:10:47Z",
-            "owner": "Jaredk3nt",
-            "repo": "StartOS",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "null",
-          "description": "Another one simple startpage.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-03-11T21:36:45Z",
-            "owner": "sadparadiseinhell",
-            "repo": "null",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "startpage-onedark",
-          "description": "A minimal customizable startpage with the OneDark color palette.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-11-12T06:50:17Z",
-            "owner": "AbdelrhmanNile",
-            "repo": "startpage-onedark",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Minimal-StartPage",
-          "description": "Minimalistic light/darkish startpage",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2023-09-16T21:22:56Z",
-            "owner": "Nimplex",
-            "repo": "Minimal-StartPage",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "search",
-          "description": "Search offers you an tangle of nodes for your bookmarks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2020-10-30T03:50:36Z",
-            "owner": "l0bsters",
-            "repo": "search",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "b-w-kitty",
-          "description": "Very creative and customizable startpage, not only for catlovers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2022-10-08T08:12:14Z",
-            "owner": "PrettyCoffee",
-            "repo": "b-w-kitty",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Chicago Startpage",
-          "description": "Clean startpage with moody video backgrounds.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2022-04-08T17:15:35Z",
-            "owner": "timh-dev",
-            "repo": "start-page-chicago",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dash-Startpage",
-          "description": "A minimal, monospaced browser startpage that integrate with Google Task. With a lot of preset color scheme",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-29T01:22:32Z",
-            "owner": "its0din-ai",
-            "repo": "dash-startpage",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "static-dashboard",
-          "description": "A static bookmark dashboard generator that builds a single HTML startpage from a YAML file.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-18T16:34:31Z",
-            "owner": "mina-ai-assistant",
-            "repo": "static-dashboard",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HeavyRain266's Startpage",
-          "description": "Yet another minimal startpage",
-          "children": []
-        }
-      ],
-      "title": "Static"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "startpage",
-          "description": "Minimalist local startpage with an tidy folder-like view.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2025-02-10T02:25:35Z",
-            "owner": "rjshkhr",
-            "repo": "startpage",
-            "stars": 124
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "min-nord-firefox",
-          "description": "A minimalist startpage for Firefox with the Nord color pallette.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2021-09-30T02:24:21Z",
-            "owner": "not-a-dev-stein",
-            "repo": "min-nord-firefox",
-            "stars": 71
-          }
-        }
-      ],
-      "title": "Firefox-Specific"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "mue",
-          "description": "Fast, open and free-to-use new tab page for modern browsers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-03T08:43:03Z",
-            "owner": "mue",
-            "repo": "mue",
-            "stars": 756
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "deepjyoti30's Startpage",
-          "description": "A minimal starpage for Chrome and Firefox.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-02-20T04:08:50Z",
-            "owner": "deepjyoti30",
-            "repo": "startpage",
-            "stars": 667
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sourcetab",
-          "description": "An open-source dashboard for your browser's new tab page, customizable with a variety of widgets and settings. Available on Chrome, Edge, and Firefox.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2025-08-11T01:55:21Z",
-            "owner": "sourcetab",
-            "repo": "sourcetab-archive",
-            "stars": 44
-          }
-        }
-      ],
-      "title": "Chrome Add-Ons"
+      "title": "Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:44:49.327Z",
+    "last_updated": "2026-08-19T12:52:25.894Z",
     "original_repository": "jnmcfly/awesome-startpage",
+    "original_repository_id": 298757796,
     "original_repository_sha": "71878c224a41ccab823cde507d999c74bf6a666e",
     "enhanced_repository": "enhansome/enhansome-startpage",
     "enhanced_repository_description": null,
