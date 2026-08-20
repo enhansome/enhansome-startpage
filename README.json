@@ -133,10 +133,10 @@
                 "archived": false,
                 "id": 528313152,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T12:57:54Z",
+                "last_commit": "2026-08-20T12:59:59Z",
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32100
+                "stars": 32126
               }
             },
             {
@@ -148,10 +148,10 @@
                 "archived": false,
                 "id": 343078060,
                 "language": "Vue",
-                "last_commit": "2026-08-16T10:31:41Z",
+                "last_commit": "2026-08-20T13:34:35Z",
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26237
+                "stars": 26243
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-08-12T17:05:52Z",
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9302
+                "stars": 9303
               }
             },
             {
@@ -211,7 +211,7 @@
                 "last_commit": "2025-04-21T04:06:24Z",
                 "owner": "migueravila",
                 "repo": "bento",
-                "stars": 2201
+                "stars": 2200
               }
             },
             {
@@ -241,7 +241,7 @@
                 "last_commit": "2025-04-05T16:09:22Z",
                 "owner": "excalith",
                 "repo": "excalith-start-page",
-                "stars": 747
+                "stars": 746
               }
             },
             {
@@ -301,7 +301,7 @@
                 "last_commit": "2026-08-14T22:57:36Z",
                 "owner": "PrettyCoffee",
                 "repo": "fluidity",
-                "stars": 358
+                "stars": 359
               }
             },
             {
@@ -485,7 +485,7 @@
                 "archived": false,
                 "id": 396123753,
                 "language": "Go",
-                "last_commit": "2026-08-13T21:22:27Z",
+                "last_commit": "2026-08-19T20:11:14Z",
                 "owner": "toboshii",
                 "repo": "hajimari",
                 "stars": 823
@@ -875,7 +875,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:44:32.383Z",
+    "last_updated": "2026-08-20T15:48:06.157Z",
     "original_repository": "jnmcfly/awesome-startpage",
     "original_repository_id": 298757796,
     "original_repository_sha": "71878c224a41ccab823cde507d999c74bf6a666e",
