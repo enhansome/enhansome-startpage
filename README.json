@@ -17,7 +17,7 @@
                 "last_commit": "2024-04-17T17:07:53Z",
                 "owner": "kholmogorov27",
                 "repo": "chevron",
-                "stars": 398
+                "stars": 400
               }
             },
             {
@@ -112,7 +112,7 @@
                     "last_commit": "2026-08-15T14:18:13Z",
                     "owner": "pivoshenko",
                     "repo": "catppuccin-startpage",
-                    "stars": 304
+                    "stars": 303
                   }
                 }
               ]
@@ -133,10 +133,10 @@
                 "archived": false,
                 "id": 528313152,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T12:59:59Z",
+                "last_commit": "2026-08-21T15:46:29Z",
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32126
+                "stars": 32158
               }
             },
             {
@@ -148,10 +148,10 @@
                 "archived": false,
                 "id": 343078060,
                 "language": "Vue",
-                "last_commit": "2026-08-20T13:34:35Z",
+                "last_commit": "2026-08-21T12:22:27Z",
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26243
+                "stars": 26248
               }
             },
             {
@@ -181,7 +181,7 @@
                 "last_commit": "2026-06-25T12:30:10Z",
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6516
+                "stars": 6518
               }
             },
             {
@@ -268,7 +268,7 @@
                 "archived": false,
                 "id": 282710129,
                 "language": "TypeScript",
-                "last_commit": "2026-08-10T11:51:55Z",
+                "last_commit": "2026-08-20T22:00:27Z",
                 "owner": "timh-dev",
                 "repo": "startup-page",
                 "stars": 524
@@ -331,7 +331,7 @@
                 "last_commit": "2023-09-19T23:21:02Z",
                 "owner": "imreyesjorge",
                 "repo": "root-startpage",
-                "stars": 283
+                "stars": 284
               }
             },
             {
@@ -485,7 +485,7 @@
                 "archived": false,
                 "id": 396123753,
                 "language": "Go",
-                "last_commit": "2026-08-19T20:11:14Z",
+                "last_commit": "2026-08-20T17:14:22Z",
                 "owner": "toboshii",
                 "repo": "hajimari",
                 "stars": 823
@@ -515,7 +515,7 @@
                 "archived": false,
                 "id": 282710129,
                 "language": "TypeScript",
-                "last_commit": "2026-08-10T11:51:55Z",
+                "last_commit": "2026-08-20T22:00:27Z",
                 "owner": "timh-dev",
                 "repo": "startup-page",
                 "stars": 524
@@ -875,7 +875,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:48:06.157Z",
+    "last_updated": "2026-08-21T15:46:58.086Z",
     "original_repository": "jnmcfly/awesome-startpage",
     "original_repository_id": 298757796,
     "original_repository_sha": "71878c224a41ccab823cde507d999c74bf6a666e",
