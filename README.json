@@ -133,10 +133,10 @@
                 "archived": false,
                 "id": 528313152,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T15:46:29Z",
+                "last_commit": "2026-08-22T12:10:05Z",
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32158
+                "stars": 32176
               }
             },
             {
@@ -151,7 +151,7 @@
                 "last_commit": "2026-08-21T12:22:27Z",
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26248
+                "stars": 26258
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-08-12T17:05:52Z",
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9303
+                "stars": 9304
               }
             },
             {
@@ -181,7 +181,7 @@
                 "last_commit": "2026-06-25T12:30:10Z",
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6518
+                "stars": 6521
               }
             },
             {
@@ -211,7 +211,7 @@
                 "last_commit": "2025-04-21T04:06:24Z",
                 "owner": "migueravila",
                 "repo": "bento",
-                "stars": 2200
+                "stars": 2201
               }
             },
             {
@@ -226,7 +226,7 @@
                 "last_commit": "2026-06-07T05:14:36Z",
                 "owner": "hywax",
                 "repo": "mafl",
-                "stars": 752
+                "stars": 753
               }
             },
             {
@@ -875,7 +875,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:46:58.086Z",
+    "last_updated": "2026-08-22T15:34:07.658Z",
     "original_repository": "jnmcfly/awesome-startpage",
     "original_repository_id": 298757796,
     "original_repository_sha": "71878c224a41ccab823cde507d999c74bf6a666e",
