@@ -36,7 +36,7 @@
 
 ### Hosted
 
-* [Homepage](https://github.com/gethomepage/homepage) ⭐ 32,213 | 🐛 5 | 🌐 JavaScript | 📅 2026-08-24 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
+* [Homepage](https://github.com/gethomepage/homepage) ⭐ 32,214 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-24 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
 * [Dashy](https://github.com/Lissy93/dashy) ⭐ 26,284 | 🐛 32 | 🌐 Vue | 📅 2026-08-21 - Feature-rich, self-hosted start page for your browser or homelab.
 * [Heimdall](https://github.com/linuxserver/Heimdall) ⭐ 9,304 | 🐛 5 | 🌐 PHP | 📅 2026-08-12 - Server-service based application orientated dashboard.
 * [flame](https://github.com/pawelmalak/flame) ⭐ 6,522 | 🐛 175 | 🌐 TypeScript | 📅 2026-06-25 - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.
