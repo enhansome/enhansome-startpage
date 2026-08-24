@@ -17,7 +17,7 @@
                 "last_commit": "2024-04-17T17:07:53Z",
                 "owner": "kholmogorov27",
                 "repo": "chevron",
-                "stars": 400
+                "stars": 399
               }
             },
             {
@@ -126,6 +126,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "nazhome",
+              "description": "A minimalistic startpage that combines elegance with functionality, featuring customizable widgets, dynamic backgrounds, and a clean interface",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 923272454,
+                "language": "JavaScript",
+                "last_commit": "2025-05-27T08:25:21Z",
+                "owner": "nazdridoy",
+                "repo": "nazhome",
+                "stars": 25
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cloudflare Pages"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Homepage",
               "description": "A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.",
               "children": [],
@@ -133,10 +155,10 @@
                 "archived": false,
                 "id": 528313152,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T12:10:21Z",
+                "last_commit": "2026-08-24T12:14:06Z",
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32193
+                "stars": 32213
               }
             },
             {
@@ -151,7 +173,7 @@
                 "last_commit": "2026-08-21T12:22:27Z",
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26278
+                "stars": 26284
               }
             },
             {
@@ -166,7 +188,7 @@
                 "last_commit": "2026-08-12T17:05:52Z",
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9305
+                "stars": 9304
               }
             },
             {
@@ -181,7 +203,7 @@
                 "last_commit": "2026-06-25T12:30:10Z",
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6521
+                "stars": 6522
               }
             },
             {
@@ -485,7 +507,7 @@
                 "archived": false,
                 "id": 396123753,
                 "language": "Go",
-                "last_commit": "2026-08-20T17:14:22Z",
+                "last_commit": "2026-08-24T05:22:19Z",
                 "owner": "toboshii",
                 "repo": "hajimari",
                 "stars": 823
@@ -529,8 +551,8 @@
               "repo_info": {
                 "archived": false,
                 "id": 1015217575,
-                "language": "Svelte",
-                "last_commit": "2026-04-10T21:07:35Z",
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T04:51:38Z",
                 "owner": "refact0r",
                 "repo": "re-start",
                 "stars": 438
@@ -875,7 +897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:35:21.558Z",
+    "last_updated": "2026-08-24T14:10:50.928Z",
     "original_repository": "jnmcfly/awesome-startpage",
     "original_repository_id": 298757796,
     "original_repository_sha": "71878c224a41ccab823cde507d999c74bf6a666e",
