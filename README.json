@@ -155,10 +155,10 @@
                 "archived": false,
                 "id": 528313152,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T00:21:58Z",
+                "last_commit": "2026-08-25T12:14:06Z",
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32227
+                "stars": 32235
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-21T12:22:27Z",
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26288
+                "stars": 26290
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-08-12T17:05:52Z",
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9302
+                "stars": 9304
               }
             },
             {
@@ -203,7 +203,7 @@
                 "last_commit": "2026-06-25T12:30:10Z",
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6521
+                "stars": 6520
               }
             },
             {
@@ -248,7 +248,7 @@
                 "last_commit": "2026-06-07T05:14:36Z",
                 "owner": "hywax",
                 "repo": "mafl",
-                "stars": 753
+                "stars": 754
               }
             },
             {
@@ -570,7 +570,7 @@
                 "last_commit": "2024-04-20T18:03:13Z",
                 "owner": "ozencb",
                 "repo": "tilde-enhanced",
-                "stars": 340
+                "stars": 341
               }
             },
             {
@@ -897,7 +897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:04:45.940Z",
+    "last_updated": "2026-08-25T15:58:31.732Z",
     "original_repository": "jnmcfly/awesome-startpage",
     "original_repository_id": 298757796,
     "original_repository_sha": "71878c224a41ccab823cde507d999c74bf6a666e",
