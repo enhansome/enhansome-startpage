@@ -155,10 +155,10 @@
                 "archived": false,
                 "id": 528313152,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T12:14:06Z",
+                "last_commit": "2026-08-25T00:21:58Z",
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32214
+                "stars": 32227
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-21T12:22:27Z",
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26284
+                "stars": 26288
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-08-12T17:05:52Z",
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9304
+                "stars": 9302
               }
             },
             {
@@ -203,7 +203,7 @@
                 "last_commit": "2026-06-25T12:30:10Z",
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6522
+                "stars": 6521
               }
             },
             {
@@ -555,7 +555,7 @@
                 "last_commit": "2026-08-24T04:51:38Z",
                 "owner": "refact0r",
                 "repo": "re-start",
-                "stars": 438
+                "stars": 440
               }
             },
             {
@@ -897,7 +897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:54:53.354Z",
+    "last_updated": "2026-08-25T06:04:45.940Z",
     "original_repository": "jnmcfly/awesome-startpage",
     "original_repository_id": 298757796,
     "original_repository_sha": "71878c224a41ccab823cde507d999c74bf6a666e",
