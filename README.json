@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-29T00:46:46Z",
+                "last_commit": "2026-08-29T12:24:49Z",
                 "open_issues": 3,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32279,
+                "stars": 32285,
                 "topics": [
                   "docker",
                   "homepage",
@@ -312,11 +312,11 @@
                 "id": 343078060,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-08-28T13:13:22Z",
-                "open_issues": 33,
+                "last_commit": "2026-08-29T18:25:43Z",
+                "open_issues": 32,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26321,
+                "stars": 26327,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9307,
+                "stars": 9309,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -1500,7 +1500,7 @@
                 "open_issues": 26,
                 "owner": "mue",
                 "repo": "mue",
-                "stars": 756,
+                "stars": 757,
                 "topics": [
                   "browser-extension",
                   "chrome",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:32:30.335Z",
+    "last_updated": "2026-08-29T18:26:47.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
@@ -1613,7 +1613,7 @@
       "open_issues": 6,
       "owner": "jnmcfly",
       "repo": "awesome-startpage",
-      "stars": 1292,
+      "stars": 1293,
       "topics": [
         "awesome",
         "awesome-list",

@@ -36,9 +36,9 @@
 
 ### Hosted
 
-* [Homepage](https://github.com/gethomepage/homepage) ⭐ 32,279 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-29 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
-* [Dashy](https://github.com/Lissy93/dashy) ⭐ 26,321 | 🐛 33 | 🌐 Vue | 📅 2026-08-28 - Feature-rich, self-hosted start page for your browser or homelab.
-* [Heimdall](https://github.com/linuxserver/Heimdall) ⭐ 9,307 | 🐛 4 | 🌐 PHP | 📅 2026-08-28 - Server-service based application orientated dashboard.
+* [Homepage](https://github.com/gethomepage/homepage) ⭐ 32,285 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-29 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
+* [Dashy](https://github.com/Lissy93/dashy) ⭐ 26,327 | 🐛 32 | 🌐 Vue | 📅 2026-08-29 - Feature-rich, self-hosted start page for your browser or homelab.
+* [Heimdall](https://github.com/linuxserver/Heimdall) ⭐ 9,309 | 🐛 4 | 🌐 PHP | 📅 2026-08-28 - Server-service based application orientated dashboard.
 * [flame](https://github.com/pawelmalak/flame) ⭐ 6,527 | 🐛 175 | 🌐 TypeScript | 📅 2026-06-25 - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.
 * [Organizr](https://github.com/causefx/Organizr) ⭐ 5,813 | 🐛 35 | 🌐 PHP | 📅 2026-05-19 - Organizr allows you to setup "Tabs" that will be loaded all in one webpage.
 * [Bento](https://github.com/MiguelRAvila/Bento) ⭐ 2,202 | 🐛 24 | 🌐 JavaScript | 📅 2025-04-21 - Bento is an local/self-hosted tile-based clean startpage.
@@ -91,7 +91,7 @@
 
 ### Chrome Add-Ons
 
-* [mue](https://github.com/mue/mue) ⭐ 756 | 🐛 26 | 🌐 JavaScript | 📅 2026-08-03 - Fast, open and free-to-use new tab page for modern browsers.
+* [mue](https://github.com/mue/mue) ⭐ 757 | 🐛 26 | 🌐 JavaScript | 📅 2026-08-03 - Fast, open and free-to-use new tab page for modern browsers.
 * [deepjyoti30's Startpage](https://github.com/deepjyoti30/startpage) ⭐ 667 | 🐛 10 | 🌐 JavaScript | 📅 2023-02-20 - A minimal starpage for Chrome and Firefox.
 * [Sourcetab](https://github.com/sourcetab/sourcetab) ⚠️ Archived - An open-source dashboard for your browser's new tab page, customizable with a variety of widgets and settings. Available on [Chrome](https://chrome.google.com/webstore/detail/sourcetab/akomlegpokabommpdjfmhnbdcnaefmdo), [Edge](https://microsoftedge.microsoft.com/addons/detail/sourcetab/fpknfiaimmgbbpplehjclidiphmhljeh), and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sourcetab/).
 * [Bonjourr](https://chrome.google.com/webstore/detail/bonjourr/dlnejlppicbjfcfcedcflplfjajinajd) - iOS and open source styled StartPage. Also available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bonjourr-startpage/)
@@ -115,7 +115,7 @@
 
 ## Contributing
 
-* [contribution guidelines](https://github.com/jnmcfly/awsome-startpage/blob/master/CONTRIBUTING.md) ⭐ 1,292 | 🐛 6 | 📅 2026-08-14
+* [contribution guidelines](https://github.com/jnmcfly/awsome-startpage/blob/master/CONTRIBUTING.md) ⭐ 1,293 | 🐛 6 | 📅 2026-08-14
 
 ***
 
