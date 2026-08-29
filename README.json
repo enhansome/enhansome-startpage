@@ -12,12 +12,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful and highly functional startpage integrated with chatGPT and hidden under the super minimalistic and animated design (static/hosted/github pages)",
+                "homepage": "https://kholmogorov27.github.io/chevron/",
                 "id": 609351630,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-04-17T17:07:53Z",
+                "open_issues": 8,
                 "owner": "kholmogorov27",
                 "repo": "chevron",
-                "stars": 399
+                "stars": 399,
+                "topics": [
+                  "animated",
+                  "artificial-intelligence",
+                  "browser-customization",
+                  "chatgpt",
+                  "chevron",
+                  "homepage",
+                  "minimalist",
+                  "new-tab",
+                  "newtab",
+                  "open-source",
+                  "openapi",
+                  "productivity",
+                  "react",
+                  "start-page",
+                  "startpage",
+                  "startpages",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -28,12 +51,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A dark themed startpage and dark themes for Firefox and Linux inspired by Material design and Adapta.",
+                "homepage": "https://dbuxy218.github.io/Prismatic-Night/",
                 "id": 259033316,
                 "language": "CSS",
+                "license": "GPL-3.0",
                 "last_commit": "2021-03-24T11:53:07Z",
+                "open_issues": 2,
                 "owner": "3r3bu5x9",
                 "repo": "Prismatic-Night",
-                "stars": 348
+                "stars": 348,
+                "topics": [
+                  "css",
+                  "dark-theme",
+                  "firefox",
+                  "icons",
+                  "material-design",
+                  "startpage",
+                  "theme",
+                  "tint2",
+                  "userchrome"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -44,12 +82,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This a generic browser startpage.",
+                "homepage": "https://prettycoffee.github.io/yet-another-generic-startpage/",
                 "id": 442512423,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T00:00:50Z",
+                "open_issues": 3,
                 "owner": "PrettyCoffee",
                 "repo": "yet-another-generic-startpage",
-                "stars": 318
+                "stars": 318,
+                "topics": [
+                  "customizable",
+                  "emotionjs",
+                  "react",
+                  "startpage"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -60,12 +108,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimal Homepage | Streamlined, Stylish, Simple.",
+                "homepage": "https://yashchaudhari008.github.io/minime/",
                 "id": 658059448,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-13T10:00:41Z",
+                "open_issues": 7,
                 "owner": "yashchaudhari008",
                 "repo": "minime",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "awesome-list",
+                  "beginner-friendly",
+                  "chrome-extension",
+                  "good-first-issue",
+                  "hacktoberfest",
+                  "homepage",
+                  "homepage-app",
+                  "minimalist",
+                  "react",
+                  "up-for-grabs",
+                  "vite"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -76,12 +141,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hexagons are the bestagons. A minimal browser startpage",
+                "homepage": "https://armoredvortex.github.io/Hexstart",
                 "id": 605927644,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-01-18T07:05:06Z",
+                "open_issues": 0,
                 "owner": "armoredvortex",
                 "repo": "Hexstart",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -92,12 +162,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A browser start page that looks like the iconic GTA San Andreas menu",
+                "homepage": "https://wjkba.github.io/gta-sa-menu-startpage/",
                 "id": 843147330,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-07-21T11:54:31Z",
+                "open_issues": 0,
                 "owner": "wjkba",
                 "repo": "gta-sa-menu-startpage",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "homepage",
+                  "newtab",
+                  "preact",
+                  "self-hosted",
+                  "startpage",
+                  "startpages"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -113,12 +195,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🪴 A minimalistic and customizable startpage featuring the Catppuccin palettes. Designed for both aesthetics and functionality with seamless hosting on GitHub Pages",
+                    "homepage": "https://pivoshenko.github.io/catppuccin-startpage/",
                     "id": 689740171,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-15T14:18:13Z",
+                    "open_issues": 0,
                     "owner": "pivoshenko",
                     "repo": "catppuccin-startpage",
-                    "stars": 303
+                    "stars": 303,
+                    "topics": [
+                      "awesome-homepage",
+                      "awesome-startpage",
+                      "catppuccin",
+                      "catppuccin-startpage",
+                      "catppuccin-theme",
+                      "chrome",
+                      "dawn",
+                      "dawn-theme",
+                      "firefox",
+                      "github-pages",
+                      "homepage",
+                      "opera",
+                      "productivity",
+                      "starpage"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:00:44.903Z"
                 }
@@ -138,12 +240,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimalistic startpage that combines elegance with functionality, featuring customizable widgets, dynamic backgrounds, and a clean interface",
+                "homepage": "https://nazhome.pages.dev/",
                 "id": 923272454,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-05-27T08:25:21Z",
+                "open_issues": 2,
                 "owner": "nazdridoy",
                 "repo": "nazhome",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "customizable",
+                  "homepage",
+                  "landing-page",
+                  "minimal-design",
+                  "minimalist",
+                  "newtabpage",
+                  "self-hosted",
+                  "startpage",
+                  "stylish-theme"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             }
@@ -161,12 +278,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
+                "homepage": "https://gethomepage.dev",
                 "id": 528313152,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T19:23:58Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T00:46:46Z",
+                "open_issues": 3,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32279
+                "stars": 32279,
+                "topics": [
+                  "docker",
+                  "homepage",
+                  "nextjs",
+                  "node",
+                  "react",
+                  "self-hosted",
+                  "startpage"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -177,12 +307,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+                "homepage": "https://dashy.to",
                 "id": 343078060,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:13:22Z",
+                "open_issues": 33,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26320
+                "stars": 26321,
+                "topics": [
+                  "awesome",
+                  "dashboard",
+                  "docker",
+                  "homelab",
+                  "homepage",
+                  "mit",
+                  "nodejs",
+                  "organization",
+                  "productivity",
+                  "pwa",
+                  "self-hosted",
+                  "startpage",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -193,12 +342,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Application dashboard and launcher",
+                "homepage": null,
                 "id": 119047018,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:50:31Z",
+                "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9307
+                "stars": 9307,
+                "topics": [
+                  "application-dashboard",
+                  "bookmark",
+                  "couchpotato",
+                  "dashboard",
+                  "emby",
+                  "heimdall",
+                  "homepage",
+                  "htpc",
+                  "landing",
+                  "landingpage",
+                  "muximux",
+                  "nginx",
+                  "nzbget",
+                  "organizr",
+                  "plex",
+                  "radarr",
+                  "sabnzbd",
+                  "server",
+                  "sonarr",
+                  "startpage"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -209,12 +384,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.",
+                "homepage": null,
                 "id": 365565715,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-25T12:30:10Z",
+                "open_issues": 175,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6527
+                "stars": 6527,
+                "topics": [
+                  "homepage",
+                  "self-hosted",
+                  "startpage"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -225,12 +409,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTPC/Homelab Services Organizer - Written in PHP",
+                "homepage": null,
                 "id": 77574863,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-19T23:24:29Z",
+                "open_issues": 35,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5813
+                "stars": 5813,
+                "topics": [
+                  "bookmark",
+                  "chat",
+                  "couchpotato",
+                  "couchpotatoserver",
+                  "dashboard",
+                  "emby",
+                  "homepage",
+                  "htpc",
+                  "landing",
+                  "landing-page",
+                  "nzbget",
+                  "ombi",
+                  "organizr",
+                  "php",
+                  "plex",
+                  "radarr",
+                  "sabnzbd",
+                  "server",
+                  "sonarr"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -241,12 +450,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The minimalist, elegant and hackable startpage.",
+                "homepage": "https://migueravila.github.io/bento/",
                 "id": 287464616,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-21T04:06:24Z",
+                "open_issues": 24,
                 "owner": "migueravila",
                 "repo": "bento",
-                "stars": 2202
+                "stars": 2202,
+                "topics": [
+                  "bento",
+                  "feather-icons",
+                  "newtab",
+                  "newtabpage",
+                  "open-source",
+                  "startpage",
+                  "tab"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -257,12 +479,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimalistic flexible homepage",
+                "homepage": "https://mafl.hywax.space",
                 "id": 735151489,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-07T05:14:36Z",
+                "open_issues": 48,
                 "owner": "hywax",
                 "repo": "mafl",
-                "stars": 754
+                "stars": 754,
+                "topics": [
+                  "application",
+                  "dashboard",
+                  "docker",
+                  "homepage",
+                  "productivity",
+                  "proxmox",
+                  "self-hosted",
+                  "startpage"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -273,12 +509,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terminal-inspired, clean, feature-rich and customizable browser start page for geeks. Has built-in editor for customizing.",
+                "homepage": "https://excalith-start-page.vercel.app",
                 "id": 596076338,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-04-05T16:09:22Z",
+                "open_issues": 5,
                 "owner": "excalith",
                 "repo": "excalith-start-page",
-                "stars": 747
+                "stars": 746,
+                "topics": [
+                  "browser",
+                  "browser-start-page",
+                  "customizable",
+                  "docker",
+                  "javascript",
+                  "landing-page",
+                  "newtab-page",
+                  "next",
+                  "react",
+                  "start-page",
+                  "tailwind",
+                  "terminal-like"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -289,12 +543,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jump is a self-hosted startpage and real-time status page for your server designed to be simple, stylish, fast and secure.",
+                "homepage": null,
                 "id": 455481266,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-05-15T05:02:51Z",
+                "open_issues": 17,
                 "owner": "daledavies",
                 "repo": "jump",
-                "stars": 607
+                "stars": 607,
+                "topics": [
+                  "dashboard",
+                  "directory",
+                  "docker",
+                  "home",
+                  "homepage",
+                  "javascript",
+                  "links",
+                  "php",
+                  "portal",
+                  "self-hosted",
+                  "selfhosted",
+                  "selfhosted-apps",
+                  "start",
+                  "startpage",
+                  "status-page",
+                  "unsplash",
+                  "weather"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -305,12 +582,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A custom startup page for your browser. ",
+                "homepage": "https://box-start-page.vercel.app",
                 "id": 282710129,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T22:00:27Z",
+                "open_issues": 1,
                 "owner": "timh-dev",
                 "repo": "startup-page",
-                "stars": 525
+                "stars": 525,
+                "topics": [
+                  "homepage",
+                  "landing-page",
+                  "landingpage",
+                  "react",
+                  "startpage",
+                  "startpages",
+                  "startup-page"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -321,12 +611,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)",
+                "homepage": "https://startertab.com",
                 "id": 437751011,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-17T02:45:13Z",
+                "open_issues": 4,
                 "owner": "allister-grange",
                 "repo": "startertab",
-                "stars": 412
+                "stars": 412,
+                "topics": [
+                  "gmail",
+                  "nextjs",
+                  "outlook",
+                  "react",
+                  "spotify",
+                  "strava",
+                  "twitter"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -337,12 +640,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fluidity - An accordion based startpage",
+                "homepage": "https://prettycoffee.github.io/fluidity/",
                 "id": 349154701,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T21:07:21Z",
+                "open_issues": 8,
                 "owner": "PrettyCoffee",
                 "repo": "fluidity",
-                "stars": 361
+                "stars": 361,
+                "topics": [
+                  "emotionjs",
+                  "github-page",
+                  "react",
+                  "startpage",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -353,12 +667,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clean and functional startpage for firefox and chrome with material gruvbox style ",
+                "homepage": "https://alljavi.github.io/tartarus-startpage/",
                 "id": 687460693,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-11-19T23:11:33Z",
+                "open_issues": 2,
                 "owner": "AllJavi",
                 "repo": "tartarus-startpage",
-                "stars": 322
+                "stars": 322,
+                "topics": [
+                  "anime",
+                  "chrome",
+                  "firefox",
+                  "github-page",
+                  "gruvbox",
+                  "opera",
+                  "organization",
+                  "startpage",
+                  "startpages",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -369,12 +699,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple and clean startpage 🌟",
+                "homepage": "https://imreyesjorge.github.io/root-startpage/",
                 "id": 303023900,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-09-19T23:21:02Z",
+                "open_issues": 2,
                 "owner": "imreyesjorge",
                 "repo": "root-startpage",
-                "stars": 284
+                "stars": 284,
+                "topics": [
+                  "cards",
+                  "fast",
+                  "homepage",
+                  "html",
+                  "js",
+                  "minimal",
+                  "startpage"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -385,12 +728,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Big buttons with easy click startpage for a browser. ",
+                "homepage": null,
                 "id": 338446557,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-03-03T00:07:14Z",
+                "open_issues": 0,
                 "owner": "kikiklang",
                 "repo": "pomme-page",
-                "stars": 218
+                "stars": 218,
+                "topics": [
+                  "binance",
+                  "crypto-chart",
+                  "css-grid",
+                  "newsapi",
+                  "openweather",
+                  "parcel-bundler",
+                  "pug",
+                  "self-hosted",
+                  "stormglass"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -401,12 +759,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple, semantic start page built with HTML, CSS, and a mouse-sized bit of JavaScript.",
+                "homepage": "https://tressley.github.io/_traichu/",
                 "id": 555848823,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2023-06-26T13:57:11Z",
+                "open_issues": 1,
                 "owner": "Tressley",
                 "repo": "_traichu",
-                "stars": 114
+                "stars": 114,
+                "topics": [
+                  "css3",
+                  "html5",
+                  "javascript",
+                  "start-page"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -417,12 +785,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A minimalistic custom browser startpage that can be configured to your needs.",
+                "homepage": "https://startpage.suksiriwan.com",
                 "id": 392174403,
                 "language": "TypeScript",
+                "license": "MPL-2.0",
                 "last_commit": "2021-12-02T02:49:44Z",
+                "open_issues": 0,
                 "owner": "galax028",
                 "repo": "startpage",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -433,12 +806,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Hackable start-page in Tokyonight Color Scheme",
+                "homepage": "https://terminal127.github.io/tokyonight-startpage/",
                 "id": 872089374,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-10-24T14:46:59Z",
+                "open_issues": 0,
                 "owner": "Terminal127",
                 "repo": "tokyonight-startpage",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "chrome",
+                  "css",
+                  "dots",
+                  "dynamic",
+                  "firefox",
+                  "html",
+                  "javascript",
+                  "startpage"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -449,12 +836,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "New tab browser extension (aka startpage) with nord colors and a dancing goose.",
+                "homepage": null,
                 "id": 531701682,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-04-13T22:16:04Z",
+                "open_issues": 1,
                 "owner": "PrettyCoffee",
                 "repo": "nordic-goose",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -465,12 +857,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A startpage called \"dawn\"",
+                "homepage": "https://start.molchan.me",
                 "id": 931553485,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-03-17T07:01:26Z",
+                "open_issues": 0,
                 "owner": "TheMY3",
                 "repo": "dawn-startpage",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -481,12 +878,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My daily homepage",
+                "homepage": "startpage-git-main-ropoko.vercel.app",
                 "id": 301897581,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2022-03-15T15:22:56Z",
+                "open_issues": 0,
                 "owner": "ropoko",
                 "repo": "Startpage",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "startpage"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -497,12 +901,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern, self-hosted startpage with bookmarks, search, widgets and theme customization. Built with Astro and React.",
+                "homepage": null,
                 "id": 961127668,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-04T22:14:26Z",
+                "open_issues": 4,
                 "owner": "ericblue",
                 "repo": "modern-start-page",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -513,12 +922,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Second Implementation of a Startpage for my browser in Next.js using Typescript and Tailwind.css with Motion Animations and More",
+                "homepage": "startpage-zwei.vercel.app",
                 "id": 359943409,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-10-27T16:22:18Z",
+                "open_issues": 7,
                 "owner": "Thomashighbaugh",
                 "repo": "startpage-zwei",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             }
@@ -536,12 +950,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.",
+                "homepage": "https://hajimari.io",
                 "id": 396123753,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T19:41:18Z",
+                "open_issues": 67,
                 "owner": "toboshii",
                 "repo": "hajimari",
-                "stars": 823
+                "stars": 823,
+                "topics": [
+                  "dashboard",
+                  "kubernetes",
+                  "startpage"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -552,12 +975,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Custom homepage for use locally in browser",
+                "homepage": null,
                 "id": 115354558,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2024-07-22T16:02:01Z",
+                "open_issues": 3,
                 "owner": "Jaredk3nt",
                 "repo": "homepage",
-                "stars": 539
+                "stars": 539,
+                "topics": [
+                  "homepage",
+                  "startpage",
+                  "startpages",
+                  "website"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -568,12 +1001,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A custom startup page for your browser. ",
+                "homepage": "https://box-start-page.vercel.app",
                 "id": 282710129,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-20T22:00:27Z",
+                "open_issues": 1,
                 "owner": "timh-dev",
                 "repo": "startup-page",
-                "stars": 525
+                "stars": 525,
+                "topics": [
+                  "homepage",
+                  "landing-page",
+                  "landingpage",
+                  "react",
+                  "startpage",
+                  "startpages",
+                  "startup-page"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -584,12 +1030,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a tui-style browser startpage",
+                "homepage": "https://refact0r.github.io/re-start/",
                 "id": 1015217575,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T04:51:38Z",
+                "open_issues": 8,
                 "owner": "refact0r",
                 "repo": "re-start",
-                "stars": 440
+                "stars": 440,
+                "topics": [
+                  "homepage",
+                  "new-tab",
+                  "newtab",
+                  "startpage",
+                  "svelte"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -600,12 +1057,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal startpage for your browser",
+                "homepage": "https://ozencb.github.io/tilde-enhanced/",
                 "id": 168052486,
                 "language": "JavaScript",
+                "license": "Unlicense",
                 "last_commit": "2024-04-20T18:03:13Z",
+                "open_issues": 4,
                 "owner": "ozencb",
                 "repo": "tilde-enhanced",
-                "stars": 341
+                "stars": 341,
+                "topics": [
+                  "homepage",
+                  "newtab",
+                  "startpage"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -616,12 +1082,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a glorified startpage",
+                "homepage": "https://manilarome.github.io/the-glorious-startpage/",
                 "id": 266786693,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-04-27T09:53:52Z",
+                "open_issues": 1,
                 "owner": "eromatiya",
                 "repo": "the-glorious-startpage",
-                "stars": 198
+                "stars": 198,
+                "topics": [
+                  "css",
+                  "firefox",
+                  "google-chrome",
+                  "html",
+                  "startpage",
+                  "vanilla-javascript"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -632,12 +1110,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aesthetic Startpage to boost your productivity and at the same time give your desktop a new aesthetic look",
+                "homepage": null,
                 "id": 536063165,
                 "language": "CSS",
+                "license": "GPL-3.0",
                 "last_commit": "2024-09-15T18:07:02Z",
+                "open_issues": 6,
                 "owner": "Nainish-Rai",
                 "repo": "aesthetic-startpage",
-                "stars": 197
+                "stars": 197,
+                "topics": [
+                  "css",
+                  "startpage"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -648,12 +1134,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A collection of startpages for your favorite browser.",
+                "homepage": null,
                 "id": 284541779,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-05-16T17:34:57Z",
+                "open_issues": 0,
                 "owner": "grtcdr",
                 "repo": "startpages",
-                "stars": 186
+                "stars": 186,
+                "topics": [
+                  "browser",
+                  "startpage",
+                  "web-ext"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -664,12 +1159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A terminal-style home page replicating the tree command .",
+                "homepage": null,
                 "id": 289776702,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2024-07-10T20:57:26Z",
+                "open_issues": 4,
                 "owner": "Paul-Houser",
                 "repo": "StartTree",
-                "stars": 186
+                "stars": 186,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -680,12 +1180,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A \"functioning\" terminal as your browsers homepage!",
+                "homepage": "https://hometerm.dev",
                 "id": 278521043,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-12-09T15:17:36Z",
+                "open_issues": 6,
                 "owner": "Jaredk3nt",
                 "repo": "HomeTerm",
-                "stars": 163
+                "stars": 163,
+                "topics": [
+                  "homepage",
+                  "localstorage",
+                  "startpage",
+                  "startpage-emporium",
+                  "terminal",
+                  "terminal-emulator"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -696,12 +1208,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple startpage with weather and to-do list features.",
+                "homepage": "https://sadparadiseinhell.github.io/tea-green/",
                 "id": 314574819,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2021-01-14T22:55:03Z",
+                "open_issues": 0,
                 "owner": "sadparadiseinhell",
                 "repo": "tea-green",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "startpage"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -712,12 +1231,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A startpage based on the operating systems of the 90s",
+                "homepage": "https://startos.app",
                 "id": 289440069,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-10-06T23:10:47Z",
+                "open_issues": 0,
                 "owner": "Jaredk3nt",
                 "repo": "StartOS",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -728,12 +1252,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Another one simple startpage.",
+                "homepage": "https://sadparadiseinhell.github.io/null/",
                 "id": 321089476,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-03-11T21:36:45Z",
+                "open_issues": 1,
                 "owner": "sadparadiseinhell",
                 "repo": "null",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "startpage"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -744,12 +1275,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal starpage for Chrome and Firefox",
+                "homepage": null,
                 "id": 426727052,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-11-12T06:50:17Z",
+                "open_issues": 0,
                 "owner": "AbdelrhmanNile",
                 "repo": "startpage-onedark",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -760,12 +1296,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Minimalistic startpage for chrome.",
+                "homepage": "https://nimplex.github.io/Minimal-StartPage/",
                 "id": 324250717,
                 "language": "CSS",
+                "license": "GPL-3.0",
                 "last_commit": "2023-09-16T21:22:56Z",
+                "open_issues": 0,
                 "owner": "Nimplex",
                 "repo": "Minimal-StartPage",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "chrome",
+                  "minimalistic",
+                  "startpage"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -776,12 +1321,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "l0bster browser startpage (search.l0bster)",
+                "homepage": null,
                 "id": 295616180,
                 "language": "HTML",
+                "license": "GPL-3.0",
                 "last_commit": "2020-10-30T03:50:36Z",
+                "open_issues": 0,
                 "owner": "l0bsters",
                 "repo": "search",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -792,12 +1342,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "b/w kitty browser startpage",
+                "homepage": null,
                 "id": 277639435,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2022-10-08T08:12:14Z",
+                "open_issues": 1,
                 "owner": "PrettyCoffee",
                 "repo": "b-w-kitty",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -808,12 +1363,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 479135602,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2022-04-08T17:15:35Z",
+                "open_issues": 1,
                 "owner": "timh-dev",
                 "repo": "start-page-chicago",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -824,12 +1384,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal, monospaced browser startpage that gets out of your way - and actually stays out of your way.",
+                "homepage": null,
                 "id": 1207965740,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-05-29T01:22:32Z",
+                "open_issues": 2,
                 "owner": "its0din-ai",
                 "repo": "dash-startpage",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "awesome-list",
+                  "awesome-startpage",
+                  "chrome-extension",
+                  "homepage",
+                  "productivity",
+                  "startpage"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -840,12 +1412,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A static bookmark dashboard generator.",
+                "homepage": null,
                 "id": 1182615956,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-18T16:34:31Z",
+                "open_issues": 1,
                 "owner": "mina-ai-assistant",
                 "repo": "static-dashboard",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             }
@@ -863,12 +1440,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal startpage for Firefox.",
+                "homepage": "https://rjshkhr.github.io/startpage/",
                 "id": 281455080,
                 "language": "CSS",
+                "license": "GPL-3.0",
                 "last_commit": "2025-02-10T02:25:35Z",
+                "open_issues": 0,
                 "owner": "rjshkhr",
                 "repo": "startpage",
-                "stars": 124
+                "stars": 124,
+                "topics": [
+                  "startpage"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -879,12 +1463,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimalist theme and startpage for Firefox with the Nord color pallette.",
+                "homepage": null,
                 "id": 254446940,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2021-09-30T02:24:21Z",
+                "open_issues": 0,
                 "owner": "not-a-dev-stein",
                 "repo": "min-nord-firefox",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             }
@@ -902,12 +1491,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, open and free-to-use new tab page for modern browsers",
+                "homepage": "https://demo.muetab.com",
                 "id": 144043235,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-03T08:43:03Z",
+                "open_issues": 26,
                 "owner": "mue",
                 "repo": "mue",
-                "stars": 756
+                "stars": 756,
+                "topics": [
+                  "browser-extension",
+                  "chrome",
+                  "chrome-extension",
+                  "chromium",
+                  "customisable",
+                  "edge",
+                  "edge-extension",
+                  "extension",
+                  "firefox",
+                  "firefox-addon",
+                  "hacktoberfest",
+                  "modern-browsers",
+                  "new-tab",
+                  "newtab",
+                  "photos",
+                  "quotes",
+                  "react",
+                  "startpage",
+                  "webextension",
+                  "webextensions"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -918,12 +1533,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal starpage for Chrome and Firefox",
+                "homepage": null,
                 "id": 263380420,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-02-20T04:08:50Z",
+                "open_issues": 10,
                 "owner": "deepjyoti30",
                 "repo": "startpage",
-                "stars": 667
+                "stars": 667,
+                "topics": [
+                  "chrome",
+                  "chrome-addon",
+                  "chrome-extension",
+                  "firefox",
+                  "firefox-addon",
+                  "firefox-extension",
+                  "minmal",
+                  "startpage"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -934,12 +1563,31 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An open-source dashboard for your new tab page.",
+                "homepage": "https://sourcetab.org/",
                 "id": 290041189,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2025-08-11T01:55:21Z",
+                "open_issues": 3,
                 "owner": "sourcetab",
                 "repo": "sourcetab-archive",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "add-on",
+                  "addon",
+                  "addons",
+                  "browser-extension",
+                  "chrome-extension",
+                  "dashboard",
+                  "extension",
+                  "extensions",
+                  "firefox-addon",
+                  "homepage",
+                  "newtab",
+                  "startpage",
+                  "webextension"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             }
@@ -953,15 +1601,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:00:44.903Z",
+    "last_updated": "2026-08-29T04:32:30.335Z",
     "original_repository_info": {
       "archived": false,
+      "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
+      "homepage": null,
       "id": 298757796,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-14T22:27:16Z",
+      "open_issues": 6,
       "owner": "jnmcfly",
       "repo": "awesome-startpage",
-      "stars": 1292
+      "stars": 1292,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "chrome",
+        "firefox",
+        "hacktoberfest",
+        "startpage",
+        "startpages"
+      ]
     },
     "original_repository_sha": "71878c224a41ccab823cde507d999c74bf6a666e",
     "enhanced_repository": "enhansome/enhansome-startpage",
