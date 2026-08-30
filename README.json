@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-29T12:24:49Z",
-                "open_issues": 3,
+                "last_commit": "2026-08-30T12:25:52Z",
+                "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32285,
+                "stars": 32307,
                 "topics": [
                   "docker",
                   "homepage",
@@ -312,11 +312,11 @@
                 "id": 343078060,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-08-29T18:25:43Z",
+                "last_commit": "2026-08-30T09:48:22Z",
                 "open_issues": 32,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26327,
+                "stars": 26330,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9309,
+                "stars": 9310,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -418,7 +418,7 @@
                 "open_issues": 35,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5813,
+                "stars": 5812,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -456,7 +456,7 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2025-04-21T04:06:24Z",
-                "open_issues": 24,
+                "open_issues": 23,
                 "owner": "migueravila",
                 "repo": "bento",
                 "stars": 2202,
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T18:26:47.612Z",
+    "last_updated": "2026-08-30T18:37:48.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
@@ -1613,7 +1613,7 @@
       "open_issues": 6,
       "owner": "jnmcfly",
       "repo": "awesome-startpage",
-      "stars": 1293,
+      "stars": 1294,
       "topics": [
         "awesome",
         "awesome-list",
