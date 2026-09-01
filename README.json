@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-31T12:30:30Z",
+                "last_commit": "2026-09-01T17:52:49Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32335,
+                "stars": 32343,
                 "topics": [
                   "docker",
                   "homepage",
@@ -312,11 +312,11 @@
                 "id": 343078060,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-08-31T18:05:20Z",
+                "last_commit": "2026-09-01T12:50:18Z",
                 "open_issues": 32,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26344,
+                "stars": 26353,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 5,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9311,
+                "stars": 9309,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 175,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6531,
+                "stars": 6529,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -418,7 +418,7 @@
                 "open_issues": 34,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5813,
+                "stars": 5814,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -1035,11 +1035,11 @@
                 "id": 1015217575,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-08-24T04:51:38Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-01T09:52:36Z",
+                "open_issues": 5,
                 "owner": "refact0r",
                 "repo": "re-start",
-                "stars": 440,
+                "stars": 441,
                 "topics": [
                   "homepage",
                   "new-tab",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:49:18.450Z",
+    "last_updated": "2026-09-01T18:28:32.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
