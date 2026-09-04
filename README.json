@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-03T16:33:45Z",
+                "last_commit": "2026-09-04T12:29:22Z",
                 "open_issues": 3,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32386,
+                "stars": 32410,
                 "topics": [
                   "docker",
                   "homepage",
@@ -312,11 +312,11 @@
                 "id": 343078060,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-09-03T08:00:38Z",
-                "open_issues": 32,
+                "last_commit": "2026-09-04T11:04:59Z",
+                "open_issues": 29,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26372,
+                "stars": 26386,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9312,
+                "stars": 9311,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -415,10 +415,10 @@
                 "language": "PHP",
                 "license": "GPL-3.0",
                 "last_commit": "2026-05-19T23:24:29Z",
-                "open_issues": 34,
+                "open_issues": 33,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5816,
+                "stars": 5815,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -488,7 +488,7 @@
                 "open_issues": 48,
                 "owner": "hywax",
                 "repo": "mafl",
-                "stars": 754,
+                "stars": 753,
                 "topics": [
                   "application",
                   "dashboard",
@@ -645,7 +645,7 @@
                 "id": 349154701,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-27T21:07:21Z",
+                "last_commit": "2026-09-03T22:31:00Z",
                 "open_issues": 8,
                 "owner": "PrettyCoffee",
                 "repo": "fluidity",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:36:48.880Z",
+    "last_updated": "2026-09-04T18:22:47.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
