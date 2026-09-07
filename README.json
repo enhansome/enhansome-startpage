@@ -204,7 +204,7 @@
                     "open_issues": 0,
                     "owner": "pivoshenko",
                     "repo": "catppuccin-startpage",
-                    "stars": 305,
+                    "stars": 306,
                     "topics": [
                       "awesome-homepage",
                       "awesome-startpage",
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-06T12:25:19Z",
+                "last_commit": "2026-09-07T12:30:05Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32435,
+                "stars": 32465,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 27,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26394,
+                "stars": 26406,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -348,10 +348,10 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-09-05T15:28:30Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9311,
+                "stars": 9313,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 175,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6528,
+                "stars": 6530,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -676,7 +676,7 @@
                 "open_issues": 2,
                 "owner": "AllJavi",
                 "repo": "tartarus-startpage",
-                "stars": 322,
+                "stars": 323,
                 "topics": [
                   "anime",
                   "chrome",
@@ -955,7 +955,7 @@
                 "id": 396123753,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T16:23:05Z",
+                "last_commit": "2026-09-07T01:35:00Z",
                 "open_issues": 67,
                 "owner": "toboshii",
                 "repo": "hajimari",
@@ -1039,7 +1039,7 @@
                 "open_issues": 5,
                 "owner": "refact0r",
                 "repo": "re-start",
-                "stars": 443,
+                "stars": 444,
                 "topics": [
                   "homepage",
                   "new-tab",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T17:36:22.382Z",
+    "last_updated": "2026-09-07T19:08:32.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
