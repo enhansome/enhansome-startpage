@@ -87,7 +87,7 @@
                 "id": 442512423,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T22:55:37Z",
+                "last_commit": "2026-09-07T20:42:02Z",
                 "open_issues": 3,
                 "owner": "PrettyCoffee",
                 "repo": "yet-another-generic-startpage",
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-07T12:30:05Z",
+                "last_commit": "2026-09-08T16:26:01Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32465,
+                "stars": 32477,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 27,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26406,
+                "stars": 26411,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 3,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9313,
+                "stars": 9315,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 175,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6530,
+                "stars": 6531,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -418,7 +418,7 @@
                 "open_issues": 32,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5816,
+                "stars": 5817,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -1240,7 +1240,7 @@
                 "open_issues": 0,
                 "owner": "Jaredk3nt",
                 "repo": "StartOS",
-                "stars": 66,
+                "stars": 67,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T19:08:32.011Z",
+    "last_updated": "2026-09-08T18:38:27.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
