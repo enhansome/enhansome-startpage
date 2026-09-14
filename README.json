@@ -91,7 +91,7 @@
                 "open_issues": 3,
                 "owner": "PrettyCoffee",
                 "repo": "yet-another-generic-startpage",
-                "stars": 319,
+                "stars": 318,
                 "topics": [
                   "customizable",
                   "emotionjs",
@@ -204,7 +204,7 @@
                     "open_issues": 0,
                     "owner": "pivoshenko",
                     "repo": "catppuccin-startpage",
-                    "stars": 308,
+                    "stars": 307,
                     "topics": [
                       "awesome-homepage",
                       "awesome-startpage",
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-13T12:25:37Z",
+                "last_commit": "2026-09-14T12:30:23Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32560,
+                "stars": 32618,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 27,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26452,
+                "stars": 26465,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 3,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9321,
+                "stars": 9322,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 175,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6536,
+                "stars": 6538,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -708,7 +708,7 @@
                 "open_issues": 2,
                 "owner": "imreyesjorge",
                 "repo": "root-startpage",
-                "stars": 284,
+                "stars": 282,
                 "topics": [
                   "cards",
                   "fast",
@@ -955,7 +955,7 @@
                 "id": 396123753,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T10:21:52Z",
+                "last_commit": "2026-09-14T04:25:48Z",
                 "open_issues": 67,
                 "owner": "toboshii",
                 "repo": "hajimari",
@@ -984,7 +984,7 @@
                 "open_issues": 3,
                 "owner": "Jaredk3nt",
                 "repo": "homepage",
-                "stars": 539,
+                "stars": 538,
                 "topics": [
                   "homepage",
                   "startpage",
@@ -1036,10 +1036,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-09-01T09:52:36Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "refact0r",
                 "repo": "re-start",
-                "stars": 447,
+                "stars": 448,
                 "topics": [
                   "homepage",
                   "new-tab",
@@ -1189,7 +1189,7 @@
                 "open_issues": 6,
                 "owner": "Jaredk3nt",
                 "repo": "HomeTerm",
-                "stars": 163,
+                "stars": 162,
                 "topics": [
                   "homepage",
                   "localstorage",
@@ -1305,7 +1305,7 @@
                 "open_issues": 0,
                 "owner": "Nimplex",
                 "repo": "Minimal-StartPage",
-                "stars": 33,
+                "stars": 34,
                 "topics": [
                   "chrome",
                   "minimalistic",
@@ -1542,7 +1542,7 @@
                 "open_issues": 10,
                 "owner": "deepjyoti30",
                 "repo": "startpage",
-                "stars": 667,
+                "stars": 666,
                 "topics": [
                   "chrome",
                   "chrome-addon",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T18:11:11.572Z",
+    "last_updated": "2026-09-14T19:50:22.711Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
@@ -1613,7 +1613,7 @@
       "open_issues": 6,
       "owner": "jnmcfly",
       "repo": "awesome-startpage",
-      "stars": 1295,
+      "stars": 1297,
       "topics": [
         "awesome",
         "awesome-list",
