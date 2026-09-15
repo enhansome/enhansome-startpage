@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-14T12:30:23Z",
+                "last_commit": "2026-09-15T12:28:39Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32618,
+                "stars": 32644,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 27,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26465,
+                "stars": 26478,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 3,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9322,
+                "stars": 9324,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -415,7 +415,7 @@
                 "language": "PHP",
                 "license": "GPL-3.0",
                 "last_commit": "2026-05-19T23:24:29Z",
-                "open_issues": 32,
+                "open_issues": 31,
                 "owner": "causefx",
                 "repo": "Organizr",
                 "stars": 5814,
@@ -518,7 +518,7 @@
                 "open_issues": 5,
                 "owner": "excalith",
                 "repo": "excalith-start-page",
-                "stars": 746,
+                "stars": 747,
                 "topics": [
                   "browser",
                   "browser-start-page",
@@ -591,7 +591,7 @@
                 "open_issues": 3,
                 "owner": "timh-dev",
                 "repo": "startup-page",
-                "stars": 526,
+                "stars": 527,
                 "topics": [
                   "homepage",
                   "landing-page",
@@ -645,7 +645,7 @@
                 "id": 349154701,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T21:58:40Z",
+                "last_commit": "2026-09-15T15:56:40Z",
                 "open_issues": 8,
                 "owner": "PrettyCoffee",
                 "repo": "fluidity",
@@ -1010,7 +1010,7 @@
                 "open_issues": 3,
                 "owner": "timh-dev",
                 "repo": "startup-page",
-                "stars": 526,
+                "stars": 527,
                 "topics": [
                   "homepage",
                   "landing-page",
@@ -1143,7 +1143,7 @@
                 "open_issues": 0,
                 "owner": "grtcdr",
                 "repo": "startpages",
-                "stars": 186,
+                "stars": 187,
                 "topics": [
                   "browser",
                   "startpage",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:50:22.711Z",
+    "last_updated": "2026-09-15T18:58:48.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
