@@ -87,11 +87,11 @@
                 "id": 442512423,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T01:52:50Z",
+                "last_commit": "2026-09-15T20:37:39Z",
                 "open_issues": 3,
                 "owner": "PrettyCoffee",
                 "repo": "yet-another-generic-startpage",
-                "stars": 318,
+                "stars": 317,
                 "topics": [
                   "customizable",
                   "emotionjs",
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-15T12:28:39Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-16T14:41:15Z",
+                "open_issues": 0,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32644,
+                "stars": 32678,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 27,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26478,
+                "stars": 26487,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 3,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9324,
+                "stars": 9325,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 175,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6538,
+                "stars": 6541,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -418,7 +418,7 @@
                 "open_issues": 31,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5814,
+                "stars": 5813,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -1500,7 +1500,7 @@
                 "open_issues": 26,
                 "owner": "mue",
                 "repo": "mue",
-                "stars": 757,
+                "stars": 758,
                 "topics": [
                   "browser-extension",
                   "chrome",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T18:58:48.357Z",
+    "last_updated": "2026-09-16T18:53:38.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
