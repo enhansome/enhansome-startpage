@@ -91,7 +91,7 @@
                 "open_issues": 3,
                 "owner": "PrettyCoffee",
                 "repo": "yet-another-generic-startpage",
-                "stars": 317,
+                "stars": 318,
                 "topics": [
                   "customizable",
                   "emotionjs",
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T16:33:30Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-17T21:29:49Z",
+                "open_issues": 0,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32699,
+                "stars": 32723,
                 "topics": [
                   "docker",
                   "homepage",
@@ -312,11 +312,11 @@
                 "id": 343078060,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-09-17T16:07:24Z",
+                "last_commit": "2026-09-18T11:44:14Z",
                 "open_issues": 27,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26493,
+                "stars": 26507,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9327,
+                "stars": 9326,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 175,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6543,
+                "stars": 6545,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -1091,7 +1091,7 @@
                 "open_issues": 6,
                 "owner": "Nainish-Rai",
                 "repo": "aesthetic-startpage",
-                "stars": 198,
+                "stars": 199,
                 "topics": [
                   "css",
                   "startpage"
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T19:00:02.944Z",
+    "last_updated": "2026-09-18T18:26:46.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
