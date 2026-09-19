@@ -287,7 +287,7 @@
                 "open_issues": 0,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32723,
+                "stars": 32745,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 27,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26507,
+                "stars": 26515,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9326,
+                "stars": 9328,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 175,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6545,
+                "stars": 6547,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -418,7 +418,7 @@
                 "open_issues": 31,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5815,
+                "stars": 5814,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -676,7 +676,7 @@
                 "open_issues": 2,
                 "owner": "AllJavi",
                 "repo": "tartarus-startpage",
-                "stars": 323,
+                "stars": 322,
                 "topics": [
                   "anime",
                   "chrome",
@@ -866,7 +866,7 @@
                 "open_issues": 0,
                 "owner": "TheMY3",
                 "repo": "dawn-startpage",
-                "stars": 21,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
@@ -1039,7 +1039,7 @@
                 "open_issues": 6,
                 "owner": "refact0r",
                 "repo": "re-start",
-                "stars": 448,
+                "stars": 447,
                 "topics": [
                   "homepage",
                   "new-tab",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T18:26:46.957Z",
+    "last_updated": "2026-09-19T17:59:29.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
@@ -1613,7 +1613,7 @@
       "open_issues": 6,
       "owner": "jnmcfly",
       "repo": "awesome-startpage",
-      "stars": 1296,
+      "stars": 1297,
       "topics": [
         "awesome",
         "awesome-list",
