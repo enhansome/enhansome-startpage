@@ -195,7 +195,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "🪴 A minimalistic and customizable startpage featuring the Catppuccin palettes. Designed for both aesthetics and functionality with seamless hosting on GitHub Pages",
+                    "description": "🌸 Minimal, customizable startpage featuring the Catppuccin palettes",
                     "homepage": "https://pivoshenko.github.io/catppuccin-startpage/",
                     "id": 689740171,
                     "language": "JavaScript",
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T21:29:49Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-20T12:26:01Z",
+                "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32745,
+                "stars": 32770,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 27,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26515,
+                "stars": 26526,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9328,
+                "stars": 9330,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 175,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6547,
+                "stars": 6549,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -415,10 +415,10 @@
                 "language": "PHP",
                 "license": "GPL-3.0",
                 "last_commit": "2026-05-19T23:24:29Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5814,
+                "stars": 5816,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -488,7 +488,7 @@
                 "open_issues": 48,
                 "owner": "hywax",
                 "repo": "mafl",
-                "stars": 755,
+                "stars": 756,
                 "topics": [
                   "application",
                   "dashboard",
@@ -552,7 +552,7 @@
                 "open_issues": 17,
                 "owner": "daledavies",
                 "repo": "jump",
-                "stars": 606,
+                "stars": 605,
                 "topics": [
                   "dashboard",
                   "directory",
@@ -676,7 +676,7 @@
                 "open_issues": 2,
                 "owner": "AllJavi",
                 "repo": "tartarus-startpage",
-                "stars": 322,
+                "stars": 323,
                 "topics": [
                   "anime",
                   "chrome",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T17:59:29.442Z",
+    "last_updated": "2026-09-20T18:11:50.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
@@ -1613,7 +1613,7 @@
       "open_issues": 6,
       "owner": "jnmcfly",
       "repo": "awesome-startpage",
-      "stars": 1297,
+      "stars": 1298,
       "topics": [
         "awesome",
         "awesome-list",
