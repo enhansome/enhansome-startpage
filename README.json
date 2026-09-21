@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T12:26:01Z",
+                "last_commit": "2026-09-21T12:28:19Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32770,
+                "stars": 32788,
                 "topics": [
                   "docker",
                   "homepage",
@@ -312,11 +312,11 @@
                 "id": 343078060,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-09-18T11:44:14Z",
+                "last_commit": "2026-09-21T18:44:34Z",
                 "open_issues": 27,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26526,
+                "stars": 26540,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9330,
+                "stars": 9331,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -390,7 +390,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-06-25T12:30:10Z",
-                "open_issues": 175,
+                "open_issues": 176,
                 "owner": "pawelmalak",
                 "repo": "flame",
                 "stars": 6549,
@@ -616,7 +616,7 @@
                 "id": 437751011,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2025-10-17T02:45:13Z",
+                "last_commit": "2026-09-21T19:44:51Z",
                 "open_issues": 4,
                 "owner": "allister-grange",
                 "repo": "startertab",
@@ -955,7 +955,7 @@
                 "id": 396123753,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T00:50:53Z",
+                "last_commit": "2026-09-21T10:22:40Z",
                 "open_issues": 67,
                 "owner": "toboshii",
                 "repo": "hajimari",
@@ -1091,7 +1091,7 @@
                 "open_issues": 6,
                 "owner": "Nainish-Rai",
                 "repo": "aesthetic-startpage",
-                "stars": 199,
+                "stars": 200,
                 "topics": [
                   "css",
                   "startpage"
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T18:11:50.902Z",
+    "last_updated": "2026-09-21T19:59:03.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
@@ -1613,7 +1613,7 @@
       "open_issues": 6,
       "owner": "jnmcfly",
       "repo": "awesome-startpage",
-      "stars": 1298,
+      "stars": 1300,
       "topics": [
         "awesome",
         "awesome-list",
