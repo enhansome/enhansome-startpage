@@ -21,7 +21,7 @@
                 "open_issues": 8,
                 "owner": "kholmogorov27",
                 "repo": "chevron",
-                "stars": 400,
+                "stars": 401,
                 "topics": [
                   "animated",
                   "artificial-intelligence",
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-21T12:28:19Z",
+                "last_commit": "2026-09-22T12:28:35Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32788,
+                "stars": 32807,
                 "topics": [
                   "docker",
                   "homepage",
@@ -312,11 +312,11 @@
                 "id": 343078060,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-09-21T18:44:34Z",
-                "open_issues": 27,
+                "last_commit": "2026-09-22T16:59:00Z",
+                "open_issues": 26,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26540,
+                "stars": 26547,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9331,
+                "stars": 9330,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 176,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6549,
+                "stars": 6548,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -418,7 +418,7 @@
                 "open_issues": 32,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5816,
+                "stars": 5817,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -616,7 +616,7 @@
                 "id": 437751011,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-21T19:44:51Z",
+                "last_commit": "2026-09-21T20:02:04Z",
                 "open_issues": 4,
                 "owner": "allister-grange",
                 "repo": "startertab",
@@ -1500,7 +1500,7 @@
                 "open_issues": 26,
                 "owner": "mue",
                 "repo": "mue",
-                "stars": 758,
+                "stars": 759,
                 "topics": [
                   "browser-extension",
                   "chrome",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T19:59:03.863Z",
+    "last_updated": "2026-09-22T18:52:41.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
