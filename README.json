@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-25T16:46:44Z",
+                "last_commit": "2026-09-26T12:26:07Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32857,
+                "stars": 32868,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 18,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26568,
+                "stars": 26573,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9335,
+                "stars": 9334,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -488,7 +488,7 @@
                 "open_issues": 48,
                 "owner": "hywax",
                 "repo": "mafl",
-                "stars": 756,
+                "stars": 757,
                 "topics": [
                   "application",
                   "dashboard",
@@ -1497,7 +1497,7 @@
                 "language": "JavaScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-03T08:43:03Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "mue",
                 "repo": "mue",
                 "stars": 757,
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T19:14:24.106Z",
+    "last_updated": "2026-09-26T18:35:47.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
