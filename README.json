@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-26T12:26:07Z",
+                "last_commit": "2026-09-27T12:27:33Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32868,
+                "stars": 32886,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 18,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26573,
+                "stars": 26583,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9334,
+                "stars": 9336,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 177,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6552,
+                "stars": 6553,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -415,7 +415,7 @@
                 "language": "PHP",
                 "license": "GPL-3.0",
                 "last_commit": "2026-05-19T23:24:29Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "causefx",
                 "repo": "Organizr",
                 "stars": 5817,
@@ -552,7 +552,7 @@
                 "open_issues": 17,
                 "owner": "daledavies",
                 "repo": "jump",
-                "stars": 606,
+                "stars": 605,
                 "topics": [
                   "dashboard",
                   "directory",
@@ -676,7 +676,7 @@
                 "open_issues": 2,
                 "owner": "AllJavi",
                 "repo": "tartarus-startpage",
-                "stars": 323,
+                "stars": 322,
                 "topics": [
                   "anime",
                   "chrome",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T18:35:47.821Z",
+    "last_updated": "2026-09-27T18:58:24.530Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
