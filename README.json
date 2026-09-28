@@ -91,7 +91,7 @@
                 "open_issues": 3,
                 "owner": "PrettyCoffee",
                 "repo": "yet-another-generic-startpage",
-                "stars": 318,
+                "stars": 319,
                 "topics": [
                   "customizable",
                   "emotionjs",
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-27T12:27:33Z",
+                "last_commit": "2026-09-28T18:54:21Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32886,
+                "stars": 32899,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 18,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26583,
+                "stars": 26594,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9336,
+                "stars": 9338,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 177,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6553,
+                "stars": 6555,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -415,7 +415,7 @@
                 "language": "PHP",
                 "license": "GPL-3.0",
                 "last_commit": "2026-05-19T23:24:29Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "causefx",
                 "repo": "Organizr",
                 "stars": 5817,
@@ -488,7 +488,7 @@
                 "open_issues": 48,
                 "owner": "hywax",
                 "repo": "mafl",
-                "stars": 757,
+                "stars": 756,
                 "topics": [
                   "application",
                   "dashboard",
@@ -649,7 +649,7 @@
                 "open_issues": 8,
                 "owner": "PrettyCoffee",
                 "repo": "fluidity",
-                "stars": 361,
+                "stars": 362,
                 "topics": [
                   "emotionjs",
                   "github-page",
@@ -896,27 +896,6 @@
             },
             {
               "node_type": "item",
-              "title": "MSP - Modern Start Page",
-              "description": "Modern, self-hosted startpage with bookmarks, search, widgets and theme customization. Built with Astro and React.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Modern, self-hosted startpage with bookmarks, search, widgets and theme customization. Built with Astro and React.",
-                "homepage": null,
-                "id": 961127668,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-04-04T22:14:26Z",
-                "open_issues": 4,
-                "owner": "ericblue",
-                "repo": "modern-start-page",
-                "stars": 13,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:00:44.903Z"
-            },
-            {
-              "node_type": "item",
               "title": "startpage-zwei",
               "description": "Startpage for your browser in Next.js using Typescript and Tailwind.css with Motion Animations",
               "children": [],
@@ -931,6 +910,27 @@
                 "open_issues": 7,
                 "owner": "Thomashighbaugh",
                 "repo": "startpage-zwei",
+                "stars": 14,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:00:44.903Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MSP - Modern Start Page",
+              "description": "Modern, self-hosted startpage with bookmarks, search, widgets and theme customization. Built with Astro and React.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Modern, self-hosted startpage with bookmarks, search, widgets and theme customization. Built with Astro and React.",
+                "homepage": null,
+                "id": 961127668,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-04-04T22:14:26Z",
+                "open_issues": 4,
+                "owner": "ericblue",
+                "repo": "modern-start-page",
                 "stars": 13,
                 "topics": []
               },
@@ -955,7 +955,7 @@
                 "id": 396123753,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T16:24:20Z",
+                "last_commit": "2026-09-28T02:36:38Z",
                 "open_issues": 67,
                 "owner": "toboshii",
                 "repo": "hajimari",
@@ -984,7 +984,7 @@
                 "open_issues": 3,
                 "owner": "Jaredk3nt",
                 "repo": "homepage",
-                "stars": 538,
+                "stars": 539,
                 "topics": [
                   "homepage",
                   "startpage",
@@ -1039,7 +1039,7 @@
                 "open_issues": 6,
                 "owner": "refact0r",
                 "repo": "re-start",
-                "stars": 448,
+                "stars": 446,
                 "topics": [
                   "homepage",
                   "new-tab",
@@ -1449,7 +1449,7 @@
                 "open_issues": 0,
                 "owner": "rjshkhr",
                 "repo": "startpage",
-                "stars": 125,
+                "stars": 126,
                 "topics": [
                   "startpage"
                 ]
@@ -1500,7 +1500,7 @@
                 "open_issues": 28,
                 "owner": "mue",
                 "repo": "mue",
-                "stars": 757,
+                "stars": 758,
                 "topics": [
                   "browser-extension",
                   "chrome",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:58:24.530Z",
+    "last_updated": "2026-09-28T21:13:30.831Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
@@ -1613,7 +1613,7 @@
       "open_issues": 7,
       "owner": "jnmcfly",
       "repo": "awesome-startpage",
-      "stars": 1300,
+      "stars": 1309,
       "topics": [
         "awesome",
         "awesome-list",
