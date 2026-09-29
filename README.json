@@ -204,7 +204,7 @@
                     "open_issues": 0,
                     "owner": "pivoshenko",
                     "repo": "catppuccin-startpage",
-                    "stars": 307,
+                    "stars": 309,
                     "topics": [
                       "awesome-homepage",
                       "awesome-startpage",
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-28T18:54:21Z",
+                "last_commit": "2026-09-29T14:08:13Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32899,
+                "stars": 32913,
                 "topics": [
                   "docker",
                   "homepage",
@@ -390,7 +390,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-06-25T12:30:10Z",
-                "open_issues": 177,
+                "open_issues": 176,
                 "owner": "pawelmalak",
                 "repo": "flame",
                 "stars": 6555,
@@ -418,7 +418,7 @@
                 "open_issues": 33,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5817,
+                "stars": 5818,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -645,8 +645,8 @@
                 "id": 349154701,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-25T01:13:01Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-29T15:22:13Z",
+                "open_issues": 5,
                 "owner": "PrettyCoffee",
                 "repo": "fluidity",
                 "stars": 362,
@@ -676,7 +676,7 @@
                 "open_issues": 2,
                 "owner": "AllJavi",
                 "repo": "tartarus-startpage",
-                "stars": 322,
+                "stars": 323,
                 "topics": [
                   "anime",
                   "chrome",
@@ -955,7 +955,7 @@
                 "id": 396123753,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T02:36:38Z",
+                "last_commit": "2026-09-29T14:21:53Z",
                 "open_issues": 67,
                 "owner": "toboshii",
                 "repo": "hajimari",
@@ -1168,7 +1168,7 @@
                 "open_issues": 4,
                 "owner": "Paul-Houser",
                 "repo": "StartTree",
-                "stars": 186,
+                "stars": 187,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T21:13:30.831Z",
+    "last_updated": "2026-09-29T19:58:30.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
@@ -1613,7 +1613,7 @@
       "open_issues": 7,
       "owner": "jnmcfly",
       "repo": "awesome-startpage",
-      "stars": 1309,
+      "stars": 1312,
       "topics": [
         "awesome",
         "awesome-list",
