@@ -28,7 +28,7 @@
 * [Minime](https://github.com/yashchaudhari008/minime) ⭐ 37 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-13 - Minimalistic homepage with tabular bookmarks.
 * [Hexstart](https://github.com/ArmoredVortex/Hexstart) ⭐ 29 | 🐛 0 | 🌐 HTML | 📅 2026-01-18 - Highly customisable minimal startpage with hexagonal tiles, hosted on Github Pages.
 * [GTA-SA Menu Startpage](https://github.com/wjkba/gta-sa-menu-startpage) ⭐ 22 | 🐛 0 | 🌐 TypeScript | 📅 2025-07-21 - Start page that looks like the iconic GTA San Andreas menu.
-* * [Catppuccin Startpage](https://github.com/pivoshenko/catppuccin-startpage) ⭐ 309 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-13 - Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages.
+* * [Catppuccin Startpage](https://github.com/pivoshenko/catppuccin-startpage) ⭐ 309 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-30 - Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages.
 
 ### Cloudflare Pages
 
@@ -36,10 +36,10 @@
 
 ### Hosted
 
-* [Homepage](https://github.com/gethomepage/homepage) ⭐ 32,913 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-29 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
-* [Dashy](https://github.com/Lissy93/dashy) ⭐ 26,594 | 🐛 18 | 🌐 Vue | 📅 2026-09-25 - Feature-rich, self-hosted start page for your browser or homelab.
-* [Heimdall](https://github.com/linuxserver/Heimdall) ⭐ 9,338 | 🐛 4 | 🌐 PHP | 📅 2026-09-09 - Server-service based application orientated dashboard.
-* [flame](https://github.com/pawelmalak/flame) ⭐ 6,555 | 🐛 176 | 🌐 TypeScript | 📅 2026-06-25 - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.
+* [Homepage](https://github.com/gethomepage/homepage) ⭐ 32,925 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-30 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
+* [Dashy](https://github.com/Lissy93/dashy) ⭐ 26,600 | 🐛 20 | 🌐 Vue | 📅 2026-09-30 - Feature-rich, self-hosted start page for your browser or homelab.
+* [Heimdall](https://github.com/linuxserver/Heimdall) ⭐ 9,339 | 🐛 4 | 🌐 PHP | 📅 2026-09-09 - Server-service based application orientated dashboard.
+* [flame](https://github.com/pawelmalak/flame) ⭐ 6,557 | 🐛 176 | 🌐 TypeScript | 📅 2026-06-25 - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.
 * [Organizr](https://github.com/causefx/Organizr) ⭐ 5,818 | 🐛 33 | 🌐 PHP | 📅 2026-05-19 - Organizr allows you to setup "Tabs" that will be loaded all in one webpage.
 * [Bento](https://github.com/MiguelRAvila/Bento) ⭐ 2,199 | 🐛 22 | 🌐 JavaScript | 📅 2025-04-21 - Bento is an local/self-hosted tile-based clean startpage.
 * [Mafl](https://github.com/hywax/mafl) ⭐ 756 | 🐛 48 | 🌐 TypeScript | 📅 2026-06-07 - Minimalistic flexible homepage.
@@ -47,7 +47,7 @@
 * [Jump](https://github.com/daledavies/jump) ⭐ 605 | 🐛 17 | 🌐 PHP | 📅 2024-05-15 - Self-hosted startpage designed to be simple, stylish, fast and secure.
 * [Modular Grid Page](https://github.com/timothypholmes/startup-page) ⭐ 527 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-11 - Modular Grid Start Page for your Browser.
 * [startertab](https://github.com/allister-grange/startertab) ⭐ 413 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-21 - A custom new tab page, keeping all the best info handy.
-* [fluidity](https://github.com/PrettyCoffee/fluidity) ⭐ 362 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-29 - Super smooth and stylish startpage. Tuned aesthetic.
+* [fluidity](https://github.com/PrettyCoffee/fluidity) ⭐ 362 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-30 - Super smooth and stylish startpage. Tuned aesthetic.
 * [Tartarus](https://github.com/AllJavi/tartarus-startpage) ⭐ 323 | 🐛 2 | 🌐 JavaScript | 📅 2023-11-19 - Aesthetic and clean startpage with material gruvbox style, designed for smooth usage.
 * [root](https://github.com/imreyesjorge/root-startpage) ⭐ 282 | 🐛 2 | 🌐 JavaScript | 📅 2023-09-19 - Root is a start-page aimed to simplicity and elegance.
 * [pomme-page](https://github.com/kikiklang/pomme-page) ⭐ 218 | 🐛 0 | 🌐 JavaScript | 📅 2022-03-03 - Pretty cool startpage with colorful tiles.
@@ -115,8 +115,8 @@
 
 ## Contributing
 
-* [contribution guidelines](https://github.com/jnmcfly/awsome-startpage/blob/master/CONTRIBUTING.md) ⭐ 1,312 | 🐛 7 | 📅 2026-08-14
+* [contribution guidelines](https://github.com/jnmcfly/awsome-startpage/blob/master/CONTRIBUTING.md) ⭐ 1,313 | 🐛 7 | 📅 2026-08-14
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
