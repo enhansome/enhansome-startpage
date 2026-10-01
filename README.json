@@ -87,7 +87,7 @@
                 "id": 442512423,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-25T00:48:29Z",
+                "last_commit": "2026-09-30T21:02:37Z",
                 "open_issues": 3,
                 "owner": "PrettyCoffee",
                 "repo": "yet-another-generic-startpage",
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-30T15:59:45Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-01T20:17:06Z",
+                "open_issues": 8,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32925,
+                "stars": 32944,
                 "topics": [
                   "docker",
                   "homepage",
@@ -312,11 +312,11 @@
                 "id": 343078060,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-09-30T17:56:32Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-01T15:10:58Z",
+                "open_issues": 18,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26600,
+                "stars": 26604,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9339,
+                "stars": 9342,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 176,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6557,
+                "stars": 6558,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -645,11 +645,11 @@
                 "id": 349154701,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-30T14:52:01Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-01T12:36:45Z",
+                "open_issues": 5,
                 "owner": "PrettyCoffee",
                 "repo": "fluidity",
-                "stars": 362,
+                "stars": 361,
                 "topics": [
                   "emotionjs",
                   "github-page",
@@ -1500,7 +1500,7 @@
                 "open_issues": 28,
                 "owner": "mue",
                 "repo": "mue",
-                "stars": 758,
+                "stars": 759,
                 "topics": [
                   "browser-extension",
                   "chrome",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T20:00:11.516Z",
+    "last_updated": "2026-10-01T20:20:18.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
@@ -1613,7 +1613,7 @@
       "open_issues": 7,
       "owner": "jnmcfly",
       "repo": "awesome-startpage",
-      "stars": 1313,
+      "stars": 1314,
       "topics": [
         "awesome",
         "awesome-list",
