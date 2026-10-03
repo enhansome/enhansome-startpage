@@ -91,7 +91,7 @@
                 "open_issues": 3,
                 "owner": "PrettyCoffee",
                 "repo": "yet-another-generic-startpage",
-                "stars": 319,
+                "stars": 318,
                 "topics": [
                   "customizable",
                   "emotionjs",
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T12:31:54Z",
+                "last_commit": "2026-10-03T00:53:14Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32950,
+                "stars": 32956,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 20,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26605,
+                "stars": 26609,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9342,
+                "stars": 9341,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -415,7 +415,7 @@
                 "language": "PHP",
                 "license": "GPL-3.0",
                 "last_commit": "2026-05-19T23:24:29Z",
-                "open_issues": 33,
+                "open_issues": 32,
                 "owner": "causefx",
                 "repo": "Organizr",
                 "stars": 5818,
@@ -1500,7 +1500,7 @@
                 "open_issues": 28,
                 "owner": "mue",
                 "repo": "mue",
-                "stars": 759,
+                "stars": 760,
                 "topics": [
                   "browser-extension",
                   "chrome",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:56:22.394Z",
+    "last_updated": "2026-10-03T05:07:12.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
@@ -1613,7 +1613,7 @@
       "open_issues": 7,
       "owner": "jnmcfly",
       "repo": "awesome-startpage",
-      "stars": 1314,
+      "stars": 1315,
       "topics": [
         "awesome",
         "awesome-list",
