@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T00:53:14Z",
+                "last_commit": "2026-10-03T13:50:47Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32956,
+                "stars": 32961,
                 "topics": [
                   "docker",
                   "homepage",
@@ -312,11 +312,11 @@
                 "id": 343078060,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-10-02T18:57:09Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-03T06:04:58Z",
+                "open_issues": 18,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26609,
+                "stars": 26614,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -347,11 +347,11 @@
                 "id": 119047018,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-09T15:26:12Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-03T13:31:53Z",
+                "open_issues": 3,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9341,
+                "stars": 9342,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 176,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6560,
+                "stars": 6562,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -418,7 +418,7 @@
                 "open_issues": 32,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5818,
+                "stars": 5819,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -1129,31 +1129,6 @@
             },
             {
               "node_type": "item",
-              "title": "grtcdr's startpages",
-              "description": "grtcdr's awesome collection of clean, good looking, startpages. Love the Nodric one!",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "A collection of startpages for your favorite browser.",
-                "homepage": null,
-                "id": 284541779,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2022-05-16T17:34:57Z",
-                "open_issues": 0,
-                "owner": "grtcdr",
-                "repo": "startpages",
-                "stars": 187,
-                "topics": [
-                  "browser",
-                  "startpage",
-                  "web-ext"
-                ]
-              },
-              "first_seen": "2026-08-29T00:00:44.903Z"
-            },
-            {
-              "node_type": "item",
               "title": "StartTree",
               "description": "A terminal-style home page replicating the tree command, modified from this start page, which no longer exists.",
               "children": [],
@@ -1170,6 +1145,31 @@
                 "repo": "StartTree",
                 "stars": 187,
                 "topics": []
+              },
+              "first_seen": "2026-08-29T00:00:44.903Z"
+            },
+            {
+              "node_type": "item",
+              "title": "grtcdr's startpages",
+              "description": "grtcdr's awesome collection of clean, good looking, startpages. Love the Nodric one!",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "A collection of startpages for your favorite browser.",
+                "homepage": null,
+                "id": 284541779,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2022-05-16T17:34:57Z",
+                "open_issues": 0,
+                "owner": "grtcdr",
+                "repo": "startpages",
+                "stars": 186,
+                "topics": [
+                  "browser",
+                  "startpage",
+                  "web-ext"
+                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -1542,7 +1542,7 @@
                 "open_issues": 10,
                 "owner": "deepjyoti30",
                 "repo": "startpage",
-                "stars": 666,
+                "stars": 665,
                 "topics": [
                   "chrome",
                   "chrome-addon",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:07:12.599Z",
+    "last_updated": "2026-10-03T18:40:36.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
