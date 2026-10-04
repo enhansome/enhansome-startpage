@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-03T13:50:47Z",
+                "last_commit": "2026-10-04T14:03:32Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32961,
+                "stars": 32977,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 18,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26614,
+                "stars": 26624,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -393,7 +393,7 @@
                 "open_issues": 176,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6562,
+                "stars": 6563,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -488,7 +488,7 @@
                 "open_issues": 48,
                 "owner": "hywax",
                 "repo": "mafl",
-                "stars": 756,
+                "stars": 757,
                 "topics": [
                   "application",
                   "dashboard",
@@ -552,7 +552,7 @@
                 "open_issues": 17,
                 "owner": "daledavies",
                 "repo": "jump",
-                "stars": 605,
+                "stars": 606,
                 "topics": [
                   "dashboard",
                   "directory",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:40:36.181Z",
+    "last_updated": "2026-10-04T18:37:58.281Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
