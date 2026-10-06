@@ -287,7 +287,7 @@
                 "open_issues": 0,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32989,
+                "stars": 32995,
                 "topics": [
                   "docker",
                   "homepage",
@@ -313,10 +313,10 @@
                 "language": "Vue",
                 "license": "MIT",
                 "last_commit": "2026-10-03T06:04:58Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26637,
+                "stars": 26635,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9341,
+                "stars": 9342,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 176,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6562,
+                "stars": 6564,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -418,7 +418,7 @@
                 "open_issues": 32,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5818,
+                "stars": 5819,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -616,7 +616,7 @@
                 "id": 437751011,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T19:15:11Z",
+                "last_commit": "2026-10-06T19:45:40Z",
                 "open_issues": 4,
                 "owner": "allister-grange",
                 "repo": "startertab",
@@ -1500,7 +1500,7 @@
                 "open_issues": 28,
                 "owner": "mue",
                 "repo": "mue",
-                "stars": 761,
+                "stars": 762,
                 "topics": [
                   "browser-extension",
                   "chrome",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:40:46.552Z",
+    "last_updated": "2026-10-06T20:17:12.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
