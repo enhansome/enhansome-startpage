@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-05T12:33:26Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-06T04:21:27Z",
+                "open_issues": 0,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32986,
+                "stars": 32989,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 18,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26633,
+                "stars": 26637,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -955,7 +955,7 @@
                 "id": 396123753,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T02:40:12Z",
+                "last_commit": "2026-10-06T10:21:20Z",
                 "open_issues": 67,
                 "owner": "toboshii",
                 "repo": "hajimari",
@@ -1039,7 +1039,7 @@
                 "open_issues": 6,
                 "owner": "refact0r",
                 "repo": "re-start",
-                "stars": 444,
+                "stars": 445,
                 "topics": [
                   "homepage",
                   "new-tab",
@@ -1500,7 +1500,7 @@
                 "open_issues": 28,
                 "owner": "mue",
                 "repo": "mue",
-                "stars": 760,
+                "stars": 761,
                 "topics": [
                   "browser-extension",
                   "chrome",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:00:15.896Z",
+    "last_updated": "2026-10-06T10:40:46.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
