@@ -287,7 +287,7 @@
                 "open_issues": 0,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 32995,
+                "stars": 33000,
                 "topics": [
                   "docker",
                   "homepage",
@@ -312,11 +312,11 @@
                 "id": 343078060,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-10-03T06:04:58Z",
+                "last_commit": "2026-10-07T09:39:24Z",
                 "open_issues": 19,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26635,
+                "stars": 26641,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9342,
+                "stars": 9341,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 176,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6564,
+                "stars": 6565,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -418,7 +418,7 @@
                 "open_issues": 32,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5819,
+                "stars": 5818,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -459,7 +459,7 @@
                 "open_issues": 22,
                 "owner": "migueravila",
                 "repo": "bento",
-                "stars": 2200,
+                "stars": 2201,
                 "topics": [
                   "bento",
                   "feather-icons",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T20:17:12.826Z",
+    "last_updated": "2026-10-07T20:35:40.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
