@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-09T04:29:27Z",
+                "last_commit": "2026-10-10T18:31:44Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33034,
+                "stars": 33046,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 20,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26662,
+                "stars": 26669,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9343,
+                "stars": 9348,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -1270,6 +1270,31 @@
             },
             {
               "node_type": "item",
+              "title": "Minimal-StartPage",
+              "description": "Minimalistic light/darkish startpage",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Minimalistic startpage for chrome.",
+                "homepage": "https://nimplex.github.io/Minimal-StartPage/",
+                "id": 324250717,
+                "language": "HTML",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-09T20:44:58Z",
+                "open_issues": 0,
+                "owner": "Nimplex",
+                "repo": "Minimal-StartPage",
+                "stars": 35,
+                "topics": [
+                  "chrome",
+                  "minimalistic",
+                  "startpage"
+                ]
+              },
+              "first_seen": "2026-08-29T00:00:44.903Z"
+            },
+            {
+              "node_type": "item",
               "title": "startpage-onedark",
               "description": "A minimal customizable startpage with the OneDark color palette.",
               "children": [],
@@ -1286,31 +1311,6 @@
                 "repo": "startpage-onedark",
                 "stars": 35,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T00:00:44.903Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Minimal-StartPage",
-              "description": "Minimalistic light/darkish startpage",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Minimalistic startpage for chrome.",
-                "homepage": "https://nimplex.github.io/Minimal-StartPage/",
-                "id": 324250717,
-                "language": "CSS",
-                "license": "GPL-3.0",
-                "last_commit": "2023-09-16T21:22:56Z",
-                "open_issues": 0,
-                "owner": "Nimplex",
-                "repo": "Minimal-StartPage",
-                "stars": 34,
-                "topics": [
-                  "chrome",
-                  "minimalistic",
-                  "startpage"
-                ]
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -1500,7 +1500,7 @@
                 "open_issues": 28,
                 "owner": "mue",
                 "repo": "mue",
-                "stars": 763,
+                "stars": 764,
                 "topics": [
                   "browser-extension",
                   "chrome",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:06:02.403Z",
+    "last_updated": "2026-10-10T19:16:22.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
@@ -1613,7 +1613,7 @@
       "open_issues": 8,
       "owner": "jnmcfly",
       "repo": "awesome-startpage",
-      "stars": 1318,
+      "stars": 1319,
       "topics": [
         "awesome",
         "awesome-list",

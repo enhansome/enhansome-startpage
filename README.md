@@ -36,9 +36,9 @@
 
 ### Hosted
 
-* [Homepage](https://github.com/gethomepage/homepage) ⭐ 33,034 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-09 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
-* [Dashy](https://github.com/Lissy93/dashy) ⭐ 26,662 | 🐛 20 | 🌐 Vue | 📅 2026-10-09 - Feature-rich, self-hosted start page for your browser or homelab.
-* [Heimdall](https://github.com/linuxserver/Heimdall) ⭐ 9,343 | 🐛 4 | 🌐 PHP | 📅 2026-10-03 - Server-service based application orientated dashboard.
+* [Homepage](https://github.com/gethomepage/homepage) ⭐ 33,046 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-10 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
+* [Dashy](https://github.com/Lissy93/dashy) ⭐ 26,669 | 🐛 20 | 🌐 Vue | 📅 2026-10-09 - Feature-rich, self-hosted start page for your browser or homelab.
+* [Heimdall](https://github.com/linuxserver/Heimdall) ⭐ 9,348 | 🐛 4 | 🌐 PHP | 📅 2026-10-03 - Server-service based application orientated dashboard.
 * [flame](https://github.com/pawelmalak/flame) ⭐ 6,567 | 🐛 182 | 🌐 TypeScript | 📅 2026-06-25 - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.
 * [Organizr](https://github.com/causefx/Organizr) ⭐ 5,817 | 🐛 32 | 🌐 PHP | 📅 2026-05-19 - Organizr allows you to setup "Tabs" that will be loaded all in one webpage.
 * [Bento](https://github.com/MiguelRAvila/Bento) ⭐ 2,203 | 🐛 22 | 🌐 JavaScript | 📅 2025-04-21 - Bento is an local/self-hosted tile-based clean startpage.
@@ -75,8 +75,8 @@
 * [Tea Green](https://github.com/sadparadiseinhell/tea-green) ⭐ 81 | 🐛 0 | 🌐 CSS | 📅 2021-01-14 - Startpage with Weather and To-Do List features.
 * [StartOS](https://github.com/Jaredk3nt/startos) ⭐ 67 | 🐛 0 | 🌐 JavaScript | 📅 2020-10-06 - A different take on startpages. StartOS will bring you back the 90s.
 * [null](https://github.com/sadparadiseinhell/null) ⭐ 59 | 🐛 1 | 🌐 JavaScript | 📅 2021-03-11 - Another one simple startpage.
+* [Minimal-StartPage](https://github.com/Nimplex/Minimal-StartPage) ⭐ 35 | 🐛 0 | 🌐 HTML | 📅 2026-10-09 - Minimalistic light/darkish startpage
 * [startpage-onedark](https://github.com/AbdelrhmanNile/startpage-onedark) ⭐ 35 | 🐛 0 | 🌐 JavaScript | 📅 2021-11-12 - A minimal customizable startpage with the OneDark color palette.
-* [Minimal-StartPage](https://github.com/Nimplex/Minimal-StartPage) ⭐ 34 | 🐛 0 | 🌐 CSS | 📅 2023-09-16 - Minimalistic light/darkish startpage
 * [search](https://github.com/l0bsters/search) ⭐ 30 | 🐛 0 | 🌐 HTML | 📅 2020-10-30 - Search offers you an tangle of nodes for your bookmarks.
 * [b-w-kitty](https://github.com/PrettyCoffee/b-w-kitty) ⭐ 23 | 🐛 1 | 🌐 HTML | 📅 2022-10-08 - Very creative and customizable startpage, not only for catlovers.
 * [Chicago Startpage](https://github.com/timothypholmes/start-page-chicago) ⭐ 13 | 🐛 1 | 🌐 HTML | 📅 2022-04-08 - Clean startpage with moody video backgrounds.
@@ -91,7 +91,7 @@
 
 ### Chrome Add-Ons
 
-* [mue](https://github.com/mue/mue) ⭐ 763 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-03 - Fast, open and free-to-use new tab page for modern browsers.
+* [mue](https://github.com/mue/mue) ⭐ 764 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-03 - Fast, open and free-to-use new tab page for modern browsers.
 * [deepjyoti30's Startpage](https://github.com/deepjyoti30/startpage) ⭐ 666 | 🐛 10 | 🌐 JavaScript | 📅 2023-02-20 - A minimal starpage for Chrome and Firefox.
 * [Sourcetab](https://github.com/sourcetab/sourcetab) ⚠️ Archived - An open-source dashboard for your browser's new tab page, customizable with a variety of widgets and settings. Available on [Chrome](https://chrome.google.com/webstore/detail/sourcetab/akomlegpokabommpdjfmhnbdcnaefmdo), [Edge](https://microsoftedge.microsoft.com/addons/detail/sourcetab/fpknfiaimmgbbpplehjclidiphmhljeh), and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sourcetab/).
 * [Bonjourr](https://chrome.google.com/webstore/detail/bonjourr/dlnejlppicbjfcfcedcflplfjajinajd) - iOS and open source styled StartPage. Also available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bonjourr-startpage/)
@@ -115,8 +115,8 @@
 
 ## Contributing
 
-* [contribution guidelines](https://github.com/jnmcfly/awsome-startpage/blob/master/CONTRIBUTING.md) ⭐ 1,318 | 🐛 8 | 📅 2026-08-14
+* [contribution guidelines](https://github.com/jnmcfly/awsome-startpage/blob/master/CONTRIBUTING.md) ⭐ 1,319 | 🐛 8 | 📅 2026-08-14
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
