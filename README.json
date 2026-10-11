@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-10T18:31:44Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-11T12:29:48Z",
+                "open_issues": 2,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33046,
+                "stars": 33059,
                 "topics": [
                   "docker",
                   "homepage",
@@ -312,11 +312,11 @@
                 "id": 343078060,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-10-09T16:12:45Z",
+                "last_commit": "2026-10-11T18:26:31Z",
                 "open_issues": 20,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26669,
+                "stars": 26679,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9348,
+                "stars": 9352,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 182,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6567,
+                "stars": 6566,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -415,10 +415,10 @@
                 "language": "PHP",
                 "license": "GPL-3.0",
                 "last_commit": "2026-05-19T23:24:29Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5817,
+                "stars": 5818,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -459,7 +459,7 @@
                 "open_issues": 22,
                 "owner": "migueravila",
                 "repo": "bento",
-                "stars": 2203,
+                "stars": 2202,
                 "topics": [
                   "bento",
                   "feather-icons",
@@ -1416,9 +1416,9 @@
                 "homepage": null,
                 "id": 1182615956,
                 "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-18T16:34:31Z",
-                "open_issues": 1,
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-11T10:53:59Z",
+                "open_issues": 0,
                 "owner": "mina-ai-assistant",
                 "repo": "static-dashboard",
                 "stars": 2,
@@ -1500,7 +1500,7 @@
                 "open_issues": 28,
                 "owner": "mue",
                 "repo": "mue",
-                "stars": 764,
+                "stars": 765,
                 "topics": [
                   "browser-extension",
                   "chrome",
@@ -1542,7 +1542,7 @@
                 "open_issues": 10,
                 "owner": "deepjyoti30",
                 "repo": "startpage",
-                "stars": 666,
+                "stars": 665,
                 "topics": [
                   "chrome",
                   "chrome-addon",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T19:16:22.679Z",
+    "last_updated": "2026-10-11T19:32:28.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
