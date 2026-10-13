@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "kholmogorov27",
                 "repo": "chevron",
-                "stars": 401,
+                "stars": 402,
                 "topics": [
                   "animated",
                   "artificial-intelligence",
@@ -87,7 +87,7 @@
                 "id": 442512423,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T11:51:17Z",
+                "last_commit": "2026-10-13T17:48:39Z",
                 "open_issues": 9,
                 "owner": "PrettyCoffee",
                 "repo": "yet-another-generic-startpage",
@@ -204,7 +204,7 @@
                     "open_issues": 0,
                     "owner": "pivoshenko",
                     "repo": "catppuccin-startpage",
-                    "stars": 310,
+                    "stars": 311,
                     "topics": [
                       "awesome-homepage",
                       "awesome-startpage",
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-12T12:44:26Z",
+                "last_commit": "2026-10-13T13:44:41Z",
                 "open_issues": 2,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33092,
+                "stars": 33112,
                 "topics": [
                   "docker",
                   "homepage",
@@ -312,11 +312,11 @@
                 "id": 343078060,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-10-12T17:33:31Z",
+                "last_commit": "2026-10-13T12:24:24Z",
                 "open_issues": 20,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26699,
+                "stars": 26705,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9352,
+                "stars": 9356,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 181,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6571,
+                "stars": 6570,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -418,7 +418,7 @@
                 "open_issues": 33,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5817,
+                "stars": 5816,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -488,7 +488,7 @@
                 "open_issues": 48,
                 "owner": "hywax",
                 "repo": "mafl",
-                "stars": 758,
+                "stars": 757,
                 "topics": [
                   "application",
                   "dashboard",
@@ -645,7 +645,7 @@
                 "id": 349154701,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T01:34:39Z",
+                "last_commit": "2026-10-13T12:52:15Z",
                 "open_issues": 5,
                 "owner": "PrettyCoffee",
                 "repo": "fluidity",
@@ -676,7 +676,7 @@
                 "open_issues": 2,
                 "owner": "AllJavi",
                 "repo": "tartarus-startpage",
-                "stars": 323,
+                "stars": 324,
                 "topics": [
                   "anime",
                   "chrome",
@@ -866,7 +866,7 @@
                 "open_issues": 0,
                 "owner": "TheMY3",
                 "repo": "dawn-startpage",
-                "stars": 20,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
@@ -1418,7 +1418,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-11T10:53:59Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "mina-ai-assistant",
                 "repo": "static-dashboard",
                 "stars": 2,
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:29:19.840Z",
+    "last_updated": "2026-10-13T20:39:52.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
@@ -1613,7 +1613,7 @@
       "open_issues": 8,
       "owner": "jnmcfly",
       "repo": "awesome-startpage",
-      "stars": 1319,
+      "stars": 1318,
       "topics": [
         "awesome",
         "awesome-list",
