@@ -204,7 +204,7 @@
                     "open_issues": 0,
                     "owner": "pivoshenko",
                     "repo": "catppuccin-startpage",
-                    "stars": 311,
+                    "stars": 312,
                     "topics": [
                       "awesome-homepage",
                       "awesome-startpage",
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-13T13:44:41Z",
+                "last_commit": "2026-10-14T12:29:00Z",
                 "open_issues": 2,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33112,
+                "stars": 33134,
                 "topics": [
                   "docker",
                   "homepage",
@@ -312,11 +312,11 @@
                 "id": 343078060,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-10-13T12:24:24Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-14T09:20:55Z",
+                "open_issues": 19,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26705,
+                "stars": 26713,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9356,
+                "stars": 9357,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 181,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6570,
+                "stars": 6572,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -418,7 +418,7 @@
                 "open_issues": 33,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5816,
+                "stars": 5817,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:39:52.431Z",
+    "last_updated": "2026-10-14T19:21:00.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
@@ -1610,7 +1610,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-14T22:27:16Z",
-      "open_issues": 8,
+      "open_issues": 9,
       "owner": "jnmcfly",
       "repo": "awesome-startpage",
       "stars": 1318,
