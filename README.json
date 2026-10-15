@@ -87,7 +87,7 @@
                 "id": 442512423,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T17:48:39Z",
+                "last_commit": "2026-10-15T10:58:48Z",
                 "open_issues": 9,
                 "owner": "PrettyCoffee",
                 "repo": "yet-another-generic-startpage",
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-14T12:29:00Z",
+                "last_commit": "2026-10-15T18:39:45Z",
                 "open_issues": 2,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33134,
+                "stars": 33157,
                 "topics": [
                   "docker",
                   "homepage",
@@ -312,11 +312,11 @@
                 "id": 343078060,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-10-14T09:20:55Z",
+                "last_commit": "2026-10-15T13:40:41Z",
                 "open_issues": 19,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26713,
+                "stars": 26717,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9357,
+                "stars": 9359,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 181,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6572,
+                "stars": 6575,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -955,7 +955,7 @@
                 "id": 396123753,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T01:53:12Z",
+                "last_commit": "2026-10-14T21:19:16Z",
                 "open_issues": 67,
                 "owner": "toboshii",
                 "repo": "hajimari",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T19:21:00.092Z",
+    "last_updated": "2026-10-15T19:05:58.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
