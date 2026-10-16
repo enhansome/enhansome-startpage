@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "kholmogorov27",
                 "repo": "chevron",
-                "stars": 402,
+                "stars": 403,
                 "topics": [
                   "animated",
                   "artificial-intelligence",
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-15T18:39:45Z",
+                "last_commit": "2026-10-16T12:28:45Z",
                 "open_issues": 2,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33157,
+                "stars": 33190,
                 "topics": [
                   "docker",
                   "homepage",
@@ -312,11 +312,11 @@
                 "id": 343078060,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-10-15T13:40:41Z",
+                "last_commit": "2026-10-16T14:46:43Z",
                 "open_issues": 19,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26717,
+                "stars": 26722,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9359,
+                "stars": 9360,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 181,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6575,
+                "stars": 6596,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -418,7 +418,7 @@
                 "open_issues": 33,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5817,
+                "stars": 5818,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -552,7 +552,7 @@
                 "open_issues": 17,
                 "owner": "daledavies",
                 "repo": "jump",
-                "stars": 606,
+                "stars": 605,
                 "topics": [
                   "dashboard",
                   "directory",
@@ -649,7 +649,7 @@
                 "open_issues": 5,
                 "owner": "PrettyCoffee",
                 "repo": "fluidity",
-                "stars": 362,
+                "stars": 364,
                 "topics": [
                   "emotionjs",
                   "github-page",
@@ -955,7 +955,7 @@
                 "id": 396123753,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T21:19:16Z",
+                "last_commit": "2026-10-16T14:21:58Z",
                 "open_issues": 67,
                 "owner": "toboshii",
                 "repo": "hajimari",
@@ -984,7 +984,7 @@
                 "open_issues": 3,
                 "owner": "Jaredk3nt",
                 "repo": "homepage",
-                "stars": 539,
+                "stars": 540,
                 "topics": [
                   "homepage",
                   "startpage",
@@ -1039,7 +1039,7 @@
                 "open_issues": 6,
                 "owner": "refact0r",
                 "repo": "re-start",
-                "stars": 450,
+                "stars": 452,
                 "topics": [
                   "homepage",
                   "new-tab",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T19:05:58.809Z",
+    "last_updated": "2026-10-16T18:47:43.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
