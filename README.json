@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-16T12:28:45Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-17T06:40:14Z",
+                "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33190,
+                "stars": 33199,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 19,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26722,
+                "stars": 26729,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9360,
+                "stars": 9359,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 181,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6596,
+                "stars": 6610,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -488,7 +488,7 @@
                 "open_issues": 48,
                 "owner": "hywax",
                 "repo": "mafl",
-                "stars": 757,
+                "stars": 758,
                 "topics": [
                   "application",
                   "dashboard",
@@ -1601,7 +1601,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:47:43.063Z",
+    "last_updated": "2026-10-17T17:51:19.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
@@ -1613,7 +1613,7 @@
       "open_issues": 9,
       "owner": "jnmcfly",
       "repo": "awesome-startpage",
-      "stars": 1318,
+      "stars": 1319,
       "topics": [
         "awesome",
         "awesome-list",
