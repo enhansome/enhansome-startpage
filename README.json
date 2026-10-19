@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-17T06:40:14Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-19T12:30:37Z",
+                "open_issues": 3,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33215,
+                "stars": 33229,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 19,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26740,
+                "stars": 26759,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -347,11 +347,11 @@
                 "id": 119047018,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-18T12:13:00Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-19T08:16:33Z",
+                "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9358,
+                "stars": 9362,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 181,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6623,
+                "stars": 6628,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -708,7 +708,7 @@
                 "open_issues": 2,
                 "owner": "imreyesjorge",
                 "repo": "root-startpage",
-                "stars": 283,
+                "stars": 284,
                 "topics": [
                   "cards",
                   "fast",
@@ -768,7 +768,7 @@
                 "open_issues": 1,
                 "owner": "Tressley",
                 "repo": "_traichu",
-                "stars": 116,
+                "stars": 117,
                 "topics": [
                   "css3",
                   "html5",
@@ -935,6 +935,40 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Homepad",
+              "description": "Self-hosted dashboard for households with per-person favorites and order, live status from Gatus, OIDC login, and an installable PWA.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Self-hosted homelab dashboard for the whole household: per-person favorites, live service health, OIDC login, installable PWA. MIT.",
+                "homepage": "https://gethomepad.dev",
+                "id": 1305276627,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-10-19T16:03:34Z",
+                "open_issues": 0,
+                "owner": "finish06",
+                "repo": "homepad",
+                "stars": 0,
+                "topics": [
+                  "dashboard",
+                  "docker",
+                  "gatus",
+                  "home-dashboard",
+                  "homelab",
+                  "homepage",
+                  "oidc",
+                  "pwa",
+                  "react",
+                  "self-hosted",
+                  "selfhosted",
+                  "startpage"
+                ]
+              },
+              "first_seen": "2026-10-19T20:34:27.278Z"
             }
           ],
           "description": null,
@@ -955,7 +989,7 @@
                 "id": 396123753,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T14:21:58Z",
+                "last_commit": "2026-10-19T15:20:46Z",
                 "open_issues": 67,
                 "owner": "toboshii",
                 "repo": "hajimari",
@@ -1542,7 +1576,7 @@
                 "open_issues": 10,
                 "owner": "deepjyoti30",
                 "repo": "startpage",
-                "stars": 665,
+                "stars": 666,
                 "topics": [
                   "chrome",
                   "chrome-addon",
@@ -1601,7 +1635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T18:04:06.608Z",
+    "last_updated": "2026-10-19T20:34:27.278Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
@@ -1609,11 +1643,11 @@
       "id": 298757796,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-14T22:27:16Z",
-      "open_issues": 9,
+      "last_commit": "2026-10-19T12:07:38Z",
+      "open_issues": 8,
       "owner": "jnmcfly",
       "repo": "awesome-startpage",
-      "stars": 1319,
+      "stars": 1320,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1624,7 +1658,7 @@
         "startpages"
       ]
     },
-    "original_repository_sha": "71878c224a41ccab823cde507d999c74bf6a666e",
+    "original_repository_sha": "3c3550ae2a56e13755fbf770315b24823942a29f",
     "enhanced_repository": "enhansome/enhansome-startpage",
     "enhanced_repository_description": null,
     "title": "Awesome Startpage with stars"
