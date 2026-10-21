@@ -87,7 +87,7 @@
                 "id": 442512423,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T15:56:49Z",
+                "last_commit": "2026-10-21T18:52:17Z",
                 "open_issues": 9,
                 "owner": "PrettyCoffee",
                 "repo": "yet-another-generic-startpage",
@@ -167,7 +167,7 @@
                 "id": 843147330,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2025-07-21T11:54:31Z",
+                "last_commit": "2026-10-21T09:56:59Z",
                 "open_issues": 0,
                 "owner": "wjkba",
                 "repo": "gta-sa-menu-startpage",
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-20T17:51:43Z",
+                "last_commit": "2026-10-21T12:28:44Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33247,
+                "stars": 33270,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 19,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26765,
+                "stars": 26774,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 4,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9362,
+                "stars": 9363,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 181,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6630,
+                "stars": 6635,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -415,10 +415,10 @@
                 "language": "PHP",
                 "license": "GPL-3.0",
                 "last_commit": "2026-05-19T23:24:29Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5817,
+                "stars": 5819,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -518,7 +518,7 @@
                 "open_issues": 5,
                 "owner": "excalith",
                 "repo": "excalith-start-page",
-                "stars": 747,
+                "stars": 748,
                 "topics": [
                   "browser",
                   "browser-start-page",
@@ -676,7 +676,7 @@
                 "open_issues": 2,
                 "owner": "AllJavi",
                 "repo": "tartarus-startpage",
-                "stars": 324,
+                "stars": 325,
                 "topics": [
                   "anime",
                   "chrome",
@@ -1073,7 +1073,7 @@
                 "open_issues": 6,
                 "owner": "refact0r",
                 "repo": "re-start",
-                "stars": 452,
+                "stars": 453,
                 "topics": [
                   "homepage",
                   "new-tab",
@@ -1534,7 +1534,7 @@
                 "open_issues": 28,
                 "owner": "mue",
                 "repo": "mue",
-                "stars": 765,
+                "stars": 766,
                 "topics": [
                   "browser-extension",
                   "chrome",
@@ -1635,7 +1635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T19:13:34.950Z",
+    "last_updated": "2026-10-21T19:17:16.065Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
@@ -1644,10 +1644,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-19T12:07:38Z",
-      "open_issues": 8,
+      "open_issues": 9,
       "owner": "jnmcfly",
       "repo": "awesome-startpage",
-      "stars": 1319,
+      "stars": 1320,
       "topics": [
         "awesome",
         "awesome-list",
