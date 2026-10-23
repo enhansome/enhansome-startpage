@@ -87,7 +87,7 @@
                 "id": 442512423,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T18:52:17Z",
+                "last_commit": "2026-10-22T20:06:29Z",
                 "open_issues": 9,
                 "owner": "PrettyCoffee",
                 "repo": "yet-another-generic-startpage",
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T17:54:49Z",
+                "last_commit": "2026-10-23T15:10:35Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33290,
+                "stars": 33322,
                 "topics": [
                   "docker",
                   "homepage",
@@ -312,11 +312,11 @@
                 "id": 343078060,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-10-22T11:05:06Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-23T13:10:28Z",
+                "open_issues": 18,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26781,
+                "stars": 26792,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -393,7 +393,7 @@
                 "open_issues": 181,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6637,
+                "stars": 6642,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -418,7 +418,7 @@
                 "open_issues": 32,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5821,
+                "stars": 5822,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -948,7 +948,7 @@
                 "id": 1305276627,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T14:31:03Z",
+                "last_commit": "2026-10-23T03:08:47Z",
                 "open_issues": 0,
                 "owner": "finish06",
                 "repo": "homepad",
@@ -1073,7 +1073,7 @@
                 "open_issues": 6,
                 "owner": "refact0r",
                 "repo": "re-start",
-                "stars": 453,
+                "stars": 454,
                 "topics": [
                   "homepage",
                   "new-tab",
@@ -1635,7 +1635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T19:12:13.385Z",
+    "last_updated": "2026-10-23T19:10:40.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
@@ -1647,7 +1647,7 @@
       "open_issues": 10,
       "owner": "jnmcfly",
       "repo": "awesome-startpage",
-      "stars": 1322,
+      "stars": 1323,
       "topics": [
         "awesome",
         "awesome-list",

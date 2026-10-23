@@ -24,7 +24,7 @@
 
 * [Chevron](https://github.com/kholmogorov27/chevron) ⭐ 404 | 🐛 9 | 🌐 JavaScript | 📅 2024-04-17 - Chevron is an animated, minimalistic and highly customisable startpage. Available in Static, Hosted and Github Pages options.
 * [Prismatic-Night](https://github.com/dbuxy218/Prismatic-Night) ⚠️ Archived - Pretty sophisticated startpage, hosted on GitHub Pages.
-* [Yet another generic startpage](https://github.com/PrettyCoffee/yet-another-generic-startpage) ⭐ 319 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-21 - Classic startpage layout. Extensive customizability.
+* [Yet another generic startpage](https://github.com/PrettyCoffee/yet-another-generic-startpage) ⭐ 319 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-22 - Classic startpage layout. Extensive customizability.
 * [Minime](https://github.com/yashchaudhari008/minime) ⭐ 37 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-13 - Minimalistic homepage with tabular bookmarks.
 * [Hexstart](https://github.com/ArmoredVortex/Hexstart) ⭐ 29 | 🐛 0 | 🌐 HTML | 📅 2026-01-18 - Highly customisable minimal startpage with hexagonal tiles, hosted on Github Pages.
 * [GTA-SA Menu Startpage](https://github.com/wjkba/gta-sa-menu-startpage) ⭐ 22 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-21 - Start page that looks like the iconic GTA San Andreas menu.
@@ -36,11 +36,11 @@
 
 ### Hosted
 
-* [Homepage](https://github.com/gethomepage/homepage) ⭐ 33,290 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-22 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
-* [Dashy](https://github.com/Lissy93/dashy) ⭐ 26,781 | 🐛 19 | 🌐 Vue | 📅 2026-10-22 - Feature-rich, self-hosted start page for your browser or homelab.
+* [Homepage](https://github.com/gethomepage/homepage) ⭐ 33,322 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-23 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
+* [Dashy](https://github.com/Lissy93/dashy) ⭐ 26,792 | 🐛 18 | 🌐 Vue | 📅 2026-10-23 - Feature-rich, self-hosted start page for your browser or homelab.
 * [Heimdall](https://github.com/linuxserver/Heimdall) ⭐ 9,365 | 🐛 4 | 🌐 PHP | 📅 2026-10-19 - Server-service based application orientated dashboard.
-* [flame](https://github.com/pawelmalak/flame) ⭐ 6,637 | 🐛 181 | 🌐 TypeScript | 📅 2026-06-25 - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.
-* [Organizr](https://github.com/causefx/Organizr) ⭐ 5,821 | 🐛 32 | 🌐 PHP | 📅 2026-05-19 - Organizr allows you to setup "Tabs" that will be loaded all in one webpage.
+* [flame](https://github.com/pawelmalak/flame) ⭐ 6,642 | 🐛 181 | 🌐 TypeScript | 📅 2026-06-25 - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.
+* [Organizr](https://github.com/causefx/Organizr) ⭐ 5,822 | 🐛 32 | 🌐 PHP | 📅 2026-05-19 - Organizr allows you to setup "Tabs" that will be loaded all in one webpage.
 * [Bento](https://github.com/MiguelRAvila/Bento) ⭐ 2,202 | 🐛 22 | 🌐 JavaScript | 📅 2025-04-21 - Bento is an local/self-hosted tile-based clean startpage.
 * [Mafl](https://github.com/hywax/mafl) ⭐ 757 | 🐛 48 | 🌐 TypeScript | 📅 2026-06-07 - Minimalistic flexible homepage.
 * [Excalith Start Page](https://github.com/excalith/excalith-start-page) ⭐ 748 | 🐛 5 | 🌐 JavaScript | 📅 2025-04-05 - A Terminal-inspired, clean, feature-rich and customizable start page for geeks.
@@ -59,14 +59,14 @@
 * [Minimalist-Startpage](https://github.com/ropoko/Startpage) ⭐ 15 | 🐛 0 | 🌐 CSS | 📅 2022-03-15 - Minimalist startpage with light/dark theme, also useful to change between searchers.
 * [MSP - Modern Start Page](https://github.com/ericblue/modern-start-page) ⭐ 14 | 🐛 4 | 🌐 TypeScript | 📅 2026-04-04 - Modern, self-hosted startpage with bookmarks, search, widgets and theme customization. Built with Astro and React.
 * [startpage-zwei](https://github.com/Thomashighbaugh/startpage-zwei) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2023-10-27 - Startpage for your browser in Next.js using Typescript and Tailwind.css with Motion Animations
-* [Homepad](https://github.com/finish06/homepad) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-20 - Self-hosted dashboard for households with per-person favorites and order, live status from Gatus, OIDC login, and an installable PWA.
+* [Homepad](https://github.com/finish06/homepad) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-23 - Self-hosted dashboard for households with per-person favorites and order, live status from Gatus, OIDC login, and an installable PWA.
 
 ### Static
 
 * [hajimari](https://github.com/toboshii/hajimari) ⭐ 822 | 🐛 67 | 🌐 Go | 📅 2026-10-20 - Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
 * [Jaredk3nt's homepage](https://github.com/Jaredk3nt/homepage) ⭐ 540 | 🐛 3 | 🌐 HTML | 📅 2024-07-22 - Custom homepage for use locally in browser.
 * [Modular Startpage](https://github.com/timothypholmes/startup-page) ⭐ 527 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-11 - Grid startpage with many different component panels.
-* [re-start](https://github.com/refact0r/re-start) ⭐ 453 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-01 - A TUI-like startpage with weather, Todoist integration, and other features.
+* [re-start](https://github.com/refact0r/re-start) ⭐ 454 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-01 - A TUI-like startpage with weather, Todoist integration, and other features.
 * [Tilde Enhanced](https://github.com/Ozencb/tilde-enhanced) ⭐ 341 | 🐛 4 | 🌐 JavaScript | 📅 2024-04-20 - A minimal startpage for your browser.
 * [aesthetic-startpage](https://github.com/Nainish-Rai/Aesthetic-Startpage) ⭐ 202 | 🐛 6 | 🌐 CSS | 📅 2024-09-15 - Aesthetic-minimal startpage with pixel art, available in 4 color themes.
 * [the-glorious-startpage](https://github.com/manilarome/the-glorious-startpage/) ⭐ 198 | 🐛 1 | 🌐 JavaScript | 📅 2024-04-27 - A bloated and modern-looking startpage. Responsive, Weather, Dynamic Background and many more.
@@ -116,8 +116,8 @@
 
 ## Contributing
 
-* [contribution guidelines](https://github.com/jnmcfly/awsome-startpage/blob/master/CONTRIBUTING.md) ⭐ 1,322 | 🐛 10 | 📅 2026-10-19
+* [contribution guidelines](https://github.com/jnmcfly/awsome-startpage/blob/master/CONTRIBUTING.md) ⭐ 1,323 | 🐛 10 | 📅 2026-10-19
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
