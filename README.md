@@ -24,7 +24,7 @@
 
 * [Chevron](https://github.com/kholmogorov27/chevron) ⭐ 404 | 🐛 9 | 🌐 JavaScript | 📅 2024-04-17 - Chevron is an animated, minimalistic and highly customisable startpage. Available in Static, Hosted and Github Pages options.
 * [Prismatic-Night](https://github.com/dbuxy218/Prismatic-Night) ⚠️ Archived - Pretty sophisticated startpage, hosted on GitHub Pages.
-* [Yet another generic startpage](https://github.com/PrettyCoffee/yet-another-generic-startpage) ⭐ 319 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-22 - Classic startpage layout. Extensive customizability.
+* [Yet another generic startpage](https://github.com/PrettyCoffee/yet-another-generic-startpage) ⭐ 319 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-24 - Classic startpage layout. Extensive customizability.
 * [Minime](https://github.com/yashchaudhari008/minime) ⭐ 37 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-13 - Minimalistic homepage with tabular bookmarks.
 * [Hexstart](https://github.com/ArmoredVortex/Hexstart) ⭐ 29 | 🐛 0 | 🌐 HTML | 📅 2026-01-18 - Highly customisable minimal startpage with hexagonal tiles, hosted on Github Pages.
 * [GTA-SA Menu Startpage](https://github.com/wjkba/gta-sa-menu-startpage) ⭐ 22 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-21 - Start page that looks like the iconic GTA San Andreas menu.
@@ -36,17 +36,17 @@
 
 ### Hosted
 
-* [Homepage](https://github.com/gethomepage/homepage) ⭐ 33,322 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-23 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
-* [Dashy](https://github.com/Lissy93/dashy) ⭐ 26,792 | 🐛 18 | 🌐 Vue | 📅 2026-10-23 - Feature-rich, self-hosted start page for your browser or homelab.
-* [Heimdall](https://github.com/linuxserver/Heimdall) ⭐ 9,365 | 🐛 4 | 🌐 PHP | 📅 2026-10-19 - Server-service based application orientated dashboard.
-* [flame](https://github.com/pawelmalak/flame) ⭐ 6,642 | 🐛 181 | 🌐 TypeScript | 📅 2026-06-25 - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.
+* [Homepage](https://github.com/gethomepage/homepage) ⭐ 33,333 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-24 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
+* [Dashy](https://github.com/Lissy93/dashy) ⭐ 26,800 | 🐛 19 | 🌐 Vue | 📅 2026-10-23 - Feature-rich, self-hosted start page for your browser or homelab.
+* [Heimdall](https://github.com/linuxserver/Heimdall) ⭐ 9,367 | 🐛 4 | 🌐 PHP | 📅 2026-10-19 - Server-service based application orientated dashboard.
+* [flame](https://github.com/pawelmalak/flame) ⭐ 6,645 | 🐛 181 | 🌐 TypeScript | 📅 2026-06-25 - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.
 * [Organizr](https://github.com/causefx/Organizr) ⭐ 5,822 | 🐛 32 | 🌐 PHP | 📅 2026-05-19 - Organizr allows you to setup "Tabs" that will be loaded all in one webpage.
 * [Bento](https://github.com/MiguelRAvila/Bento) ⭐ 2,202 | 🐛 22 | 🌐 JavaScript | 📅 2025-04-21 - Bento is an local/self-hosted tile-based clean startpage.
-* [Mafl](https://github.com/hywax/mafl) ⭐ 757 | 🐛 48 | 🌐 TypeScript | 📅 2026-06-07 - Minimalistic flexible homepage.
+* [Mafl](https://github.com/hywax/mafl) ⭐ 758 | 🐛 48 | 🌐 TypeScript | 📅 2026-06-07 - Minimalistic flexible homepage.
 * [Excalith Start Page](https://github.com/excalith/excalith-start-page) ⭐ 748 | 🐛 5 | 🌐 JavaScript | 📅 2025-04-05 - A Terminal-inspired, clean, feature-rich and customizable start page for geeks.
 * [Jump](https://github.com/daledavies/jump) ⭐ 604 | 🐛 19 | 🌐 PHP | 📅 2026-10-22 - Self-hosted startpage designed to be simple, stylish, fast and secure.
 * [Modular Grid Page](https://github.com/timothypholmes/startup-page) ⭐ 527 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-11 - Modular Grid Start Page for your Browser.
-* [startertab](https://github.com/allister-grange/startertab) ⭐ 412 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-08 - A custom new tab page, keeping all the best info handy.
+* [startertab](https://github.com/allister-grange/startertab) ⭐ 412 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-08 - A custom new tab page, keeping all the best info handy.
 * [fluidity](https://github.com/PrettyCoffee/fluidity) ⭐ 364 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-22 - Super smooth and stylish startpage. Tuned aesthetic.
 * [Tartarus](https://github.com/AllJavi/tartarus-startpage) ⭐ 325 | 🐛 2 | 🌐 JavaScript | 📅 2023-11-19 - Aesthetic and clean startpage with material gruvbox style, designed for smooth usage.
 * [root](https://github.com/imreyesjorge/root-startpage) ⭐ 284 | 🐛 2 | 🌐 JavaScript | 📅 2023-09-19 - Root is a start-page aimed to simplicity and elegance.
@@ -57,8 +57,8 @@
 * [Nordic Goose](https://github.com/PrettyCoffee/nordic-goose) ⭐ 25 | 🐛 1 | 🌐 TypeScript | 📅 2023-04-13 - Nordic goose is a new tab extension (aka startpage) with nord colors and a dancing goose.
 * [Dawn](https://github.com/TheMY3/dawn-startpage) ⭐ 21 | 🐛 0 | 🌐 JavaScript | 📅 2025-03-17 - Clean Nord-themed startpage with hotkey support, dynamic configuration, and Chrome extension compatibility.
 * [Minimalist-Startpage](https://github.com/ropoko/Startpage) ⭐ 15 | 🐛 0 | 🌐 CSS | 📅 2022-03-15 - Minimalist startpage with light/dark theme, also useful to change between searchers.
-* [MSP - Modern Start Page](https://github.com/ericblue/modern-start-page) ⭐ 14 | 🐛 4 | 🌐 TypeScript | 📅 2026-04-04 - Modern, self-hosted startpage with bookmarks, search, widgets and theme customization. Built with Astro and React.
-* [startpage-zwei](https://github.com/Thomashighbaugh/startpage-zwei) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2023-10-27 - Startpage for your browser in Next.js using Typescript and Tailwind.css with Motion Animations
+* [MSP - Modern Start Page](https://github.com/ericblue/modern-start-page) ⭐ 15 | 🐛 4 | 🌐 TypeScript | 📅 2026-04-04 - Modern, self-hosted startpage with bookmarks, search, widgets and theme customization. Built with Astro and React.
+* [startpage-zwei](https://github.com/Thomashighbaugh/startpage-zwei) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-24 - Startpage for your browser in Next.js using Typescript and Tailwind.css with Motion Animations
 * [Homepad](https://github.com/finish06/homepad) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-23 - Self-hosted dashboard for households with per-person favorites and order, live status from Gatus, OIDC login, and an installable PWA.
 
 ### Static
@@ -66,8 +66,8 @@
 * [hajimari](https://github.com/toboshii/hajimari) ⭐ 822 | 🐛 67 | 🌐 Go | 📅 2026-10-20 - Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
 * [Jaredk3nt's homepage](https://github.com/Jaredk3nt/homepage) ⭐ 540 | 🐛 3 | 🌐 HTML | 📅 2024-07-22 - Custom homepage for use locally in browser.
 * [Modular Startpage](https://github.com/timothypholmes/startup-page) ⭐ 527 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-11 - Grid startpage with many different component panels.
-* [re-start](https://github.com/refact0r/re-start) ⭐ 454 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-01 - A TUI-like startpage with weather, Todoist integration, and other features.
-* [Tilde Enhanced](https://github.com/Ozencb/tilde-enhanced) ⭐ 341 | 🐛 4 | 🌐 JavaScript | 📅 2024-04-20 - A minimal startpage for your browser.
+* [re-start](https://github.com/refact0r/re-start) ⭐ 455 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-01 - A TUI-like startpage with weather, Todoist integration, and other features.
+* [Tilde Enhanced](https://github.com/Ozencb/tilde-enhanced) ⭐ 342 | 🐛 4 | 🌐 JavaScript | 📅 2024-04-20 - A minimal startpage for your browser.
 * [aesthetic-startpage](https://github.com/Nainish-Rai/Aesthetic-Startpage) ⭐ 202 | 🐛 6 | 🌐 CSS | 📅 2024-09-15 - Aesthetic-minimal startpage with pixel art, available in 4 color themes.
 * [the-glorious-startpage](https://github.com/manilarome/the-glorious-startpage/) ⭐ 198 | 🐛 1 | 🌐 JavaScript | 📅 2024-04-27 - A bloated and modern-looking startpage. Responsive, Weather, Dynamic Background and many more.
 * [StartTree](https://github.com/Paul-Houser/StartTree) ⭐ 187 | 🐛 4 | 🌐 CSS | 📅 2024-07-10 - A terminal-style home page replicating the tree command, modified from this start page, which no longer exists.
@@ -76,7 +76,7 @@
 * [Tea Green](https://github.com/sadparadiseinhell/tea-green) ⭐ 81 | 🐛 0 | 🌐 CSS | 📅 2021-01-14 - Startpage with Weather and To-Do List features.
 * [StartOS](https://github.com/Jaredk3nt/startos) ⭐ 67 | 🐛 0 | 🌐 JavaScript | 📅 2020-10-06 - A different take on startpages. StartOS will bring you back the 90s.
 * [null](https://github.com/sadparadiseinhell/null) ⭐ 59 | 🐛 1 | 🌐 JavaScript | 📅 2021-03-11 - Another one simple startpage.
-* [Minimal-StartPage](https://github.com/Nimplex/Minimal-StartPage) ⭐ 35 | 🐛 0 | 🌐 HTML | 📅 2026-10-09 - Minimalistic light/darkish startpage
+* [Minimal-StartPage](https://github.com/Nimplex/Minimal-StartPage) ⭐ 36 | 🐛 0 | 🌐 HTML | 📅 2026-10-09 - Minimalistic light/darkish startpage
 * [startpage-onedark](https://github.com/AbdelrhmanNile/startpage-onedark) ⭐ 35 | 🐛 0 | 🌐 JavaScript | 📅 2021-11-12 - A minimal customizable startpage with the OneDark color palette.
 * [search](https://github.com/l0bsters/search) ⭐ 30 | 🐛 0 | 🌐 HTML | 📅 2020-10-30 - Search offers you an tangle of nodes for your bookmarks.
 * [b-w-kitty](https://github.com/PrettyCoffee/b-w-kitty) ⭐ 23 | 🐛 1 | 🌐 HTML | 📅 2022-10-08 - Very creative and customizable startpage, not only for catlovers.
@@ -92,7 +92,7 @@
 
 ### Chrome Add-Ons
 
-* [mue](https://github.com/mue/mue) ⭐ 766 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-03 - Fast, open and free-to-use new tab page for modern browsers.
+* [mue](https://github.com/mue/mue) ⭐ 766 | 🐛 28 | 🌐 JavaScript | 📅 2026-10-24 - Fast, open and free-to-use new tab page for modern browsers.
 * [deepjyoti30's Startpage](https://github.com/deepjyoti30/startpage) ⭐ 666 | 🐛 10 | 🌐 JavaScript | 📅 2023-02-20 - A minimal starpage for Chrome and Firefox.
 * [Sourcetab](https://github.com/sourcetab/sourcetab) ⚠️ Archived - An open-source dashboard for your browser's new tab page, customizable with a variety of widgets and settings. Available on [Chrome](https://chrome.google.com/webstore/detail/sourcetab/akomlegpokabommpdjfmhnbdcnaefmdo), [Edge](https://microsoftedge.microsoft.com/addons/detail/sourcetab/fpknfiaimmgbbpplehjclidiphmhljeh), and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sourcetab/).
 * [Bonjourr](https://chrome.google.com/webstore/detail/bonjourr/dlnejlppicbjfcfcedcflplfjajinajd) - iOS and open source styled StartPage. Also available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bonjourr-startpage/)
@@ -120,4 +120,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
