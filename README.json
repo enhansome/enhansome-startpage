@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-24T12:24:34Z",
+                "last_commit": "2026-10-25T12:24:46Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33333,
+                "stars": 33350,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 19,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26800,
+                "stars": 26806,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -393,7 +393,7 @@
                 "open_issues": 181,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6645,
+                "stars": 6648,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -418,7 +418,7 @@
                 "open_issues": 32,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5822,
+                "stars": 5823,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -459,7 +459,7 @@
                 "open_issues": 22,
                 "owner": "migueravila",
                 "repo": "bento",
-                "stars": 2202,
+                "stars": 2201,
                 "topics": [
                   "bento",
                   "feather-icons",
@@ -518,7 +518,7 @@
                 "open_issues": 5,
                 "owner": "excalith",
                 "repo": "excalith-start-page",
-                "stars": 748,
+                "stars": 747,
                 "topics": [
                   "browser",
                   "browser-start-page",
@@ -587,8 +587,8 @@
                 "id": 282710129,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T00:30:35Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-25T03:35:38Z",
+                "open_issues": 5,
                 "owner": "timh-dev",
                 "repo": "startup-page",
                 "stars": 527,
@@ -1040,8 +1040,8 @@
                 "id": 282710129,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-11T00:30:35Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-25T03:35:38Z",
+                "open_issues": 5,
                 "owner": "timh-dev",
                 "repo": "startup-page",
                 "stars": 527,
@@ -1534,7 +1534,7 @@
                 "open_issues": 28,
                 "owner": "mue",
                 "repo": "mue",
-                "stars": 766,
+                "stars": 767,
                 "topics": [
                   "browser-extension",
                   "chrome",
@@ -1635,7 +1635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:06:45.850Z",
+    "last_updated": "2026-10-25T18:23:24.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",

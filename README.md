@@ -36,16 +36,16 @@
 
 ### Hosted
 
-* [Homepage](https://github.com/gethomepage/homepage) ⭐ 33,333 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-24 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
-* [Dashy](https://github.com/Lissy93/dashy) ⭐ 26,800 | 🐛 19 | 🌐 Vue | 📅 2026-10-23 - Feature-rich, self-hosted start page for your browser or homelab.
+* [Homepage](https://github.com/gethomepage/homepage) ⭐ 33,350 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-25 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
+* [Dashy](https://github.com/Lissy93/dashy) ⭐ 26,806 | 🐛 19 | 🌐 Vue | 📅 2026-10-23 - Feature-rich, self-hosted start page for your browser or homelab.
 * [Heimdall](https://github.com/linuxserver/Heimdall) ⭐ 9,367 | 🐛 4 | 🌐 PHP | 📅 2026-10-19 - Server-service based application orientated dashboard.
-* [flame](https://github.com/pawelmalak/flame) ⭐ 6,645 | 🐛 181 | 🌐 TypeScript | 📅 2026-06-25 - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.
-* [Organizr](https://github.com/causefx/Organizr) ⭐ 5,822 | 🐛 32 | 🌐 PHP | 📅 2026-05-19 - Organizr allows you to setup "Tabs" that will be loaded all in one webpage.
-* [Bento](https://github.com/MiguelRAvila/Bento) ⭐ 2,202 | 🐛 22 | 🌐 JavaScript | 📅 2025-04-21 - Bento is an local/self-hosted tile-based clean startpage.
+* [flame](https://github.com/pawelmalak/flame) ⭐ 6,648 | 🐛 181 | 🌐 TypeScript | 📅 2026-06-25 - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.
+* [Organizr](https://github.com/causefx/Organizr) ⭐ 5,823 | 🐛 32 | 🌐 PHP | 📅 2026-05-19 - Organizr allows you to setup "Tabs" that will be loaded all in one webpage.
+* [Bento](https://github.com/MiguelRAvila/Bento) ⭐ 2,201 | 🐛 22 | 🌐 JavaScript | 📅 2025-04-21 - Bento is an local/self-hosted tile-based clean startpage.
 * [Mafl](https://github.com/hywax/mafl) ⭐ 758 | 🐛 48 | 🌐 TypeScript | 📅 2026-06-07 - Minimalistic flexible homepage.
-* [Excalith Start Page](https://github.com/excalith/excalith-start-page) ⭐ 748 | 🐛 5 | 🌐 JavaScript | 📅 2025-04-05 - A Terminal-inspired, clean, feature-rich and customizable start page for geeks.
+* [Excalith Start Page](https://github.com/excalith/excalith-start-page) ⭐ 747 | 🐛 5 | 🌐 JavaScript | 📅 2025-04-05 - A Terminal-inspired, clean, feature-rich and customizable start page for geeks.
 * [Jump](https://github.com/daledavies/jump) ⭐ 604 | 🐛 19 | 🌐 PHP | 📅 2026-10-22 - Self-hosted startpage designed to be simple, stylish, fast and secure.
-* [Modular Grid Page](https://github.com/timothypholmes/startup-page) ⭐ 527 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-11 - Modular Grid Start Page for your Browser.
+* [Modular Grid Page](https://github.com/timothypholmes/startup-page) ⭐ 527 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-25 - Modular Grid Start Page for your Browser.
 * [startertab](https://github.com/allister-grange/startertab) ⭐ 412 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-08 - A custom new tab page, keeping all the best info handy.
 * [fluidity](https://github.com/PrettyCoffee/fluidity) ⭐ 364 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-22 - Super smooth and stylish startpage. Tuned aesthetic.
 * [Tartarus](https://github.com/AllJavi/tartarus-startpage) ⭐ 325 | 🐛 2 | 🌐 JavaScript | 📅 2023-11-19 - Aesthetic and clean startpage with material gruvbox style, designed for smooth usage.
@@ -65,7 +65,7 @@
 
 * [hajimari](https://github.com/toboshii/hajimari) ⭐ 822 | 🐛 67 | 🌐 Go | 📅 2026-10-20 - Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
 * [Jaredk3nt's homepage](https://github.com/Jaredk3nt/homepage) ⭐ 540 | 🐛 3 | 🌐 HTML | 📅 2024-07-22 - Custom homepage for use locally in browser.
-* [Modular Startpage](https://github.com/timothypholmes/startup-page) ⭐ 527 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-11 - Grid startpage with many different component panels.
+* [Modular Startpage](https://github.com/timothypholmes/startup-page) ⭐ 527 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-25 - Grid startpage with many different component panels.
 * [re-start](https://github.com/refact0r/re-start) ⭐ 455 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-01 - A TUI-like startpage with weather, Todoist integration, and other features.
 * [Tilde Enhanced](https://github.com/Ozencb/tilde-enhanced) ⭐ 342 | 🐛 4 | 🌐 JavaScript | 📅 2024-04-20 - A minimal startpage for your browser.
 * [aesthetic-startpage](https://github.com/Nainish-Rai/Aesthetic-Startpage) ⭐ 202 | 🐛 6 | 🌐 CSS | 📅 2024-09-15 - Aesthetic-minimal startpage with pixel art, available in 4 color themes.
@@ -92,7 +92,7 @@
 
 ### Chrome Add-Ons
 
-* [mue](https://github.com/mue/mue) ⭐ 766 | 🐛 28 | 🌐 JavaScript | 📅 2026-10-24 - Fast, open and free-to-use new tab page for modern browsers.
+* [mue](https://github.com/mue/mue) ⭐ 767 | 🐛 28 | 🌐 JavaScript | 📅 2026-10-24 - Fast, open and free-to-use new tab page for modern browsers.
 * [deepjyoti30's Startpage](https://github.com/deepjyoti30/startpage) ⭐ 666 | 🐛 10 | 🌐 JavaScript | 📅 2023-02-20 - A minimal starpage for Chrome and Firefox.
 * [Sourcetab](https://github.com/sourcetab/sourcetab) ⚠️ Archived - An open-source dashboard for your browser's new tab page, customizable with a variety of widgets and settings. Available on [Chrome](https://chrome.google.com/webstore/detail/sourcetab/akomlegpokabommpdjfmhnbdcnaefmdo), [Edge](https://microsoftedge.microsoft.com/addons/detail/sourcetab/fpknfiaimmgbbpplehjclidiphmhljeh), and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sourcetab/).
 * [Bonjourr](https://chrome.google.com/webstore/detail/bonjourr/dlnejlppicbjfcfcedcflplfjajinajd) - iOS and open source styled StartPage. Also available for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bonjourr-startpage/)
@@ -120,4 +120,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
