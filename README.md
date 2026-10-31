@@ -36,16 +36,16 @@
 
 ### Hosted
 
-* [Homepage](https://github.com/gethomepage/homepage) ⭐ 33,454 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-30 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
-* [Dashy](https://github.com/Lissy93/dashy) ⭐ 26,874 | 🐛 14 | 🌐 Vue | 📅 2026-10-30 - Feature-rich, self-hosted start page for your browser or homelab.
-* [Heimdall](https://github.com/linuxserver/Heimdall) ⭐ 9,378 | 🐛 4 | 🌐 PHP | 📅 2026-10-29 - Server-service based application orientated dashboard.
+* [Homepage](https://github.com/gethomepage/homepage) ⭐ 33,465 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-31 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
+* [Dashy](https://github.com/Lissy93/dashy) ⭐ 26,880 | 🐛 14 | 🌐 Vue | 📅 2026-10-31 - Feature-rich, self-hosted start page for your browser or homelab.
+* [Heimdall](https://github.com/linuxserver/Heimdall) ⭐ 9,381 | 🐛 4 | 🌐 PHP | 📅 2026-10-29 - Server-service based application orientated dashboard.
 * [flame](https://github.com/pawelmalak/flame) ⭐ 6,658 | 🐛 182 | 🌐 TypeScript | 📅 2026-06-25 - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.
-* [Organizr](https://github.com/causefx/Organizr) ⭐ 5,820 | 🐛 31 | 🌐 PHP | 📅 2026-05-19 - Organizr allows you to setup "Tabs" that will be loaded all in one webpage.
+* [Organizr](https://github.com/causefx/Organizr) ⭐ 5,821 | 🐛 31 | 🌐 PHP | 📅 2026-05-19 - Organizr allows you to setup "Tabs" that will be loaded all in one webpage.
 * [Bento](https://github.com/MiguelRAvila/Bento) ⭐ 2,201 | 🐛 22 | 🌐 JavaScript | 📅 2025-04-21 - Bento is an local/self-hosted tile-based clean startpage.
 * [Mafl](https://github.com/hywax/mafl) ⭐ 759 | 🐛 49 | 🌐 TypeScript | 📅 2026-06-07 - Minimalistic flexible homepage.
 * [Excalith Start Page](https://github.com/excalith/excalith-start-page) ⭐ 747 | 🐛 5 | 🌐 JavaScript | 📅 2025-04-05 - A Terminal-inspired, clean, feature-rich and customizable start page for geeks.
-* [Jump](https://github.com/daledavies/jump) ⭐ 605 | 🐛 19 | 🌐 PHP | 📅 2026-10-22 - Self-hosted startpage designed to be simple, stylish, fast and secure.
-* [Modular Grid Page](https://github.com/timothypholmes/startup-page) ⭐ 527 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-30 - Modular Grid Start Page for your Browser.
+* [Jump](https://github.com/daledavies/jump) ⭐ 604 | 🐛 19 | 🌐 PHP | 📅 2026-10-22 - Self-hosted startpage designed to be simple, stylish, fast and secure.
+* [Modular Grid Page](https://github.com/timothypholmes/startup-page) ⭐ 527 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-30 - Modular Grid Start Page for your Browser.
 * [startertab](https://github.com/allister-grange/startertab) ⭐ 412 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-30 - A custom new tab page, keeping all the best info handy.
 * [fluidity](https://github.com/PrettyCoffee/fluidity) ⭐ 365 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-27 - Super smooth and stylish startpage. Tuned aesthetic.
 * [Tartarus](https://github.com/AllJavi/tartarus-startpage) ⭐ 326 | 🐛 2 | 🌐 JavaScript | 📅 2023-11-19 - Aesthetic and clean startpage with material gruvbox style, designed for smooth usage.
@@ -59,13 +59,13 @@
 * [Minimalist-Startpage](https://github.com/ropoko/Startpage) ⭐ 15 | 🐛 0 | 🌐 CSS | 📅 2022-03-15 - Minimalist startpage with light/dark theme, also useful to change between searchers.
 * [MSP - Modern Start Page](https://github.com/ericblue/modern-start-page) ⭐ 15 | 🐛 4 | 🌐 TypeScript | 📅 2026-04-04 - Modern, self-hosted startpage with bookmarks, search, widgets and theme customization. Built with Astro and React.
 * [startpage-zwei](https://github.com/Thomashighbaugh/startpage-zwei) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-24 - Startpage for your browser in Next.js using Typescript and Tailwind.css with Motion Animations
-* [Homepad](https://github.com/finish06/homepad) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-30 - Self-hosted dashboard for households with per-person favorites and order, live status from Gatus, OIDC login, and an installable PWA.
+* [Homepad](https://github.com/finish06/homepad) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-31 - Self-hosted dashboard for households with per-person favorites and order, live status from Gatus, OIDC login, and an installable PWA.
 
 ### Static
 
-* [hajimari](https://github.com/toboshii/hajimari) ⭐ 823 | 🐛 67 | 🌐 Go | 📅 2026-10-30 - Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
+* [hajimari](https://github.com/toboshii/hajimari) ⭐ 823 | 🐛 67 | 🌐 Go | 📅 2026-10-31 - Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
 * [Jaredk3nt's homepage](https://github.com/Jaredk3nt/homepage) ⭐ 540 | 🐛 3 | 🌐 HTML | 📅 2024-07-22 - Custom homepage for use locally in browser.
-* [Modular Startpage](https://github.com/timothypholmes/startup-page) ⭐ 527 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-30 - Grid startpage with many different component panels.
+* [Modular Startpage](https://github.com/timothypholmes/startup-page) ⭐ 527 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-30 - Grid startpage with many different component panels.
 * [re-start](https://github.com/refact0r/re-start) ⭐ 457 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-01 - A TUI-like startpage with weather, Todoist integration, and other features.
 * [Tilde Enhanced](https://github.com/Ozencb/tilde-enhanced) ⭐ 342 | 🐛 4 | 🌐 JavaScript | 📅 2024-04-20 - A minimal startpage for your browser.
 * [aesthetic-startpage](https://github.com/Nainish-Rai/Aesthetic-Startpage) ⭐ 202 | 🐛 6 | 🌐 CSS | 📅 2024-09-15 - Aesthetic-minimal startpage with pixel art, available in 4 color themes.
@@ -116,8 +116,8 @@
 
 ## Contributing
 
-* [contribution guidelines](https://github.com/jnmcfly/awsome-startpage/blob/master/CONTRIBUTING.md) ⭐ 1,327 | 🐛 13 | 📅 2026-10-19
+* [contribution guidelines](https://github.com/jnmcfly/awsome-startpage/blob/master/CONTRIBUTING.md) ⭐ 1,328 | 🐛 13 | 📅 2026-10-19
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
