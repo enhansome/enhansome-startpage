@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-01T17:09:54Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-02T12:18:59Z",
+                "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33477,
+                "stars": 33487,
                 "topics": [
                   "docker",
                   "homepage",
@@ -312,11 +312,11 @@
                 "id": 343078060,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-10-31T18:56:30Z",
+                "last_commit": "2026-11-02T21:14:58Z",
                 "open_issues": 14,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26887,
+                "stars": 26899,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 5,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9384,
+                "stars": 9385,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 182,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6659,
+                "stars": 6663,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -418,7 +418,7 @@
                 "open_issues": 30,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5821,
+                "stars": 5823,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -488,7 +488,7 @@
                 "open_issues": 49,
                 "owner": "hywax",
                 "repo": "mafl",
-                "stars": 759,
+                "stars": 760,
                 "topics": [
                   "application",
                   "dashboard",
@@ -552,7 +552,7 @@
                 "open_issues": 19,
                 "owner": "daledavies",
                 "repo": "jump",
-                "stars": 604,
+                "stars": 605,
                 "topics": [
                   "dashboard",
                   "directory",
@@ -948,7 +948,7 @@
                 "id": 1305276627,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-31T00:55:12Z",
+                "last_commit": "2026-11-02T14:18:31Z",
                 "open_issues": 0,
                 "owner": "finish06",
                 "repo": "homepad",
@@ -989,7 +989,7 @@
                 "id": 396123753,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T18:15:21Z",
+                "last_commit": "2026-11-02T03:18:14Z",
                 "open_issues": 67,
                 "owner": "toboshii",
                 "repo": "hajimari",
@@ -1149,7 +1149,7 @@
                 "open_issues": 1,
                 "owner": "eromatiya",
                 "repo": "the-glorious-startpage",
-                "stars": 198,
+                "stars": 199,
                 "topics": [
                   "css",
                   "firefox",
@@ -1531,10 +1531,10 @@
                 "language": "JavaScript",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-10-24T14:13:28Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "mue",
                 "repo": "mue",
-                "stars": 771,
+                "stars": 772,
                 "topics": [
                   "browser-extension",
                   "chrome",
@@ -1635,7 +1635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T19:38:01.020Z",
+    "last_updated": "2026-11-02T23:06:13.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
