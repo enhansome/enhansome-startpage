@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-03T12:17:30Z",
+                "last_commit": "2026-11-04T20:20:26Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33509,
+                "stars": 33527,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 14,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26905,
+                "stars": 26924,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 5,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9389,
+                "stars": 9390,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 182,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6666,
+                "stars": 6665,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -591,7 +591,7 @@
                 "open_issues": 1,
                 "owner": "timh-dev",
                 "repo": "startup-page",
-                "stars": 527,
+                "stars": 528,
                 "topics": [
                   "homepage",
                   "landing-page",
@@ -989,7 +989,7 @@
                 "id": 396123753,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T03:18:14Z",
+                "last_commit": "2026-11-04T11:14:16Z",
                 "open_issues": 67,
                 "owner": "toboshii",
                 "repo": "hajimari",
@@ -1044,7 +1044,7 @@
                 "open_issues": 1,
                 "owner": "timh-dev",
                 "repo": "startup-page",
-                "stars": 527,
+                "stars": 528,
                 "topics": [
                   "homepage",
                   "landing-page",
@@ -1635,7 +1635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:57:36.718Z",
+    "last_updated": "2026-11-04T21:17:43.988Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
