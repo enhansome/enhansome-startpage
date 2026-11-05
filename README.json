@@ -91,7 +91,7 @@
                 "open_issues": 11,
                 "owner": "PrettyCoffee",
                 "repo": "yet-another-generic-startpage",
-                "stars": 321,
+                "stars": 320,
                 "topics": [
                   "customizable",
                   "emotionjs",
@@ -204,7 +204,7 @@
                     "open_issues": 0,
                     "owner": "pivoshenko",
                     "repo": "catppuccin-startpage",
-                    "stars": 313,
+                    "stars": 314,
                     "topics": [
                       "awesome-homepage",
                       "awesome-startpage",
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-04T20:20:26Z",
+                "last_commit": "2026-11-05T17:28:14Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33527,
+                "stars": 33540,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 14,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26924,
+                "stars": 26929,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 5,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9390,
+                "stars": 9392,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -418,7 +418,7 @@
                 "open_issues": 30,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5824,
+                "stars": 5825,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -645,11 +645,11 @@
                 "id": 349154701,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T01:57:04Z",
+                "last_commit": "2026-11-05T20:38:02Z",
                 "open_issues": 6,
                 "owner": "PrettyCoffee",
                 "repo": "fluidity",
-                "stars": 365,
+                "stars": 366,
                 "topics": [
                   "emotionjs",
                   "github-page",
@@ -1073,7 +1073,7 @@
                 "open_issues": 6,
                 "owner": "refact0r",
                 "repo": "re-start",
-                "stars": 458,
+                "stars": 461,
                 "topics": [
                   "homepage",
                   "new-tab",
@@ -1635,7 +1635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T21:17:43.988Z",
+    "last_updated": "2026-11-05T21:27:39.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
