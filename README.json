@@ -117,7 +117,7 @@
                 "open_issues": 7,
                 "owner": "yashchaudhari008",
                 "repo": "minime",
-                "stars": 37,
+                "stars": 38,
                 "topics": [
                   "awesome-list",
                   "beginner-friendly",
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-07T12:15:46Z",
+                "last_commit": "2026-11-08T12:15:15Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33550,
+                "stars": 33566,
                 "topics": [
                   "docker",
                   "homepage",
@@ -312,11 +312,11 @@
                 "id": 343078060,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-11-07T15:44:34Z",
+                "last_commit": "2026-11-07T23:15:15Z",
                 "open_issues": 14,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26937,
+                "stars": 26946,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -348,10 +348,10 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-10-29T17:20:47Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9396,
+                "stars": 9398,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 182,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6668,
+                "stars": 6666,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -676,7 +676,7 @@
                 "open_issues": 2,
                 "owner": "AllJavi",
                 "repo": "tartarus-startpage",
-                "stars": 328,
+                "stars": 329,
                 "topics": [
                   "anime",
                   "chrome",
@@ -948,7 +948,7 @@
                 "id": 1305276627,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-02T14:18:31Z",
+                "last_commit": "2026-11-08T18:51:05Z",
                 "open_issues": 0,
                 "owner": "finish06",
                 "repo": "homepad",
@@ -1018,7 +1018,7 @@
                 "open_issues": 3,
                 "owner": "Jaredk3nt",
                 "repo": "homepage",
-                "stars": 539,
+                "stars": 540,
                 "topics": [
                   "homepage",
                   "startpage",
@@ -1125,7 +1125,7 @@
                 "open_issues": 6,
                 "owner": "Nainish-Rai",
                 "repo": "aesthetic-startpage",
-                "stars": 202,
+                "stars": 203,
                 "topics": [
                   "css",
                   "startpage"
@@ -1318,7 +1318,7 @@
                 "open_issues": 0,
                 "owner": "Nimplex",
                 "repo": "Minimal-StartPage",
-                "stars": 36,
+                "stars": 35,
                 "topics": [
                   "chrome",
                   "minimalistic",
@@ -1343,7 +1343,7 @@
                 "open_issues": 0,
                 "owner": "AbdelrhmanNile",
                 "repo": "startpage-onedark",
-                "stars": 35,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
@@ -1635,7 +1635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:24:19.647Z",
+    "last_updated": "2026-11-08T19:39:33.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
