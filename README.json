@@ -204,7 +204,7 @@
                     "open_issues": 0,
                     "owner": "pivoshenko",
                     "repo": "catppuccin-startpage",
-                    "stars": 314,
+                    "stars": 315,
                     "topics": [
                       "awesome-homepage",
                       "awesome-startpage",
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-09T20:02:26Z",
+                "last_commit": "2026-11-10T12:17:29Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33583,
+                "stars": 33602,
                 "topics": [
                   "docker",
                   "homepage",
@@ -313,10 +313,10 @@
                 "language": "Vue",
                 "license": "MIT",
                 "last_commit": "2026-11-07T23:15:15Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26957,
+                "stars": 26965,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 6,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9400,
+                "stars": 9401,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -390,10 +390,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-06-25T12:30:10Z",
-                "open_issues": 182,
+                "open_issues": 183,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6668,
+                "stars": 6670,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -418,7 +418,7 @@
                 "open_issues": 31,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5826,
+                "stars": 5827,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -518,7 +518,7 @@
                 "open_issues": 5,
                 "owner": "excalith",
                 "repo": "excalith-start-page",
-                "stars": 748,
+                "stars": 749,
                 "topics": [
                   "browser",
                   "browser-start-page",
@@ -552,7 +552,7 @@
                 "open_issues": 19,
                 "owner": "daledavies",
                 "repo": "jump",
-                "stars": 605,
+                "stars": 606,
                 "topics": [
                   "dashboard",
                   "directory",
@@ -649,7 +649,7 @@
                 "open_issues": 6,
                 "owner": "PrettyCoffee",
                 "repo": "fluidity",
-                "stars": 366,
+                "stars": 367,
                 "topics": [
                   "emotionjs",
                   "github-page",
@@ -676,7 +676,7 @@
                 "open_issues": 2,
                 "owner": "AllJavi",
                 "repo": "tartarus-startpage",
-                "stars": 329,
+                "stars": 330,
                 "topics": [
                   "anime",
                   "chrome",
@@ -989,7 +989,7 @@
                 "id": 396123753,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T02:19:48Z",
+                "last_commit": "2026-11-10T19:12:44Z",
                 "open_issues": 67,
                 "owner": "toboshii",
                 "repo": "hajimari",
@@ -1073,7 +1073,7 @@
                 "open_issues": 6,
                 "owner": "refact0r",
                 "repo": "re-start",
-                "stars": 465,
+                "stars": 466,
                 "topics": [
                   "homepage",
                   "new-tab",
@@ -1635,7 +1635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:46:01.080Z",
+    "last_updated": "2026-11-10T21:16:43.735Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
