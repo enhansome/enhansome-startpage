@@ -87,7 +87,7 @@
                 "id": 442512423,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-06T01:02:38Z",
+                "last_commit": "2026-11-11T17:24:33Z",
                 "open_issues": 11,
                 "owner": "PrettyCoffee",
                 "repo": "yet-another-generic-startpage",
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-10T12:17:29Z",
+                "last_commit": "2026-11-11T18:05:39Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33602,
+                "stars": 33616,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 15,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26965,
+                "stars": 26974,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 6,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9401,
+                "stars": 9402,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -418,7 +418,7 @@
                 "open_issues": 31,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5827,
+                "stars": 5828,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -645,7 +645,7 @@
                 "id": 349154701,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-05T20:38:02Z",
+                "last_commit": "2026-11-11T18:16:10Z",
                 "open_issues": 6,
                 "owner": "PrettyCoffee",
                 "repo": "fluidity",
@@ -1125,7 +1125,7 @@
                 "open_issues": 6,
                 "owner": "Nainish-Rai",
                 "repo": "aesthetic-startpage",
-                "stars": 203,
+                "stars": 204,
                 "topics": [
                   "css",
                   "startpage"
@@ -1534,7 +1534,7 @@
                 "open_issues": 29,
                 "owner": "mue",
                 "repo": "mue",
-                "stars": 770,
+                "stars": 769,
                 "topics": [
                   "browser-extension",
                   "chrome",
@@ -1635,7 +1635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:16:43.735Z",
+    "last_updated": "2026-11-11T21:55:03.427Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
@@ -1647,7 +1647,7 @@
       "open_issues": 13,
       "owner": "jnmcfly",
       "repo": "awesome-startpage",
-      "stars": 1331,
+      "stars": 1332,
       "topics": [
         "awesome",
         "awesome-list",
