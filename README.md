@@ -24,7 +24,7 @@
 
 * [Chevron](https://github.com/kholmogorov27/chevron) ⭐ 405 | 🐛 9 | 🌐 JavaScript | 📅 2024-04-17 - Chevron is an animated, minimalistic and highly customisable startpage. Available in Static, Hosted and Github Pages options.
 * [Prismatic-Night](https://github.com/dbuxy218/Prismatic-Night) ⚠️ Archived - Pretty sophisticated startpage, hosted on GitHub Pages.
-* [Yet another generic startpage](https://github.com/PrettyCoffee/yet-another-generic-startpage) ⭐ 320 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-11 - Classic startpage layout. Extensive customizability.
+* [Yet another generic startpage](https://github.com/PrettyCoffee/yet-another-generic-startpage) ⭐ 320 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-12 - Classic startpage layout. Extensive customizability.
 * [Minime](https://github.com/yashchaudhari008/minime) ⭐ 37 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-13 - Minimalistic homepage with tabular bookmarks.
 * [Hexstart](https://github.com/ArmoredVortex/Hexstart) ⭐ 30 | 🐛 0 | 🌐 HTML | 📅 2026-01-18 - Highly customisable minimal startpage with hexagonal tiles, hosted on Github Pages.
 * [GTA-SA Menu Startpage](https://github.com/wjkba/gta-sa-menu-startpage) ⭐ 22 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-21 - Start page that looks like the iconic GTA San Andreas menu.
@@ -36,18 +36,18 @@
 
 ### Hosted
 
-* [Homepage](https://github.com/gethomepage/homepage) ⭐ 33,616 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-11 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
-* [Dashy](https://github.com/Lissy93/dashy) ⭐ 26,974 | 🐛 15 | 🌐 Vue | 📅 2026-11-07 - Feature-rich, self-hosted start page for your browser or homelab.
-* [Heimdall](https://github.com/linuxserver/Heimdall) ⭐ 9,402 | 🐛 6 | 🌐 PHP | 📅 2026-10-29 - Server-service based application orientated dashboard.
-* [flame](https://github.com/pawelmalak/flame) ⭐ 6,670 | 🐛 183 | 🌐 TypeScript | 📅 2026-06-25 - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.
+* [Homepage](https://github.com/gethomepage/homepage) ⭐ 33,638 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-12 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
+* [Dashy](https://github.com/Lissy93/dashy) ⭐ 26,982 | 🐛 15 | 🌐 Vue | 📅 2026-11-07 - Feature-rich, self-hosted start page for your browser or homelab.
+* [Heimdall](https://github.com/linuxserver/Heimdall) ⭐ 9,408 | 🐛 7 | 🌐 PHP | 📅 2026-10-29 - Server-service based application orientated dashboard.
+* [flame](https://github.com/pawelmalak/flame) ⭐ 6,669 | 🐛 183 | 🌐 TypeScript | 📅 2026-06-25 - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.
 * [Organizr](https://github.com/causefx/Organizr) ⭐ 5,828 | 🐛 31 | 🌐 PHP | 📅 2026-05-19 - Organizr allows you to setup "Tabs" that will be loaded all in one webpage.
 * [Bento](https://github.com/MiguelRAvila/Bento) ⭐ 2,200 | 🐛 22 | 🌐 JavaScript | 📅 2025-04-21 - Bento is an local/self-hosted tile-based clean startpage.
 * [Mafl](https://github.com/hywax/mafl) ⭐ 761 | 🐛 49 | 🌐 TypeScript | 📅 2026-06-07 - Minimalistic flexible homepage.
 * [Excalith Start Page](https://github.com/excalith/excalith-start-page) ⭐ 749 | 🐛 5 | 🌐 JavaScript | 📅 2025-04-05 - A Terminal-inspired, clean, feature-rich and customizable start page for geeks.
 * [Jump](https://github.com/daledavies/jump) ⭐ 606 | 🐛 19 | 🌐 PHP | 📅 2026-10-22 - Self-hosted startpage designed to be simple, stylish, fast and secure.
 * [Modular Grid Page](https://github.com/timothypholmes/startup-page) ⭐ 530 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-30 - Modular Grid Start Page for your Browser.
-* [startertab](https://github.com/allister-grange/startertab) ⭐ 413 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-30 - A custom new tab page, keeping all the best info handy.
-* [fluidity](https://github.com/PrettyCoffee/fluidity) ⭐ 367 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-11 - Super smooth and stylish startpage. Tuned aesthetic.
+* [startertab](https://github.com/allister-grange/startertab) ⭐ 412 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-30 - A custom new tab page, keeping all the best info handy.
+* [fluidity](https://github.com/PrettyCoffee/fluidity) ⭐ 367 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-12 - Super smooth and stylish startpage. Tuned aesthetic.
 * [Tartarus](https://github.com/AllJavi/tartarus-startpage) ⭐ 330 | 🐛 2 | 🌐 JavaScript | 📅 2023-11-19 - Aesthetic and clean startpage with material gruvbox style, designed for smooth usage.
 * [root](https://github.com/imreyesjorge/root-startpage) ⭐ 284 | 🐛 2 | 🌐 JavaScript | 📅 2023-09-19 - Root is a start-page aimed to simplicity and elegance.
 * [pomme-page](https://github.com/kikiklang/pomme-page) ⭐ 218 | 🐛 0 | 🌐 JavaScript | 📅 2022-03-03 - Pretty cool startpage with colorful tiles.
@@ -74,7 +74,7 @@
 * [grtcdr's startpages](https://github.com/grtcdr/startpages) ⚠️ Archived - grtcdr's awesome collection of clean, good looking, startpages. Love the Nodric one!
 * [HomeTerm](https://github.com/Jaredk3nt/HomeTerm) ⭐ 162 | 🐛 6 | 🌐 JavaScript | 📅 2020-12-09 - A homepage disguised as a toy terminal.
 * [Tea Green](https://github.com/sadparadiseinhell/tea-green) ⭐ 81 | 🐛 0 | 🌐 CSS | 📅 2021-01-14 - Startpage with Weather and To-Do List features.
-* [StartOS](https://github.com/Jaredk3nt/startos) ⭐ 67 | 🐛 0 | 🌐 JavaScript | 📅 2020-10-06 - A different take on startpages. StartOS will bring you back the 90s.
+* [StartOS](https://github.com/Jaredk3nt/startos) ⭐ 68 | 🐛 0 | 🌐 JavaScript | 📅 2020-10-06 - A different take on startpages. StartOS will bring you back the 90s.
 * [null](https://github.com/sadparadiseinhell/null) ⭐ 59 | 🐛 1 | 🌐 JavaScript | 📅 2021-03-11 - Another one simple startpage.
 * [Minimal-StartPage](https://github.com/Nimplex/Minimal-StartPage) ⭐ 35 | 🐛 0 | 🌐 HTML | 📅 2026-10-09 - Minimalistic light/darkish startpage
 * [startpage-onedark](https://github.com/AbdelrhmanNile/startpage-onedark) ⭐ 34 | 🐛 0 | 🌐 JavaScript | 📅 2021-11-12 - A minimal customizable startpage with the OneDark color palette.
@@ -120,4 +120,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
