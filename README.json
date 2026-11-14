@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-13T15:23:49Z",
+                "last_commit": "2026-11-14T12:15:03Z",
                 "open_issues": 2,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33662,
+                "stars": 33675,
                 "topics": [
                   "docker",
                   "homepage",
@@ -312,11 +312,11 @@
                 "id": 343078060,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-11-13T09:14:39Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-13T21:34:56Z",
+                "open_issues": 15,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 26995,
+                "stars": 26997,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 7,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9411,
+                "stars": 9412,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -418,7 +418,7 @@
                 "open_issues": 31,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5828,
+                "stars": 5829,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -459,7 +459,7 @@
                 "open_issues": 22,
                 "owner": "migueravila",
                 "repo": "bento",
-                "stars": 2200,
+                "stars": 2199,
                 "topics": [
                   "bento",
                   "feather-icons",
@@ -591,7 +591,7 @@
                 "open_issues": 1,
                 "owner": "timh-dev",
                 "repo": "startup-page",
-                "stars": 530,
+                "stars": 531,
                 "topics": [
                   "homepage",
                   "landing-page",
@@ -737,7 +737,7 @@
                 "open_issues": 0,
                 "owner": "kikiklang",
                 "repo": "pomme-page",
-                "stars": 218,
+                "stars": 217,
                 "topics": [
                   "binance",
                   "crypto-chart",
@@ -948,7 +948,7 @@
                 "id": 1305276627,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T14:14:43Z",
+                "last_commit": "2026-11-14T01:42:49Z",
                 "open_issues": 0,
                 "owner": "finish06",
                 "repo": "homepad",
@@ -989,11 +989,11 @@
                 "id": 396123753,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T19:12:44Z",
-                "open_issues": 67,
+                "last_commit": "2026-11-14T02:18:52Z",
+                "open_issues": 66,
                 "owner": "toboshii",
                 "repo": "hajimari",
-                "stars": 823,
+                "stars": 822,
                 "topics": [
                   "dashboard",
                   "kubernetes",
@@ -1044,7 +1044,7 @@
                 "open_issues": 1,
                 "owner": "timh-dev",
                 "repo": "startup-page",
-                "stars": 530,
+                "stars": 531,
                 "topics": [
                   "homepage",
                   "landing-page",
@@ -1100,7 +1100,7 @@
                 "open_issues": 4,
                 "owner": "ozencb",
                 "repo": "tilde-enhanced",
-                "stars": 344,
+                "stars": 343,
                 "topics": [
                   "homepage",
                   "newtab",
@@ -1534,7 +1534,7 @@
                 "open_issues": 29,
                 "owner": "mue",
                 "repo": "mue",
-                "stars": 769,
+                "stars": 770,
                 "topics": [
                   "browser-extension",
                   "chrome",
@@ -1635,7 +1635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T21:24:52.985Z",
+    "last_updated": "2026-11-14T19:55:13.981Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
@@ -1647,7 +1647,7 @@
       "open_issues": 13,
       "owner": "jnmcfly",
       "repo": "awesome-startpage",
-      "stars": 1334,
+      "stars": 1333,
       "topics": [
         "awesome",
         "awesome-list",
