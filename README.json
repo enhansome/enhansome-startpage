@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-16T23:22:31Z",
+                "last_commit": "2026-11-17T12:17:48Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33701,
+                "stars": 33712,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 15,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 27008,
+                "stars": 27014,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 7,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9416,
+                "stars": 9415,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -390,7 +390,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-06-25T12:30:10Z",
-                "open_issues": 183,
+                "open_issues": 182,
                 "owner": "pawelmalak",
                 "repo": "flame",
                 "stars": 6677,
@@ -418,7 +418,7 @@
                 "open_issues": 30,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5829,
+                "stars": 5830,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -459,7 +459,7 @@
                 "open_issues": 22,
                 "owner": "migueravila",
                 "repo": "bento",
-                "stars": 2201,
+                "stars": 2199,
                 "topics": [
                   "bento",
                   "feather-icons",
@@ -488,7 +488,7 @@
                 "open_issues": 50,
                 "owner": "hywax",
                 "repo": "mafl",
-                "stars": 762,
+                "stars": 763,
                 "topics": [
                   "application",
                   "dashboard",
@@ -552,7 +552,7 @@
                 "open_issues": 19,
                 "owner": "daledavies",
                 "repo": "jump",
-                "stars": 606,
+                "stars": 605,
                 "topics": [
                   "dashboard",
                   "directory",
@@ -708,7 +708,7 @@
                 "open_issues": 2,
                 "owner": "imreyesjorge",
                 "repo": "root-startpage",
-                "stars": 284,
+                "stars": 283,
                 "topics": [
                   "cards",
                   "fast",
@@ -1073,7 +1073,7 @@
                 "open_issues": 6,
                 "owner": "refact0r",
                 "repo": "re-start",
-                "stars": 468,
+                "stars": 469,
                 "topics": [
                   "homepage",
                   "new-tab",
@@ -1635,7 +1635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:44:12.821Z",
+    "last_updated": "2026-11-17T22:51:41.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
