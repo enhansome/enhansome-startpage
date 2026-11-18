@@ -117,7 +117,7 @@
                 "open_issues": 7,
                 "owner": "yashchaudhari008",
                 "repo": "minime",
-                "stars": 38,
+                "stars": 39,
                 "topics": [
                   "awesome-list",
                   "beginner-friendly",
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-17T12:17:48Z",
+                "last_commit": "2026-11-18T12:17:43Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33712,
+                "stars": 33728,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 15,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 27014,
+                "stars": 27023,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -348,10 +348,10 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-10-29T17:20:47Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9415,
+                "stars": 9416,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -768,7 +768,7 @@
                 "open_issues": 1,
                 "owner": "Tressley",
                 "repo": "_traichu",
-                "stars": 117,
+                "stars": 118,
                 "topics": [
                   "css3",
                   "html5",
@@ -948,7 +948,7 @@
                 "id": 1305276627,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-16T16:57:43Z",
+                "last_commit": "2026-11-18T03:40:36Z",
                 "open_issues": 0,
                 "owner": "finish06",
                 "repo": "homepad",
@@ -1073,7 +1073,7 @@
                 "open_issues": 6,
                 "owner": "refact0r",
                 "repo": "re-start",
-                "stars": 469,
+                "stars": 470,
                 "topics": [
                   "homepage",
                   "new-tab",
@@ -1483,7 +1483,7 @@
                 "open_issues": 0,
                 "owner": "rjshkhr",
                 "repo": "startpage",
-                "stars": 125,
+                "stars": 126,
                 "topics": [
                   "startpage"
                 ]
@@ -1534,7 +1534,7 @@
                 "open_issues": 29,
                 "owner": "mue",
                 "repo": "mue",
-                "stars": 771,
+                "stars": 772,
                 "topics": [
                   "browser-extension",
                   "chrome",
@@ -1635,7 +1635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T22:51:41.928Z",
+    "last_updated": "2026-11-18T22:34:45.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
