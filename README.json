@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-18T12:17:43Z",
+                "last_commit": "2026-11-19T12:17:26Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33728,
+                "stars": 33744,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 15,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 27023,
+                "stars": 27029,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 8,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9416,
+                "stars": 9417,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -418,7 +418,7 @@
                 "open_issues": 30,
                 "owner": "causefx",
                 "repo": "Organizr",
-                "stars": 5830,
+                "stars": 5829,
                 "topics": [
                   "bookmark",
                   "chat",
@@ -459,7 +459,7 @@
                 "open_issues": 22,
                 "owner": "migueravila",
                 "repo": "bento",
-                "stars": 2199,
+                "stars": 2198,
                 "topics": [
                   "bento",
                   "feather-icons",
@@ -552,7 +552,7 @@
                 "open_issues": 19,
                 "owner": "daledavies",
                 "repo": "jump",
-                "stars": 605,
+                "stars": 604,
                 "topics": [
                   "dashboard",
                   "directory",
@@ -649,7 +649,7 @@
                 "open_issues": 6,
                 "owner": "PrettyCoffee",
                 "repo": "fluidity",
-                "stars": 367,
+                "stars": 365,
                 "topics": [
                   "emotionjs",
                   "github-page",
@@ -948,7 +948,7 @@
                 "id": 1305276627,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T03:40:36Z",
+                "last_commit": "2026-11-19T18:27:27Z",
                 "open_issues": 0,
                 "owner": "finish06",
                 "repo": "homepad",
@@ -993,7 +993,7 @@
                 "open_issues": 66,
                 "owner": "toboshii",
                 "repo": "hajimari",
-                "stars": 823,
+                "stars": 822,
                 "topics": [
                   "dashboard",
                   "kubernetes",
@@ -1073,7 +1073,7 @@
                 "open_issues": 6,
                 "owner": "refact0r",
                 "repo": "re-start",
-                "stars": 470,
+                "stars": 469,
                 "topics": [
                   "homepage",
                   "new-tab",
@@ -1534,7 +1534,7 @@
                 "open_issues": 29,
                 "owner": "mue",
                 "repo": "mue",
-                "stars": 772,
+                "stars": 771,
                 "topics": [
                   "browser-extension",
                   "chrome",
@@ -1635,7 +1635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:34:45.459Z",
+    "last_updated": "2026-11-19T22:39:17.141Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
@@ -1644,10 +1644,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-19T12:07:38Z",
-      "open_issues": 13,
+      "open_issues": 14,
       "owner": "jnmcfly",
       "repo": "awesome-startpage",
-      "stars": 1333,
+      "stars": 1332,
       "topics": [
         "awesome",
         "awesome-list",
