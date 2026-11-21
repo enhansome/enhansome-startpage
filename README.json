@@ -87,7 +87,7 @@
                 "id": 442512423,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-16T17:44:25Z",
+                "last_commit": "2026-11-20T23:12:40Z",
                 "open_issues": 11,
                 "owner": "PrettyCoffee",
                 "repo": "yet-another-generic-startpage",
@@ -150,7 +150,7 @@
                 "open_issues": 0,
                 "owner": "armoredvortex",
                 "repo": "Hexstart",
-                "stars": 30,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-20T12:17:23Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-21T12:15:33Z",
+                "open_issues": 2,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33762,
+                "stars": 33770,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 15,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 27035,
+                "stars": 27044,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 9,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9419,
+                "stars": 9421,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 182,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6678,
+                "stars": 6679,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -415,7 +415,7 @@
                 "language": "PHP",
                 "license": "GPL-3.0",
                 "last_commit": "2026-05-19T23:24:29Z",
-                "open_issues": 30,
+                "open_issues": 32,
                 "owner": "causefx",
                 "repo": "Organizr",
                 "stars": 5829,
@@ -676,7 +676,7 @@
                 "open_issues": 2,
                 "owner": "AllJavi",
                 "repo": "tartarus-startpage",
-                "stars": 330,
+                "stars": 331,
                 "topics": [
                   "anime",
                   "chrome",
@@ -873,6 +873,27 @@
             },
             {
               "node_type": "item",
+              "title": "MSP - Modern Start Page",
+              "description": "Modern, self-hosted startpage with bookmarks, search, widgets and theme customization. Built with Astro and React.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Modern, self-hosted startpage with bookmarks, search, widgets and theme customization. Built with Astro and React.",
+                "homepage": null,
+                "id": 961127668,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-04-04T22:14:26Z",
+                "open_issues": 4,
+                "owner": "ericblue",
+                "repo": "modern-start-page",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:00:44.903Z"
+            },
+            {
+              "node_type": "item",
               "title": "Minimalist-Startpage",
               "description": "Minimalist startpage with light/dark theme, also useful to change between searchers.",
               "children": [],
@@ -891,27 +912,6 @@
                 "topics": [
                   "startpage"
                 ]
-              },
-              "first_seen": "2026-08-29T00:00:44.903Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MSP - Modern Start Page",
-              "description": "Modern, self-hosted startpage with bookmarks, search, widgets and theme customization. Built with Astro and React.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Modern, self-hosted startpage with bookmarks, search, widgets and theme customization. Built with Astro and React.",
-                "homepage": null,
-                "id": 961127668,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-04-04T22:14:26Z",
-                "open_issues": 4,
-                "owner": "ericblue",
-                "repo": "modern-start-page",
-                "stars": 15,
-                "topics": []
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
             },
@@ -948,7 +948,7 @@
                 "id": 1305276627,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-20T07:28:25Z",
+                "last_commit": "2026-11-21T20:30:57Z",
                 "open_issues": 0,
                 "owner": "finish06",
                 "repo": "homepad",
@@ -1534,7 +1534,7 @@
                 "open_issues": 29,
                 "owner": "mue",
                 "repo": "mue",
-                "stars": 771,
+                "stars": 773,
                 "topics": [
                   "browser-extension",
                   "chrome",
@@ -1635,7 +1635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:14:21.716Z",
+    "last_updated": "2026-11-21T20:53:39.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
