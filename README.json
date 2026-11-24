@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "kholmogorov27",
                 "repo": "chevron",
-                "stars": 405,
+                "stars": 404,
                 "topics": [
                   "animated",
                   "artificial-intelligence",
@@ -204,7 +204,7 @@
                     "open_issues": 0,
                     "owner": "pivoshenko",
                     "repo": "catppuccin-startpage",
-                    "stars": 317,
+                    "stars": 316,
                     "topics": [
                       "awesome-homepage",
                       "awesome-startpage",
@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-24T00:29:33Z",
+                "last_commit": "2026-11-24T12:18:47Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33797,
+                "stars": 33812,
                 "topics": [
                   "docker",
                   "homepage",
@@ -316,7 +316,7 @@
                 "open_issues": 15,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 27057,
+                "stars": 27063,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 8,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9422,
+                "stars": 9423,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -390,10 +390,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-06-25T12:30:10Z",
-                "open_issues": 182,
+                "open_issues": 183,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6686,
+                "stars": 6687,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -459,7 +459,7 @@
                 "open_issues": 22,
                 "owner": "migueravila",
                 "repo": "bento",
-                "stars": 2199,
+                "stars": 2200,
                 "topics": [
                   "bento",
                   "feather-icons",
@@ -866,7 +866,7 @@
                 "open_issues": 0,
                 "owner": "TheMY3",
                 "repo": "dawn-startpage",
-                "stars": 21,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:44.903Z"
@@ -948,7 +948,7 @@
                 "id": 1305276627,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-24T02:01:53Z",
+                "last_commit": "2026-11-24T21:55:01Z",
                 "open_issues": 0,
                 "owner": "finish06",
                 "repo": "homepad",
@@ -989,7 +989,7 @@
                 "id": 396123753,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T17:10:59Z",
+                "last_commit": "2026-11-24T07:15:44Z",
                 "open_issues": 65,
                 "owner": "toboshii",
                 "repo": "hajimari",
@@ -1635,7 +1635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T02:10:13.910Z",
+    "last_updated": "2026-11-24T23:52:27.814Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",

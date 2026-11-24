@@ -22,13 +22,13 @@
 
 ### GitHub Pages
 
-* [Chevron](https://github.com/kholmogorov27/chevron) ⭐ 405 | 🐛 9 | 🌐 JavaScript | 📅 2024-04-17 - Chevron is an animated, minimalistic and highly customisable startpage. Available in Static, Hosted and Github Pages options.
+* [Chevron](https://github.com/kholmogorov27/chevron) ⭐ 404 | 🐛 9 | 🌐 JavaScript | 📅 2024-04-17 - Chevron is an animated, minimalistic and highly customisable startpage. Available in Static, Hosted and Github Pages options.
 * [Prismatic-Night](https://github.com/dbuxy218/Prismatic-Night) ⚠️ Archived - Pretty sophisticated startpage, hosted on GitHub Pages.
 * [Yet another generic startpage](https://github.com/PrettyCoffee/yet-another-generic-startpage) ⭐ 320 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-20 - Classic startpage layout. Extensive customizability.
 * [Minime](https://github.com/yashchaudhari008/minime) ⭐ 39 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-13 - Minimalistic homepage with tabular bookmarks.
 * [Hexstart](https://github.com/ArmoredVortex/Hexstart) ⭐ 29 | 🐛 0 | 🌐 HTML | 📅 2026-01-18 - Highly customisable minimal startpage with hexagonal tiles, hosted on Github Pages.
 * [GTA-SA Menu Startpage](https://github.com/wjkba/gta-sa-menu-startpage) ⭐ 22 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-21 - Start page that looks like the iconic GTA San Andreas menu.
-* * [Catppuccin Startpage](https://github.com/pivoshenko/catppuccin-startpage) ⭐ 317 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-06 - Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages.
+* * [Catppuccin Startpage](https://github.com/pivoshenko/catppuccin-startpage) ⭐ 316 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-06 - Aesthetic and clean startpage in Catppuccin style, hosted on GitHub Pages.
 
 ### Cloudflare Pages
 
@@ -36,12 +36,12 @@
 
 ### Hosted
 
-* [Homepage](https://github.com/gethomepage/homepage) ⭐ 33,797 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-24 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
-* [Dashy](https://github.com/Lissy93/dashy) ⭐ 27,057 | 🐛 15 | 🌐 Vue | 📅 2026-11-22 - Feature-rich, self-hosted start page for your browser or homelab.
-* [Heimdall](https://github.com/linuxserver/Heimdall) ⭐ 9,422 | 🐛 8 | 🌐 PHP | 📅 2026-10-29 - Server-service based application orientated dashboard.
-* [flame](https://github.com/pawelmalak/flame) ⭐ 6,686 | 🐛 182 | 🌐 TypeScript | 📅 2026-06-25 - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.
+* [Homepage](https://github.com/gethomepage/homepage) ⭐ 33,812 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-24 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
+* [Dashy](https://github.com/Lissy93/dashy) ⭐ 27,063 | 🐛 15 | 🌐 Vue | 📅 2026-11-22 - Feature-rich, self-hosted start page for your browser or homelab.
+* [Heimdall](https://github.com/linuxserver/Heimdall) ⭐ 9,423 | 🐛 8 | 🌐 PHP | 📅 2026-10-29 - Server-service based application orientated dashboard.
+* [flame](https://github.com/pawelmalak/flame) ⭐ 6,687 | 🐛 183 | 🌐 TypeScript | 📅 2026-06-25 - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.
 * [Organizr](https://github.com/causefx/Organizr) ⭐ 5,831 | 🐛 33 | 🌐 PHP | 📅 2026-05-19 - Organizr allows you to setup "Tabs" that will be loaded all in one webpage.
-* [Bento](https://github.com/MiguelRAvila/Bento) ⭐ 2,199 | 🐛 22 | 🌐 JavaScript | 📅 2025-04-21 - Bento is an local/self-hosted tile-based clean startpage.
+* [Bento](https://github.com/MiguelRAvila/Bento) ⭐ 2,200 | 🐛 22 | 🌐 JavaScript | 📅 2025-04-21 - Bento is an local/self-hosted tile-based clean startpage.
 * [Mafl](https://github.com/hywax/mafl) ⭐ 763 | 🐛 50 | 🌐 TypeScript | 📅 2026-06-07 - Minimalistic flexible homepage.
 * [Excalith Start Page](https://github.com/excalith/excalith-start-page) ⭐ 746 | 🐛 5 | 🌐 JavaScript | 📅 2025-04-05 - A Terminal-inspired, clean, feature-rich and customizable start page for geeks.
 * [Jump](https://github.com/daledavies/jump) ⭐ 604 | 🐛 19 | 🌐 PHP | 📅 2026-10-22 - Self-hosted startpage designed to be simple, stylish, fast and secure.
@@ -55,7 +55,7 @@
 * [Galax's Startpage](https://github.com/Galax028/startpage) ⚠️ Archived - A minimal startpage made in React.js with customizable bookmarks.
 * [Tokyonight-Startpage](https://github.com/Terminal127/tokyonight-startpage) ⭐ 36 | 🐛 0 | 🌐 JavaScript | 📅 2024-10-24 - A Hackable start-page in Tokyonight Color Scheme.
 * [Nordic Goose](https://github.com/PrettyCoffee/nordic-goose) ⭐ 25 | 🐛 1 | 🌐 TypeScript | 📅 2023-04-13 - Nordic goose is a new tab extension (aka startpage) with nord colors and a dancing goose.
-* [Dawn](https://github.com/TheMY3/dawn-startpage) ⭐ 21 | 🐛 0 | 🌐 JavaScript | 📅 2025-03-17 - Clean Nord-themed startpage with hotkey support, dynamic configuration, and Chrome extension compatibility.
+* [Dawn](https://github.com/TheMY3/dawn-startpage) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2025-03-17 - Clean Nord-themed startpage with hotkey support, dynamic configuration, and Chrome extension compatibility.
 * [MSP - Modern Start Page](https://github.com/ericblue/modern-start-page) ⭐ 16 | 🐛 4 | 🌐 TypeScript | 📅 2026-04-04 - Modern, self-hosted startpage with bookmarks, search, widgets and theme customization. Built with Astro and React.
 * [Minimalist-Startpage](https://github.com/ropoko/Startpage) ⭐ 15 | 🐛 0 | 🌐 CSS | 📅 2022-03-15 - Minimalist startpage with light/dark theme, also useful to change between searchers.
 * [startpage-zwei](https://github.com/Thomashighbaugh/startpage-zwei) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-20 - Startpage for your browser in Next.js using Typescript and Tailwind.css with Motion Animations
@@ -63,7 +63,7 @@
 
 ### Static
 
-* [hajimari](https://github.com/toboshii/hajimari) ⭐ 822 | 🐛 65 | 🌐 Go | 📅 2026-11-16 - Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
+* [hajimari](https://github.com/toboshii/hajimari) ⭐ 822 | 🐛 65 | 🌐 Go | 📅 2026-11-24 - Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
 * [Jaredk3nt's homepage](https://github.com/Jaredk3nt/homepage) ⭐ 539 | 🐛 3 | 🌐 HTML | 📅 2024-07-22 - Custom homepage for use locally in browser.
 * [Modular Startpage](https://github.com/timothypholmes/startup-page) ⭐ 532 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-30 - Grid startpage with many different component panels.
 * [re-start](https://github.com/refact0r/re-start) ⭐ 469 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-01 - A TUI-like startpage with weather, Todoist integration, and other features.
