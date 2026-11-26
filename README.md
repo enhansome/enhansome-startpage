@@ -36,10 +36,10 @@
 
 ### Hosted
 
-* [Homepage](https://github.com/gethomepage/homepage) ⭐ 33,829 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-25 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
-* [Dashy](https://github.com/Lissy93/dashy) ⭐ 27,071 | 🐛 15 | 🌐 Vue | 📅 2026-11-22 - Feature-rich, self-hosted start page for your browser or homelab.
-* [Heimdall](https://github.com/linuxserver/Heimdall) ⭐ 9,426 | 🐛 8 | 🌐 PHP | 📅 2026-10-29 - Server-service based application orientated dashboard.
-* [flame](https://github.com/pawelmalak/flame) ⭐ 6,689 | 🐛 183 | 🌐 TypeScript | 📅 2026-06-25 - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.
+* [Homepage](https://github.com/gethomepage/homepage) ⭐ 33,839 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-26 - A modern, static, self-hosted dashboard offering fast performance, full proxy security, high customization, 100+ service integrations, multiple language translations, and easy configuration via YAML or docker labels.
+* [Dashy](https://github.com/Lissy93/dashy) ⭐ 27,079 | 🐛 15 | 🌐 Vue | 📅 2026-11-26 - Feature-rich, self-hosted start page for your browser or homelab.
+* [Heimdall](https://github.com/linuxserver/Heimdall) ⭐ 9,427 | 🐛 8 | 🌐 PHP | 📅 2026-10-29 - Server-service based application orientated dashboard.
+* [flame](https://github.com/pawelmalak/flame) ⭐ 6,692 | 🐛 183 | 🌐 TypeScript | 📅 2026-06-25 - Its design is inspired (heavily) by SUI. Flame is very easy to setup and use.
 * [Organizr](https://github.com/causefx/Organizr) ⭐ 5,831 | 🐛 33 | 🌐 PHP | 📅 2026-05-19 - Organizr allows you to setup "Tabs" that will be loaded all in one webpage.
 * [Bento](https://github.com/MiguelRAvila/Bento) ⭐ 2,201 | 🐛 22 | 🌐 JavaScript | 📅 2025-04-21 - Bento is an local/self-hosted tile-based clean startpage.
 * [Mafl](https://github.com/hywax/mafl) ⭐ 763 | 🐛 50 | 🌐 TypeScript | 📅 2026-06-07 - Minimalistic flexible homepage.
@@ -59,12 +59,12 @@
 * [MSP - Modern Start Page](https://github.com/ericblue/modern-start-page) ⭐ 16 | 🐛 4 | 🌐 TypeScript | 📅 2026-04-04 - Modern, self-hosted startpage with bookmarks, search, widgets and theme customization. Built with Astro and React.
 * [Minimalist-Startpage](https://github.com/ropoko/Startpage) ⭐ 15 | 🐛 0 | 🌐 CSS | 📅 2022-03-15 - Minimalist startpage with light/dark theme, also useful to change between searchers.
 * [startpage-zwei](https://github.com/Thomashighbaugh/startpage-zwei) ⭐ 14 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-20 - Startpage for your browser in Next.js using Typescript and Tailwind.css with Motion Animations
-* [Homepad](https://github.com/finish06/homepad) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-25 - Self-hosted dashboard for households with per-person favorites and order, live status from Gatus, OIDC login, and an installable PWA.
+* [Homepad](https://github.com/finish06/homepad) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-26 - Self-hosted dashboard for households with per-person favorites and order, live status from Gatus, OIDC login, and an installable PWA.
 
 ### Static
 
-* [hajimari](https://github.com/toboshii/hajimari) ⭐ 822 | 🐛 65 | 🌐 Go | 📅 2026-11-25 - Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
-* [Jaredk3nt's homepage](https://github.com/Jaredk3nt/homepage) ⭐ 540 | 🐛 3 | 🌐 HTML | 📅 2024-07-22 - Custom homepage for use locally in browser.
+* [hajimari](https://github.com/toboshii/hajimari) ⭐ 822 | 🐛 65 | 🌐 Go | 📅 2026-11-26 - Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
+* [Jaredk3nt's homepage](https://github.com/Jaredk3nt/homepage) ⭐ 541 | 🐛 3 | 🌐 HTML | 📅 2024-07-22 - Custom homepage for use locally in browser.
 * [Modular Startpage](https://github.com/timothypholmes/startup-page) ⭐ 532 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-30 - Grid startpage with many different component panels.
 * [re-start](https://github.com/refact0r/re-start) ⭐ 469 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-01 - A TUI-like startpage with weather, Todoist integration, and other features.
 * [Tilde Enhanced](https://github.com/Ozencb/tilde-enhanced) ⭐ 344 | 🐛 4 | 🌐 JavaScript | 📅 2024-04-20 - A minimal startpage for your browser.
@@ -120,4 +120,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._

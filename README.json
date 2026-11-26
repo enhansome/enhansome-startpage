@@ -283,11 +283,11 @@
                 "id": 528313152,
                 "language": "JavaScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-25T12:18:39Z",
+                "last_commit": "2026-11-26T16:51:47Z",
                 "open_issues": 1,
                 "owner": "gethomepage",
                 "repo": "homepage",
-                "stars": 33829,
+                "stars": 33839,
                 "topics": [
                   "docker",
                   "homepage",
@@ -312,11 +312,11 @@
                 "id": 343078060,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-11-22T22:20:54Z",
+                "last_commit": "2026-11-26T16:22:23Z",
                 "open_issues": 15,
                 "owner": "lissy93",
                 "repo": "dashy",
-                "stars": 27071,
+                "stars": 27079,
                 "topics": [
                   "awesome",
                   "dashboard",
@@ -351,7 +351,7 @@
                 "open_issues": 8,
                 "owner": "linuxserver",
                 "repo": "Heimdall",
-                "stars": 9426,
+                "stars": 9427,
                 "topics": [
                   "application-dashboard",
                   "bookmark",
@@ -393,7 +393,7 @@
                 "open_issues": 183,
                 "owner": "pawelmalak",
                 "repo": "flame",
-                "stars": 6689,
+                "stars": 6692,
                 "topics": [
                   "homepage",
                   "self-hosted",
@@ -948,7 +948,7 @@
                 "id": 1305276627,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-25T22:41:49Z",
+                "last_commit": "2026-11-26T22:14:15Z",
                 "open_issues": 0,
                 "owner": "finish06",
                 "repo": "homepad",
@@ -989,7 +989,7 @@
                 "id": 396123753,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T22:14:08Z",
+                "last_commit": "2026-11-26T18:18:18Z",
                 "open_issues": 65,
                 "owner": "toboshii",
                 "repo": "hajimari",
@@ -1018,7 +1018,7 @@
                 "open_issues": 3,
                 "owner": "Jaredk3nt",
                 "repo": "homepage",
-                "stars": 540,
+                "stars": 541,
                 "topics": [
                   "homepage",
                   "startpage",
@@ -1635,7 +1635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T23:36:10.466Z",
+    "last_updated": "2026-11-26T23:48:53.325Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a carefully compiled list of remarkable projects with the focus on startpages.",
